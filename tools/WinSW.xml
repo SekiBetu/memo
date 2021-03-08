@@ -1,0 +1,7 @@
+<service>
+  <id>UnblockNeteaseMusic</id>
+  <name>UnblockNeteaseMusic</name>
+  <description>解锁网易云音乐客户端变灰歌曲</description>
+  <executable>UnblockNeteaseMusic.exe</executable>
+  <arguments>-p 11111</arguments>
+</service>

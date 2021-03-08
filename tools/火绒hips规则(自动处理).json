@@ -1,0 +1,52 @@
+{
+    "ver":"5.0",
+    "tag":"hipsuser_auto",
+    "data":{
+        "*\\Program Files (x86)\\Internet Explorer\\*":[
+            {
+                "res_path":"*\\Temporary Internet Files*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            }
+        ],
+        "*\\Firefox*\\*":[
+            {
+                "res_path":"*\\places.sqlite*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            }
+        ],
+        "*\\Opera\\*":[
+            {
+                "res_path":"*\\Opera\\global*history.dat",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            }
+        ],
+        "*\\Google\\Chrome*":[
+            {
+                "res_path":"*\\Google\\Chrome\\User*Data\\Default*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            }
+        ],
+        "*\\Tencent\\QQ\\*":[
+            {
+                "res_path":"*Tencent*\\*",
+                "montype":0,
+                "action_type":16,
+                "treatment":237959160
+            },
+            {
+                "res_path":"*Tencent*\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            }
+        ]
+    }
+}

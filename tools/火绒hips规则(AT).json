@@ -1,0 +1,34 @@
+﻿{
+    "ver":"5.0",
+    "tag":"hipsuser",
+    "data":[
+        {
+            "id":66,
+            "power":1,
+            "name":"保护Qv2ray",
+            "procname":"*\\AlibabaProtect.exe",
+            "treatment":3,
+            "policies":[
+                {
+                    "montype":1,
+                    "action_type":15,
+                    "res_path":"*\\Qv2ray\\*"
+                }
+            ]
+        },
+        {
+            "id":67,
+            "power":1,
+            "name":"防止QQ读取系统代理",
+            "procname":"*\\QQ.exe",
+            "treatment":3,
+            "policies":[
+                {
+                    "montype":2,
+                    "action_type":15,
+                    "res_path":"HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyEnable"
+                }
+            ]
+        }
+    ]
+}
