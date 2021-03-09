@@ -5,7 +5,7 @@
         {
             "id":66,
             "power":1,
-            "name":"保护Qv2ray",
+            "name":"保护代理",
             "procname":"*\\AlibabaProtect.exe",
             "treatment":3,
             "policies":[
@@ -13,6 +13,11 @@
                     "montype":1,
                     "action_type":15,
                     "res_path":"*\\Qv2ray\\*"
+                },
+                {
+                    "montype":1,
+                    "action_type":15,
+                    "res_path":"*\\v2rayN\\*"
                 }
             ]
         },
