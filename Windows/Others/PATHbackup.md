@@ -1,52 +1,58 @@
 
-%JAVA_HOME%\bin\;C:\ffmpeg\;C:\ffmpeg\bin;C:\Program Files\dotnet\;C:\Program Files\PowerShell\7\;C:\Program Files (x86)\gsudo\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\;C:\Windows\;C:\Windows\system32\;C:\Windows\System32\Wbem\;C:\Windows\System32\WindowsPowerShell\v1.0\;S:\develop\Git\cmd;S:\develop\Git\usr\bin\;S:\develop\Go\bin\;S:\develop\Nodejs\;S:\develop\PuTTY\;S:\develop\Python\Python39\;S:\develop\Python\Python39\Scripts\;S:\develop\TDM-GCC-64\bin\;S:\develop\VSCode\bin\;S:\develop\WinSCP\;S:\hexo\node_modules\\.bin\;S:\Program Files\VMware\bin\;V:\RootTools\platform-tools\;V:\Videos\;
+C:\ffmpeg\;C:\Program Files\dotnet\;C:\Program Files\PowerShell\7\;C:\Program Files (x86)\gsudo\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\;C:\Windows\;C:\Windows\system32\;C:\Windows\System32\Wbem\;C:\Windows\System32\WindowsPowerShell\v1.0\;S:\develop\Git\cmd\;S:\develop\Git\usr\bin\;S:\develop\Go\bin\;S:\develop\Gradle\gradle-7.4.2\bin\;S:\develop\Nodejs\;S:\develop\PuTTY\;S:\develop\Python\Python39\;S:\develop\Python\Python39\Scripts\;S:\develop\TDM-GCC-64\bin\;S:\develop\VSCode\bin\;S:\develop\WinSCP\;S:\hexo\node_modules\\.bin\;S:\Program Files\VMware\bin\;V:\RootTools\platform-tools\;%JAVA_HOME%\bin\;%SystemRoot%\system32\;%SystemRoot%\;%SystemRoot%\System32\Wbem\;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;
 
-%JAVA_HOME%\bin\
+C:\ffmpeg\;
 
-C:\ffmpeg\
+C:\Program Files\dotnet\;
 
-C:\ffmpeg\bin
+C:\Program Files\PowerShell\7\;
 
-C:\Program Files\dotnet\
+C:\Program Files (x86)\gsudo\;
 
-C:\Program Files\PowerShell\7\
+C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\;
 
-C:\Program Files (x86)\gsudo\
+C:\Windows\;
 
-C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\
+C:\Windows\system32\;
 
-C:\Windows\
+C:\Windows\System32\Wbem\;
 
-C:\Windows\system32\
+C:\Windows\System32\WindowsPowerShell\v1.0\;
 
-C:\Windows\System32\Wbem\
+S:\develop\Git\cmd\;
 
-C:\Windows\System32\WindowsPowerShell\v1.0\
+S:\develop\Git\usr\bin\;
 
-S:\develop\Git\cmd
+S:\develop\Go\bin\;
 
-S:\develop\Git\usr\bin\
+S:\develop\Gradle\gradle-7.4.2\bin\;
 
-S:\develop\Go\bin\
+S:\develop\Nodejs\;
 
-S:\develop\Nodejs\
+S:\develop\PuTTY\;
 
-S:\develop\PuTTY\
+S:\develop\Python\Python39\;
 
-S:\develop\Python\Python39\
+S:\develop\Python\Python39\Scripts\;
 
-S:\develop\Python\Python39\Scripts\
+S:\develop\TDM-GCC-64\bin\;
 
-S:\develop\TDM-GCC-64\bin\
+S:\develop\VSCode\bin\;
 
-S:\develop\VSCode\bin\
+S:\develop\WinSCP\;
 
-S:\develop\WinSCP\
+S:\hexo\node_modules\\.bin\;
 
-S:\hexo\node_modules\\.bin\
+S:\Program Files\VMware\bin\;
 
-S:\Program Files\VMware\bin\
+V:\RootTools\platform-tools\;
 
-V:\RootTools\platform-tools\
+%JAVA_HOME%\bin\;
 
-V:\Videos\
+%SystemRoot%\system32\;
+
+%SystemRoot%\;
+
+%SystemRoot%\System32\Wbem\;
+
+%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;
