@@ -1,0 +1,13 @@
+<service>
+  <id>QQCacheCleaner</id>
+  <name>清理QQ缓存</name>
+  <description>清理QQ缓存</description>
+  <executable>QQCacheCleaner.bat</executable>
+  <logmode>rotate</logmode>
+  <logpath>log</logpath>
+  <priority>Normal</priority>
+  <startmode>Automatic</startmode>
+  <delayedAutoStart>true</delayedAutoStart>
+  <onfailure action="restart" delay="60 sec"/>
+  <onfailure action="restart" delay="120 sec"/>
+</service>
