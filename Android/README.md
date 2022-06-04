@@ -160,11 +160,11 @@
 
 - [【LSPosed Module】QX模块/微X模块](https://t.me/fk_zhang)、[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)
 
-- ~~[【LSPosed Module】应用变量](https://github.com/NekoGirlSAIKOU/AppEnv-Kotlin/releases)、[【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook/releases)~~
+- ~~[【LSPosed Module】应用变量](https://github.com/NekoGirlSAIKOU/AppEnv-Kotlin/releases)~~、[【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook/releases)
 
-- [【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)
+- ~~[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)~~
 
-- ~~[【LSPosed Module】杜比大喇叭β版](https://github.com/nining377/dolby_beta/releases)~~、[后续维护版](https://github.com/luoxingran/dolby_beta/releases)
+- ~~[【LSPosed Module】杜比大喇叭β版](https://github.com/nining377/dolby_beta/releases)、[后续维护版](https://github.com/luoxingran/dolby_beta/releases)~~、[叼毛网抑云](https://github.com/Xposed-Modules-Repo/com.blanke.diaomao163/releases)
 
 ## Proxy
 
