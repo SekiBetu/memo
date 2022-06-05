@@ -666,6 +666,7 @@ auto_delete=2                        # 退出MPV后清理本次使用时产生�
 - [Git Master](https://github.com/ineo6/git-master)
 - [IDM Integration Module](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 - [JSON Viewer](https://github.com/tulios/json-viewer)
+- [QZoneExport](https://github.com/ShunCai/QZoneExport)
 - [mirigana](https://github.com/mirigana/mirigana)
 - [Refined GitHub](https://github.com/refined-github/refined-github)
 - [ScrollAnywhere](https://chrome.google.com/webstore/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi)
