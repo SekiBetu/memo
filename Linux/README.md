@@ -68,6 +68,11 @@ systemctl restart sshd
 ```
 
 ```shell
+echo 'export PS1="$PS1\[\e]1337;CurrentDir="'$(pwd)\a\]''>>~/.bashrc
+source ~/.bashrc
+```
+
+```shell
 kill -9 $(ps -ef | grep record | grep -v grep | awk '{print $2}')
 ```
 
