@@ -61,6 +61,7 @@ Port 22
 PermitRootLogin no
 PubkeyAuthentication yes
 PasswordAuthentication no
+RSAAuthentication yes
 Subsystem sftp sudo /usr/lib/openssh/sftp-server
 
 systemctl restart sshd
