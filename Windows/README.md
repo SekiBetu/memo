@@ -614,7 +614,7 @@ auto_delete=2                        # 退出MPV后清理本次使用时产生�
 
 - [Temurin](https://adoptium.net/)、[Oracle JDK](https://www.oracle.com/java/technologies/downloads/)、[Semeru(openj9)](https://developer.ibm.com/languages/java/semeru-runtimes/downloads/)、[Zulu](https://www.azul.com/downloads/)
 - [Windows Terminal](https://github.com/microsoft/terminal/releases)
-- [WindTerm](https://github.com/kingToolbox/WindTerm)、[Termius](https://www.termius.com/windows)、[PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)、[WinSCP](https://winscp.net/eng/download.php)
+- [electerm](https://github.com/electerm/electerm/releases)、~~[WindTerm](https://github.com/kingToolbox/WindTerm)、~~[Termius](https://www.termius.com/windows)~~、[PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)、[WinSCP](https://winscp.net/eng/download.php)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)、[JetBrains Mono](https://www.jetbrains.com/lp/mono/)、[patch](https://zhile.io/)
 - [git](https://github.com/git-for-windows/git/releases)
 - [AnotherRedisDesktopManager](https://github.com/qishibo/anotherredisdesktopmanager/releases)
