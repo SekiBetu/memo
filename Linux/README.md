@@ -68,7 +68,7 @@ systemctl restart sshd
 ```
 
 ```shell
-echo 'export PS1="$PS1\[\e]1337;CurrentDir="'$(pwd)\a\]''>>~/.bashrc
+export PS1="$PS1\[\e]1337;CurrentDir="'$(pwd)\a\]'
 source ~/.bashrc
 ```
 
