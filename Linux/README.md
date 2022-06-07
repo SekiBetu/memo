@@ -335,6 +335,10 @@ curl -OJL https://github.com/cssxsh/bilibili-helper/releases/download/v1.5.1/bil
 curl -OJL https://github.com/gnuf0rce/rss-helper/releases/download/v1.2.1/rss-helper-1.2.1.mirai2.jar
 curl -OJL https://github.com/project-mirai/chat-command/releases/download/0.5.1/chat-command-0.5.1.jar
 cd .. ; ./mcl -u
+
+# config.json 换源
+# mirai repo: https://raw.githubusercontent.com/project-mirai/mirai-repo-mirror/master
+# maven repo: https://repo1.maven.org/maven2
 ```
 
 ```shell
