@@ -336,7 +336,7 @@ mkdir -p mirai ; cd mirai
 curl -OJL https://github.com/iTXTech/mirai-console-loader/releases/download/v2.1.0/mcl-2.1.0.zip
 unzip mcl-2.1.0.zip ; chmod +x mcl
 mkdir -p plugins ; cd plugins
-curl -OJL https://github.com/cssxsh/bilibili-helper/releases/download/v1.5.1/bilibili-helper-1.5.1.mirai2.jar
+curl -OJL https://github.com/cssxsh/bilibili-helper/releases/download/v1.6.0-M1/bilibili-helper-1.6.0-M1.mirai2.jar
 curl -OJL https://github.com/gnuf0rce/rss-helper/releases/download/v1.2.1/rss-helper-1.2.1.mirai2.jar
 curl -OJL https://github.com/project-mirai/chat-command/releases/download/0.5.1/chat-command-0.5.1.jar
 cd .. ; ./mcl -u
