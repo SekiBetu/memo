@@ -39,8 +39,8 @@ export PATH=$HOME/.local/bin:$PATH
 source ~/.bashrc
 
 sudo rm -rf $(go env GOROOT)
-curl -OJL https://go.dev/dl/go1.18.2.linux-amd64.tar.gz
-sudo tar -C /usr/local -xzf go1.18.2.linux-amd64.tar.gz ; sudo rm go1.18.2.linux-amd64.tar.gz
+curl -OJL https://go.dev/dl/go1.18.3.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.18.3.linux-amd64.tar.gz ; sudo rm go1.18.3.linux-amd64.tar.gz
 echo 'export PATH=$PATH:/usr/local/go/bin'>>~/.bashrc
 export PATH=$PATH:/usr/local/go/bin
 
