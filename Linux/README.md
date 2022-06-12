@@ -305,7 +305,7 @@ source ~/.bashrc
 https://github.com/aristocratos/btop/releases
 ```shell
 mkdir -p btop ; cd btop
-curl -OJL https://github.com/aristocratos/btop/releases/download/v1.2.7/btop-x86_64-linux-musl.tbz
+curl -OJL https://github.com/aristocratos/btop/releases/latest/download/btop-x86_64-linux-musl.tbz
 tar -xjvf btop-x86_64-linux-musl.tbz
 sudo make install ; sudo make setuid
 cd .. ; sudo rm -rf btop/
@@ -317,7 +317,7 @@ cd .. ; sudo rm -rf btop/
 https://github.com/JustArchiNET/ArchiSteamFarm/releases/
 
 ```shell
-curl -OJL https://github.com/JustArchiNET/ArchiSteamFarm/releases/download/5.2.6.3/ASF-linux-x64.zip ; unzip ASF-linux-x64.zip -d ASF/
+curl -OJL https://github.com/JustArchiNET/ArchiSteamFarm/releases/latest/download/ASF-linux-x64.zip ; unzip ASF-linux-x64.zip -d ASF/
 rm ASF-linux-x64.zip ; cd ASF/ ; chmod +x ArchiSteamFarm
 ```
 </details>
