@@ -77,7 +77,7 @@ sudo apt --purge autoremove -y && sudo apt autoclean -y && sudo apt clean
 
 cd ${cur_dir}
 mkdir -p btop ; cd btop
-curl -OJL https://github.com/aristocratos/btop/releases/download/v1.2.7/btop-x86_64-linux-musl.tbz
+curl -OJL https://github.com/aristocratos/btop/releases/latest/download/btop-x86_64-linux-musl.tbz
 tar -xjvf btop-x86_64-linux-musl.tbz
 sudo make install ; sudo make setuid
 cd .. ; rm -rf btop/
