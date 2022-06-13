@@ -1,8 +1,9 @@
 {
-  "timeStamp": 1654624289485,
+  "timeStamp": 1655152584688,
   "version": "1.42.4",
   "userSettings": {
     "cloudStorageEnabled": true,
+    "uiTheme": "dark",
     "externalLists": "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt",
     "importedLists": [
       "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt"

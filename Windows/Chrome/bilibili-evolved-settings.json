@@ -9,15 +9,6 @@
       "setup": "async setup({addData:t}){const{getComponentSettings:e}=await Promise.resolve().then(o.t.bind(o,407,23));t(\"customNavbar.items\",(t=>{t.push({name:\"darkMode\",displayName:\"夜间开关\",content:()=>Promise.resolve().then(o.bind(o,994)),clickAction:()=>{const t=e(\"darkMode\");t.enabled=!t.enabled}})}))}",
       "commitHash": "45559a01c349d04273e68d8bf8c8497db1881651",
       "coreVersion": "2.1.9"
-    },
-    "downloadVideo.outputs.idm": {
-      "code": "!function(e,t){\"object\"==typeof exports&&\"object\"==typeof module?module.exports=t():\"function\"==typeof define&&define.amd?define([],t):\"object\"==typeof exports?exports[\"video/download/idm-output\"]=t():e[\"video/download/idm-output\"]=t()}(self,(function(){return function(){\"use strict\";var e={d:function(t,o){for(var n in o)e.o(o,n)&&!e.o(t,n)&&Object.defineProperty(t,n,{enumerable:!0,get:o[n]})},o:function(e,t){return Object.prototype.hasOwnProperty.call(e,t)}},t={};e.d(t,{plugin:function(){return r}});var o=coreApis.download,n=coreApis.utils.constants,i=coreApis.utils.title;const r={name:\"downloadVideo.outputs.idm\",displayName:\"下载视频 - IDM 输出支持\",description:\"为下载视频增加 IDM 输出支持.\",setup:e=>{let{addData:t}=e;t(\"downloadVideo.outputs\",(e=>{e.push({name:\"idm\",displayName:\"IDM\",description:\"使用 IDM 的 .ef2 格式导出, 可以在 IDM 中使用导入开始下载.\",runAction:async e=>{const{infos:t}=e,r=document.URL.replace(window.location.search,\"\"),a=t.map((e=>e.titledFragments.map((e=>`<\\n${e.url}\\nreferer: ${r}\\nUser-Agent: ${n.UserAgent}\\nfilename: ${e.title}\\n>`.trim())))).flat().concat(\"\").join(\"\\n\").replace(/([^\\r])\\n/g,\"$1\\r\\n\");await o.DownloadPackage.single(`${(0,i.getFriendlyTitle)()}.ef2`,a)}})}))},commitHash:\"24744b2032b902d1ce2a5c978dc22325a014b92b\",coreVersion:\"2.2.1\"};return t=t.plugin}()}));",
-      "displayName": "下载视频 - IDM 输出支持",
-      "name": "downloadVideo.outputs.idm",
-      "description": "为下载视频增加 IDM 输出支持.",
-      "setup": "({addData:e})=>{e(\"downloadVideo.outputs\",(e=>{e.push({name:\"idm\",displayName:\"IDM\",description:\"使用 IDM 的 .ef2 格式导出, 可以在 IDM 中使用导入开始下载.\",runAction:async e=>{const{infos:t}=e,r=document.URL.replace(window.location.search,\"\"),d=t.map((e=>e.titledFragments.map((e=>`<\\n${e.url}\\nreferer: ${r}\\nUser-Agent: ${n.UserAgent}\\nfilename: ${e.title}\\n>`.trim())))).flat().concat(\"\").join(\"\\n\").replace(/([^\\r])\\n/g,\"$1\\r\\n\");await o.DownloadPackage.single(`${(0,i.getFriendlyTitle)()}.ef2`,d)}})}))}",
-      "commitHash": "45559a01c349d04273e68d8bf8c8497db1881651",
-      "coreVersion": "2.1.9"
     }
   },
   "userComponents": {
@@ -343,31 +334,6 @@
         "options": {}
       }
     },
-    "urlParamsClean": {
-      "code": "!function(e,t){\"object\"==typeof exports&&\"object\"==typeof module?module.exports=t():\"function\"==typeof define&&define.amd?define([],t):\"object\"==typeof exports?exports[\"utils/url-params-clean\"]=t():e[\"utils/url-params-clean\"]=t()}(self,(function(){return function(){\"use strict\";var e,t,r={110:function(e){e.exports=coreApis.lifeCycle},391:function(e){e.exports=coreApis.observer}},o={};function n(e){var t=o[e];if(void 0!==t)return t.exports;var i=o[e]={exports:{}};return r[e](i,i.exports,n),i.exports}t=Object.getPrototypeOf?function(e){return Object.getPrototypeOf(e)}:function(e){return e.__proto__},n.t=function(r,o){if(1&o&&(r=this(r)),8&o)return r;if(\"object\"==typeof r&&r){if(4&o&&r.__esModule)return r;if(16&o&&\"function\"==typeof r.then)return r}var i=Object.create(null);n.r(i);var a={};e=e||[null,t({}),t([]),t(t)];for(var s=2&o&&r;\"object\"==typeof s&&!~e.indexOf(s);s=t(s))Object.getOwnPropertyNames(s).forEach((function(e){a[e]=function(){return r[e]}}));return a.default=function(){return r},n.d(i,a),i},n.d=function(e,t){for(var r in t)n.o(t,r)&&!n.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.r=function(e){\"undefined\"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:\"Module\"}),Object.defineProperty(e,\"__esModule\",{value:!0})};var i={};return function(){n.d(i,{component:function(){return a}});var e=coreApis.pluginApis.data,t=coreApis.utils;const r=\"网址参数清理\",o=(0,coreApis.utils.log.useScopedConsole)(r),a={name:\"urlParamsClean\",displayName:r,entry:async()=>{if((0,t.isNotHtml)()||(0,t.isIframe)())return;const[r]=(0,e.registerAndGetData)(\"urlParamsClean.noClean\",[\"videocard_series\"]),[i]=(0,e.registerAndGetData)(\"urlParamsClean.params\",[\"spm_id_from\",\"from_source\",\"from_spmid\",\"from\",\"seid\",\"share_source\",\"share_medium\",\"share_plat\",\"share_tag\",\"share_session_id\",\"bbid\",\"ts\",\"timestamp\",\"unique_k\",\"rt\",\"tdsourcetag\",\"accept_quality\",\"broadcast_type\",\"current_qn\",\"current_quality\",\"playurl_h264\",\"playurl_h265\",\"quality_description\",\"network\",\"network_status\",\"platform_network_status\",\"p2p_type\",\"referfrom\",\"visit_id\",\"bsource\",\"spm\",\"hotRank\",\"-Arouter\"]),[a]=(0,e.registerAndGetData)(\"urlParamsClean.siteSpecifiedParams\",[{match:/\\/\\/www\\.bilibili\\.com\\/audio\\/(au[\\d]+|mycollection)/,param:\"type\"},{match:/\\/\\/live\\.bilibili\\.com\\//,param:\"session_id\"},{match:/\\/\\/www\\.bilibili\\.com\\/bangumi\\//,param:\"theme\"}]),[s]=(0,e.registerAndGetData)(\"urlParamsClean.tailingSlash\",[]),{fullyLoaded:c}=await Promise.resolve().then(n.t.bind(n,110,23)),{urlChange:l}=await Promise.resolve().then(n.t.bind(n,391,23));c((()=>{l((()=>(()=>{const e=window.location.search.substring(1).split(\"&\");if(e.some((e=>r.some((t=>e.includes(t))))))return;const n=e.filter((e=>!i.some((t=>e.startsWith(`${t}=`)))&&!a.some((t=>{let{match:r,param:o}=t;return document.URL.match(r)&&e.startsWith(`${o}=`)})))).join(\"&\");let c=document.URL.replace(window.location.search,\"\");s.forEach((e=>{let{match:r}=e;(0,t.matchPattern)(c,r)&&c.endsWith(\"/\")&&(c=c.slice(0,c.length-1))}));const l=c+(n?`?${n}`:\"\");l!==document.URL&&(o.log(document.URL,l),window.history.replaceState({},document.title,l))})()))}))},description:{\"zh-CN\":\"自动删除网址中的多余跟踪参数. 请注意这会导致浏览器历史记录出现重复的标题 (分别是转换前后的网址).\"},tags:[componentsTags.utils],urlExclude:[/game\\.bilibili\\.com\\/fgo/,/live\\.bilibili\\.com\\/p\\/html\\/live-app-hotrank\\//],commitHash:\"24744b2032b902d1ce2a5c978dc22325a014b92b\",coreVersion:\"2.2.1\"}}(),i=i.component}()}));",
-      "metadata": {
-        "name": "urlParamsClean",
-        "displayName": "网址参数清理",
-        "description": {
-          "zh-CN": "自动删除网址中的多余跟踪参数. 请注意这会导致浏览器历史记录出现重复的标题 (分别是转换前后的网址)."
-        },
-        "tags": [
-          {
-            "name": "utils",
-            "displayName": "工具",
-            "color": "#A36FFD",
-            "icon": "mdi-rocket-launch-outline",
-            "order": 5
-          }
-        ],
-        "commitHash": "24744b2032b902d1ce2a5c978dc22325a014b92b",
-        "coreVersion": "2.2.1"
-      },
-      "settings": {
-        "enabled": true,
-        "options": {}
-      }
-    },
     "viewCover": {
       "code": "!function(e,t){\"object\"==typeof exports&&\"object\"==typeof module?module.exports=t():\"function\"==typeof define&&define.amd?define([],t):\"object\"==typeof exports?exports[\"utils/view-cover\"]=t():e[\"utils/view-cover\"]=t()}(self,(function(){return function(){\"use strict\";var e={765:function(e,t,o){o.r(t),o.d(t,{default:function(){return u}});var n=function(){var e=this,t=e.$createElement;return(e._self._c||t)(\"DefaultWidget\",{staticClass:\"view-cover\",attrs:{disabled:!e.imageUrl,name:\"查看封面\",icon:\"mdi-image-outline\"},on:{click:function(t){return e.viewCover()}}})};n._withStripped=!0;var i=coreApis.ajax,r=coreApis.observer,s=coreApis.spinQuery,a=coreApis.utils.log,c=coreApis.ui,l=coreApis.componentApis.video.videoInfo;var d=function(e,t,o,n,i,r,s,a){var c,l=\"function\"==typeof e?e.options:e;if(t&&(l.render=t,l.staticRenderFns=o,l._compiled=!0),n&&(l.functional=!0),r&&(l._scopeId=\"data-v-\"+r),s?(c=function(e){(e=e||this.$vnode&&this.$vnode.ssrContext||this.parent&&this.parent.$vnode&&this.parent.$vnode.ssrContext)||\"undefined\"==typeof __VUE_SSR_CONTEXT__||(e=__VUE_SSR_CONTEXT__),i&&i.call(this,e),e&&e._registeredComponents&&e._registeredComponents.add(s)},l._ssrRegister=c):i&&(c=a?function(){i.call(this,(l.functional?this.parent:this).$root.$options.shadowRoot)}:i),c)if(l.functional){l._injectStyles=c;var d=l.render;l.render=function(e,t){return c.call(t),d(e,t)}}else{var u=l.beforeCreate;l.beforeCreate=u?[].concat(u,c):[c]}return{exports:e,options:l}}(Vue.extend({components:{DefaultWidget:c.DefaultWidget},data:()=>({imageUrl:\"\"}),async mounted(){if(document.URL.includes(\"live.bilibili.com\")){const e=\".header-info-ctnr .room-cover, .header-info-ctnr .avatar\",t=await(0,s.select)(e);if(!t)return;const o=t.getAttribute(\"href\").match(/space\\.bilibili\\.com\\/([\\d]+)/);if(o&&o[1]){const e=`https://api.live.bilibili.com/room/v1/Room/getRoomInfoOld?mid=${o[1]}`,t=await(0,i.getJson)(e);this.imageUrl=t.data.cover.replace(\"http:\",\"https:\")}}else(0,r.videoChange)((async()=>{const{aid:e}=unsafeWindow,t=new l.VideoInfo(e);try{await t.fetchInfo()}catch(e){throw(0,a.logError)(e),e}this.imageUrl=t.coverUrl.replace(\"http:\",\"https:\")}))},methods:{async viewCover(){(0,c.showImage)(this.imageUrl)}}}),n,[],!1,null,null,null);d.options.__file=\"registry/lib/components/utils/view-cover/ViewCover.vue\";var u=d.exports}},t={};function o(n){var i=t[n];if(void 0!==i)return i.exports;var r=t[n]={exports:{}};return e[n](r,r.exports,o),r.exports}o.d=function(e,t){for(var n in t)o.o(t,n)&&!o.o(e,n)&&Object.defineProperty(e,n,{enumerable:!0,get:t[n]})},o.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},o.r=function(e){\"undefined\"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:\"Module\"}),Object.defineProperty(e,\"__esModule\",{value:!0})};var n={};return function(){o.d(n,{component:function(){return t}});var e=coreApis.utils.urls;const t={name:\"viewCover\",displayName:\"查看封面\",tags:[componentsTags.utils,componentsTags.video],entry:none,reload:none,unload:none,widget:{component:()=>Promise.resolve().then(o.bind(o,765)).then((e=>e.default))},description:{\"zh-CN\":\"在视频页面中, 可从功能面板中查看封面.\"},urlInclude:[...e.videoAndBangumiUrls],commitHash:\"24744b2032b902d1ce2a5c978dc22325a014b92b\",coreVersion:\"2.2.1\"}}(),n=n.component}()}));",
       "metadata": {
@@ -454,8 +420,8 @@
         "enabled": true,
         "options": {
           "basicConfig": {
-            "api": "video.flv",
-            "output": "consoleLogDemo"
+            "api": "video.dash.avc",
+            "output": "idm"
           }
         }
       }
@@ -591,92 +557,86 @@
     "autoUpdate": {
       "enabled": true,
       "options": {
-        "lastUpdateCheck": 1654624225713,
+        "lastUpdateCheck": 1655152473728,
         "localPortOverride": "",
         "minimumDuration": 10800000,
         "urls": {
           "components": {
             "badgeHelper": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/live/badge-helper.js",
-              "lastUpdateCheck": 1654624223230,
+              "lastUpdateCheck": 1655152468139,
               "installTime": 1652062377586,
               "alwaysUpdate": false
             },
             "downloadLiveRecords": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/live/download-records.js",
-              "lastUpdateCheck": 1654624221363,
+              "lastUpdateCheck": 1655152468584,
               "installTime": 1652062382834,
               "alwaysUpdate": false
             },
             "autoHideSidebar": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/style/auto-hide-sidebar.js",
-              "lastUpdateCheck": 1654624222830,
+              "lastUpdateCheck": 1655152469109,
               "installTime": 1652062387815,
               "alwaysUpdate": false
             },
             "customNavbar": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/style/custom-navbar.js",
-              "lastUpdateCheck": 1654624222260,
+              "lastUpdateCheck": 1655152469507,
               "installTime": 1652062393168,
               "alwaysUpdate": false
             },
             "darkMode": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/style/dark-mode.js",
-              "lastUpdateCheck": 1654624222132,
+              "lastUpdateCheck": 1655152470390,
               "installTime": 1652062396860,
               "alwaysUpdate": false
             },
             "downloadAudio": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/utils/download-audio.js",
-              "lastUpdateCheck": 1654624225120,
+              "lastUpdateCheck": 1655152469912,
               "installTime": 1652062402447,
-              "alwaysUpdate": false
-            },
-            "urlParamsClean": {
-              "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/utils/url-params-clean.js",
-              "lastUpdateCheck": 1654624221984,
-              "installTime": 1652062407436,
               "alwaysUpdate": false
             },
             "viewCover": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/utils/view-cover.js",
-              "lastUpdateCheck": 1654624224591,
+              "lastUpdateCheck": 1655152470996,
               "installTime": 1652062411739,
               "alwaysUpdate": false
             },
             "downloadDanmaku": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/danmaku/download.js",
-              "lastUpdateCheck": 1654624223091,
+              "lastUpdateCheck": 1655152472038,
               "installTime": 1652062416153,
               "alwaysUpdate": false
             },
             "downloadVideo": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/download.js",
-              "lastUpdateCheck": 1654624223613,
+              "lastUpdateCheck": 1655152471200,
               "installTime": 1652062420177,
               "alwaysUpdate": false
             },
             "videoScreenshot": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/player/screenshot.js",
-              "lastUpdateCheck": 1654624224162,
+              "lastUpdateCheck": 1655152472235,
               "installTime": 1652062425648,
               "alwaysUpdate": false
             },
             "seekByFrames": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/player/seek-by-frames.js",
-              "lastUpdateCheck": 1654624224028,
+              "lastUpdateCheck": 1655152472820,
               "installTime": 1652062431590,
               "alwaysUpdate": false
             },
             "seoRedirect": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/seo-redirect.js",
-              "lastUpdateCheck": 1654624223358,
+              "lastUpdateCheck": 1655152472444,
               "installTime": 1652062442998,
               "alwaysUpdate": false
             },
             "downloadSubtitle": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/subtitle/download.js",
-              "lastUpdateCheck": 1654624224743,
+              "lastUpdateCheck": 1655152473210,
               "installTime": 1652062448794,
               "alwaysUpdate": false
             }
@@ -684,14 +644,8 @@
           "plugins": {
             "customNavbar.items.darkMode": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/plugins/style/custom-navbar-dark-mode.js",
-              "lastUpdateCheck": 1654624225712,
+              "lastUpdateCheck": 1655152473725,
               "installTime": 1652062482069,
-              "alwaysUpdate": false
-            },
-            "downloadVideo.outputs.idm": {
-              "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/plugins/video/download/idm-output.js",
-              "lastUpdateCheck": 1654624225512,
-              "installTime": 1652062486924,
               "alwaysUpdate": false
             }
           },

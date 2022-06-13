@@ -20,7 +20,7 @@
 
 - [Google Services Framework](https://www.apkmirror.com/apk/google-inc/google-services-framework/)
 
-- [Google Play services](https://www.apkmirror.com/apk/google-inc/google-play-services/)、[Google Play服务](https://play.google.com/store/apps/details?id=com.google.android.gms)
+- [Google Play services](https://www.apkmirror.com/apk/google-inc/google-play-services/)
 
 - [Google Play Store](https://www.apkmirror.com/apk/google-inc/google-play-store/)
 
@@ -38,13 +38,7 @@
 
 `/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/chatpic/`
 
-`/system/priv-app/`
-
-`/etc/permissions/`
-
-注：如果将谷歌框架安装为特权的系统应用，很可能通过不了SafetyNet认证，刷入第三方的GApps套件同理
-
-`/product/etc/permissions/services.cn.google.xml`
+`/storage/emulated/0/Android/data/org.telegram.messenger.web/files/Telegram/Telegram Video/`
 
 去除此行解锁国行GMS的部分功能
 
