@@ -164,7 +164,7 @@
 
 - ~~[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)~~
 
-- ~~[【LSPosed Module】杜比大喇叭β版](https://github.com/nining377/dolby_beta/releases)、[后续维护版](https://github.com/luoxingran/dolby_beta/releases)~~、[叼毛网抑云](https://github.com/Xposed-Modules-Repo/com.blanke.diaomao163/releases)
+- [【LSPosed Module】杜比大喇叭β版](https://github.com/nining377/dolby_beta/releases)、[叼毛网抑云](https://github.com/Xposed-Modules-Repo/com.blanke.diaomao163/releases)
 
 ## Proxy
 
