@@ -6,7 +6,7 @@
 
 - [Google USB Driver](https://developer.android.com/studio/run/win-usb)
 
-- [Team Win Recovery Project](https://weibo.com/u/6033736159)
+- [Team Win Recovery Project](https://github.com/TeamWin/android_bootable_recovery)
 
 ## APK网站
 
