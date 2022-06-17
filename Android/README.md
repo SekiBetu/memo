@@ -1,4 +1,4 @@
-# 安卓手机APP清单
+# 安卓手机 APP 清单
 
 ## 刷机工具
 
@@ -8,7 +8,7 @@
 
 - [Team Win Recovery Project](https://github.com/TeamWin/android_bootable_recovery)
 
-## APK网站
+## APK 网站
 
 - [APKMirror](https://www.apkmirror.com/)
 
@@ -16,7 +16,7 @@
 
 ## 谷歌框架
 
-- [支持GMS的机型](http://storage.googleapis.com/play_public/supported_devices.html)
+- [支持 GMS 的机型](http://storage.googleapis.com/play_public/supported_devices.html)
 
 - [Google Services Framework](https://www.apkmirror.com/apk/google-inc/google-services-framework/)
 
@@ -40,7 +40,7 @@
 
 `/storage/emulated/0/Android/data/org.telegram.messenger.web/files/Telegram/Telegram Video/`
 
-去除此行解锁国行GMS的部分功能
+去除此行解锁国行 GMS 的部分功能
 
 ```xml
  <feature name="cn.google.services" />
@@ -58,7 +58,7 @@
 
 - [JavRocket](https://github.com/gentlemansolo/JavRocket/releases)
 
-- [EhViewer二次开发版](https://gitlab.com/NekoInverter/EhViewer)
+- [EhViewer 二次开发版](https://gitlab.com/NekoInverter/EhViewer)
 
 - [ZArchiver Pro](https://www.423down.com/6027.html)
 
@@ -100,7 +100,7 @@
 
 - [知乎](https://www.zhihu.com/app/)
 
-- [NGA玩家社区](https://app.nga.cn/)
+- [NGA 玩家社区](https://app.nga.cn/)
 
 ## SNS
 
@@ -134,7 +134,7 @@
 
 - ~~[【Magisk Module】MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases)~~
 
-- [【Magisk Module】一加赛博朋克2077开机动画](https://www.coolapk.com/feed/22920260)
+- [【Magisk Module】一加赛博朋克 2077 开机动画](https://www.coolapk.com/feed/22920260)
 
 - [【Magisk Module】MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts)
 
@@ -150,15 +150,15 @@
 
 - [DeepL](https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator)
 
-- [MT管理器](https://bbs.binmt.cc/forum-2-1.html)、~~[Solid Explorer](https://www.ghpym.com/solidexplorer.html)~~
+- [MT 管理器](https://bbs.binmt.cc/forum-2-1.html)、~~[Solid Explorer](https://www.ghpym.com/solidexplorer.html)~~
 
-- [【LSPosed Module】QX模块/微X模块](https://t.me/fk_zhang)、[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)
+- [【LSPosed Module】QX 模块/微 X 模块](https://t.me/fk_zhang)、[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)
 
 - [【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook/releases)、~~[【LSPosed Module】应用变量](https://github.com/NekoGirlSAIKOU/AppEnv-Kotlin/releases)~~
 
 - ~~[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)~~
 
-- [【LSPosed Module】杜比大喇叭β版](https://github.com/nining377/dolby_beta/releases)、~~[【LSPosed Module】叼毛网抑云](https://github.com/Xposed-Modules-Repo/com.blanke.diaomao163/releases)~~
+- [【LSPosed Module】杜比大喇叭 β 版](https://github.com/nining377/dolby_beta/releases)、~~[【LSPosed Module】叼毛网抑云](https://github.com/Xposed-Modules-Repo/com.blanke.diaomao163/releases)~~
 
 ## Proxy
 
@@ -228,7 +228,7 @@
 
 - [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 
-- [交管12123](https://122.gov.cn/)
+- [交管 12123](https://122.gov.cn/)
 
 - [医鹿](https://www.coolapk.com/apk/com.citic21.user)
 
@@ -272,9 +272,9 @@
 
 ## Future
 
-- [BOSS直聘](https://app.zhipin.com/?ka=header-app)
+- [BOSS 直聘](https://app.zhipin.com/?ka=header-app)
 
-- [前程无忧51job](http://app.51job.com/index.html)
+- [前程无忧 51job](http://app.51job.com/index.html)
 
 - [智联招聘](https://www.zhaopin.com)
 

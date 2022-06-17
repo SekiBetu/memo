@@ -1,4 +1,4 @@
-# Windows设置及软件清单
+# Windows 设置及软件清单
 
 避免每次装机重头寻找历史安装过的软件，索性列一个清单，炼成半小时装机软件复原大法
 
@@ -11,30 +11,35 @@
 ```
 bcdedit /set hypervisorlaunchtype off
 ```
+
 </details>
 <details><summary>关闭虚拟内存</summary>
 
 ```
 设置 —— 系统 —— 关于 —— 高级系统设置 —— 性能设置 —— 高级 —— 虚拟内存 —— 更改 —— 无分页文件 —— 设置并确定
 ```
+
 </details>
 <details><summary>关闭休眠模式</summary>
 
 ```
 powercfg -h off
 ```
+
 </details>
 <details><summary>CPU核数设置</summary>
 
 ```
 msconfig
 ```
+
 </details>
 <details><summary>卓越性能电源计划</summary>
 
 ```
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ```
+
 </details>
 <details><summary>一键解除所有UWP应用的网络隔离（CMD指令/PowerShell指令）</summary>
 
@@ -47,6 +52,7 @@ FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Setti
 ```powershell
 Get-ChildItem -Path Registry::"HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings\" -name | ForEach-Object {CheckNetIsolation.exe LoopbackExempt -a -p="$_"}
 ```
+
 </details>
 <details><summary>WSL2代理设置</summary>
 
@@ -56,7 +62,7 @@ $ sudo vim ~./bashrc
 # export windows_host=`cat /etc/resolv.conf|grep nameserver|awk '{print $2}'`
 # export ALL_PROXY="socks5://$windows_host:2080"
 
-# alias setproxy="export ALL_PROXY=socks5://$windows_host:2080" 
+# alias setproxy="export ALL_PROXY=socks5://$windows_host:2080"
 # alias unsetproxy="unset ALL_PROXY"
 
 git clone https://github.com/rofl0r/proxychains-ng
@@ -86,6 +92,7 @@ localnet 192.168.0.0/255.255.0.0
 socks5  $windows_host 2080
 # http    $windows_host 2081
 ```
+
 </details>
 <details><summary>CMD/PowerShell代理设置</summary>
 
@@ -104,6 +111,7 @@ set https_proxy=http://127.0.0.1:2081
 $env:http_proxy="http://127.0.0.1:2081"
 $env:https_proxy="http://127.0.0.1:2081"
 ```
+
 </details>
 <details><summary>git设置</summary>
 
@@ -135,6 +143,7 @@ git config --global user.signingkey <密钥ID>
 git config --global commit.gpgsign true
 git config --global tag.forcesignannotated true
 ```
+
 </details>
 <details><summary>pip代理</summary>
 
@@ -156,6 +165,7 @@ git config --global tag.forcesignannotated true
 # trusted-host = mirrors.aliyun.com
 # proxy = http://127.0.0.1:2081
 ```
+
 </details>
 <details><summary>npm、yarn的代理/换源设置</summary>
 
@@ -168,6 +178,7 @@ yarn config set proxy http://127.0.0.1:2081
 yarn config set https-proxy http://127.0.0.1:2081
 yarn config set registry https://registry.npmmirror.com
 ```
+
 </details>
 <details><summary>Maven、Gradle的代理/换源设置</summary>
 
@@ -246,7 +257,7 @@ allprojects {
                         project.logger.lifecycle "Repository ${repo.url} replaced by $ALIYUN_REPOSITORY_URL_APACHE_SNAPSHOTS."
                         remove repo
                     }
-                    
+
                 }
         }
         maven {
@@ -261,6 +272,7 @@ allprojects {
     }
 }
 ```
+
 </details>
 <details><summary>golang代理设置</summary>
 
@@ -268,6 +280,7 @@ allprojects {
 go env -w GO111MODULE=on
 go env -w GOPROXY=https://mirrors.aliyun.com/goproxy/
 ```
+
 </details>
 <details><summary>GPG常用指令及配置文件</summary>
 
@@ -302,8 +315,8 @@ gpg -ao output.asc --detach-sign input.txt # 签名和原文本分开
 gpg --verify output.asc input.txt # 验证签名文件
 
 gpg -ao output.asc -se input.txt -r <公钥ID> # 签名并加密文档
-# s代表签名, e代表加密, r代表recipient, 指定接收者的公钥ID, a代表ASCII码格式, o代表输出地址, 
-gpg -ao input.txt -d output.asc # 解密    
+# s代表签名, e代表加密, r代表recipient, 指定接收者的公钥ID, a代表ASCII码格式, o代表输出地址,
+gpg -ao input.txt -d output.asc # 解密
 ```
 
 ```shell
@@ -321,6 +334,7 @@ s2k-digest-algo SHA512
 s2k-mode 3
 s2k-count 65011712
 ```
+
 </details>
 <details><summary>APK签名相关</summary>
 
@@ -334,6 +348,7 @@ keytool -importkeystore -srckeystore SekiBetu.jks -srcstoretype JKS -destkeystor
 zipalign -f -v 4 unsigned.apk optimized-unsigned.apk # APK优化
 apksigner sign --ks SekiBetu.p12 --ks-key-alias SekiBetu optimized-unsigned.apk # 先优化后签名
 ```
+
 </details>
 <details><summary>Chrome & Edge Flags</summary>
 
@@ -346,6 +361,7 @@ Parallel downloading
 【Edge Only】Show experimental appearance settings
 【Edge Only】Windows style overlay scrollbars.
 ```
+
 </details>
 <details><summary>youtube-dl设置</summary>
 
@@ -364,6 +380,7 @@ Parallel downloading
 --write-description
 --write-thumbnail
 ```
+
 </details>
 <details><summary>IntelliJ IDEA设置备忘录</summary>
 
@@ -396,14 +413,14 @@ Editor —— Code Editing —— √ Show quick documentation on mouse move (de
 Editor —— Font —— Font: JetBrains Mono —— Size: 13 —— Line height: 1.2 (default on 2021.1.2)
 Editor —— Font —— Fallback font：Sarasa Mono Slab SC
 【自动换行】
-Editor —— Code Style —— √ Wrap on typing 
+Editor —— Code Style —— √ Wrap on typing
 Editor —— Code Style —— Java —— Wrapping and Braces —— √ Ensure right margin is not exceeded
 【单行注释斜杠跟着代码】
 Editor —— Code Style —— Java —— Code Generation —— × Line comment at first column ; √ Add a space at comment start
 【项目文件编码】[项目设置]
 Editor —— File Encodings —— Global Encoding: UTF-8 ; Project Encoding: UTF-8 ; Default encoding for properties files: UTF-8 ; √ Transparent native-to-ascii conversion
 【插件列表】
-Plugins —— Lombok ; One Dark theme ; Rainbow Brackets ; Translation ; Maven Helper ; RestfulTool ; MybatisX ; 
+Plugins —— Lombok ; One Dark theme ; Rainbow Brackets ; Translation ; Maven Helper ; RestfulTool ; MybatisX ;
 【自动编译项目】[项目设置]
 Build, Execution, Deployment —— Compiler —— √ Build project automatically
 【增加堆内存】[项目设置]
@@ -435,6 +452,7 @@ options
 - ui.lnf.xml
 - yiiguxing.translation.xml
 ```
+
 </details>
 
 ## Useful Websites
@@ -549,6 +567,7 @@ auto_gen=yes                         # 是否生成缩略图，默认：yes
 auto_show=yes                        # 是否显示缩略图，默认：yes
 auto_delete=2                        # 退出MPV后清理本次使用时产生的临时文件，0不清理，1关闭文件时清理，2退出程序时清理。默认0
 ```
+
 </details>
 
 - [Honeyview](http://www.bandisoft.com/honeyview/)
@@ -593,7 +612,7 @@ auto_delete=2                        # 退出MPV后清理本次使用时产生�
 - [GPU-Z](https://www.423down.com/3675.html)
 - [NatTypeTester](https://github.com/HMBSbige/NatTypeTester/releases)
 - [SSD-Z](https://www.423down.com/4748.html)
-- 显示器色域检测v2.2.1(图拉丁版)
+- 显示器色域检测 v2.2.1(图拉丁版)
 - [BestTrace](https://www.ipip.net/product/client.html)
 
 #### Drivers
@@ -601,7 +620,7 @@ auto_delete=2                        # 退出MPV后清理本次使用时产生�
 - [Driver Booster](https://www.423down.com/10421.html)
 - [驱动人生](https://www.423down.com/581.html)
 - [驱动精灵](https://www.423down.com/5768.html)
-- [360驱动大师](https://www.423down.com/9157.html)
+- [360 驱动大师](https://www.423down.com/9157.html)
 
 #### Recovery
 
@@ -681,7 +700,7 @@ auto_delete=2                        # 退出MPV后清理本次使用时产生�
 
 - ~~[Bookmark Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar)~~
 - ~~[FeHelper](https://github.com/zxlie/FeHelper)~~
-- ~~[Octoman微博备份](https://github.com/misswell/octoman-weibo-backup)~~
+- ~~[Octoman 微博备份](https://github.com/misswell/octoman-weibo-backup)~~
 - ~~[Similar Sites](https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn)~~
 - ~~[Steam Inventory Helper](https://chrome.google.com/webstore/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl)~~
 - ~~[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)~~
