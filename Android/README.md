@@ -98,8 +98,6 @@
 
 - [微博](https://c.weibo.cn/)
 
-- [知乎](https://www.zhihu.com/app/)
-
 - [NGA 玩家社区](https://app.nga.cn/)
 
 ## SNS
@@ -165,8 +163,6 @@
 - [SagerNet](https://github.com/SagerNet/SagerNet/releases)
 
 - [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)
-
-- [Speedtest](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
 
 ## no group
 
