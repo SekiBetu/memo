@@ -1,5 +1,3 @@
-# 安卓手机 APP 清单
-
 ## 刷机工具
 
 - [SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
