@@ -146,7 +146,7 @@
 
 - [Microsoft Office](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
 
-- [DeepL](https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator)
+- DeepL(PWA)
 
 - [MT 管理器](https://bbs.binmt.cc/forum-2-1.html)、~~[Solid Explorer](https://www.ghpym.com/solidexplorer.html)~~
 
