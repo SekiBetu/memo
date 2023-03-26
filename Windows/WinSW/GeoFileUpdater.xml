@@ -1,0 +1,13 @@
+<service>
+  <id>GeoFileUpdater</id>
+  <name>Geo文件更新器</name>
+  <description>Geo文件更新器</description>
+  <executable>GeoFileUpdater.bat</executable>
+  <logmode>rotate</logmode>
+  <logpath>log</logpath>
+  <priority>Normal</priority>
+  <startmode>Automatic</startmode>
+  <delayedAutoStart>true</delayedAutoStart>
+  <onfailure action="restart" delay="60 sec"/>
+  <onfailure action="restart" delay="120 sec"/>
+</service>

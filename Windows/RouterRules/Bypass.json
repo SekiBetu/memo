@@ -1,0 +1,40 @@
+[
+  {
+    "outboundTag": "block",
+    "domain": ["domain:mcdn.bilivideo.cn"],
+    "enabled": true
+  },
+  {
+    "outboundTag": "direct",
+    "domain": [
+      "geosite:category-games@cn",
+      "geosite:paypal",
+      "matsuri.icu",
+      "store.steampowered.com"
+    ],
+    "enabled": true
+  },
+  {
+    "outboundTag": "proxy",
+    "domain": ["geosite:geolocation-!cn"],
+    "enabled": true
+  },
+  {
+    "outboundTag": "direct",
+    "domain": ["geosite:cn"],
+    "enabled": true
+  },
+  {
+    "outboundTag": "direct",
+    "ip": [
+        "geoip:cn",
+        "geoip:private"
+    ],
+    "enabled": true
+  },
+  {
+    "port": "0-65535",
+    "outboundTag": "proxy",
+    "enabled": true
+  }
+]
