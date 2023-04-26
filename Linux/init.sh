@@ -34,7 +34,7 @@ echo "deb [signed-by=/usr/share/keyrings/postgresql-archive-keyring.gpg] http://
 # sudo apt update && sudo apt install -y postgresql
 
 # [JenKins](https://www.jenkins.io/doc/book/installing/linux/)
-curl -JL https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/jenkins-archive-keyring.gpg
+curl -JL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/jenkins-archive-keyring.gpg
 echo "deb [signed-by=/usr/share/keyrings/jenkins-archive-keyring.gpg] https://pkg.jenkins.io/debian-stable/ binary/" | sudo tee /etc/apt/sources.list.d/jenkins.list > /dev/null
 # sudo apt update && sudo apt install -y jenkins
 
