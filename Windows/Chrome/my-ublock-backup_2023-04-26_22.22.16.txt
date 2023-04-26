@@ -1,13 +1,15 @@
 {
-  "timeStamp": 1680533928277,
-  "version": "1.48.0",
+  "timeStamp": 1682518936616,
+  "version": "1.49.0",
   "userSettings": {
     "cloudStorageEnabled": true,
+    "uiTheme": "dark",
     "externalLists": "https://filters.adtidy.org/extension/ublock/filters/3.txt\nhttps://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt",
     "importedLists": [
       "https://filters.adtidy.org/extension/ublock/filters/3.txt",
       "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt"
-    ]
+    ],
+    "popupPanelSections": 15
   },
   "selectedFilterLists": [
     "user-filters",
@@ -36,6 +38,7 @@
     "# opera-scheme",
     "# vivaldi-scheme",
     "# wyciwyg-scheme",
+    "bbs.colg.cn",
     "bilibili.com",
     "ruanyifeng.com",
     "www.ghxi.com",
