@@ -232,7 +232,7 @@ sudo mysql_secure_installation
 https://www.7-zip.org/
 
 ```shell
-curl -OJL https://www.7-zip.org/a/7z2201-linux-x64.tar.xz
+curl -OJL https://7-zip.org/a/7z2300-linux-x64.tar.xz
 sudo mkdir -p /usr/local/7zip
 sudo tar -C /usr/local/7zip -xvf 7z2201-linux-x64.tar.xz ; rm 7z2201-linux-x64.tar.xz
 echo 'export PATH=$PATH:/usr/local/7zip'>>~/.bashrc
