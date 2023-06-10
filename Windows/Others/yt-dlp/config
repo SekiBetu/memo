@@ -2,6 +2,7 @@
 --downloader aria2c
 --downloader-args "-c -j 16 -s 16 -x 16 -k 1M"
 --proxy http://127.0.0.1:2081/
+--cookies-from-browser chrome:"C:\Users\scavi\AppData\Local\Google\Chrome\User Data\Default"
 -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
 -o D:/Media/Videos/"%(uploader)s(%(uploader_id)s)/%(upload_date)s-%(title)s-(%(duration)ss)[%(resolution)s][%(id)s].%(ext)s"
 --embed-metadata
