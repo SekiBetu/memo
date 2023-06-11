@@ -92,12 +92,6 @@ bash <(curl -Lso- https://git.io/superspeed_uxh)
 <details>
 <summary>一键 DD 脚本</summary>
 
-https://www.cxthhhhh.com/Network-Reinstall-System-Modify (默认密码 cxthhhhh.com)
-
-```shell
-wget --no-check-certificate -qO ~/Network-Reinstall-System-Modify.sh 'https://www.cxthhhhh.com/CXT-Library/Network-Reinstall-System-Modify/Network-Reinstall-System-Modify.sh' && chmod a+x ~/Network-Reinstall-System-Modify.sh && bash ~/Network-Reinstall-System-Modify.sh -UI_Options
-```
-
 https://github.com/bohanyang/debi
 
 ```shell
