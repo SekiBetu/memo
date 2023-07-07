@@ -169,7 +169,7 @@
 
 - [【LSPosed Module】哔哩漫游](https://github.com/yujincheng08/BiliRoaming/releases)
 
-- [【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook/releases)、~~[【LSPosed Module】应用变量](https://github.com/NekoGirlSAIKOU/AppEnv-Kotlin/releases)~~
+- [【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook/releases)、[【LSPosed Module】应用变量](https://github.com/appenv/appenv.github.io/releases)
 
 - [【LSPosed Module】TSBattery](https://github.com/fankes/TSBattery/releases)
 
