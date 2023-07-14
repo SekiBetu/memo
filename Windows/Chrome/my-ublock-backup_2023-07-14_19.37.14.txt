@@ -1,13 +1,13 @@
 {
-  "timeStamp": 1684034856653,
-  "version": "1.49.2",
+  "timeStamp": 1689334634302,
+  "version": "1.50.0",
   "userSettings": {
     "cloudStorageEnabled": true,
     "uiTheme": "dark",
-    "externalLists": "https://filters.adtidy.org/extension/ublock/filters/3.txt\nhttps://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt",
+    "externalLists": "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt\nhttps://filters.adtidy.org/extension/ublock/filters/14.txt",
     "importedLists": [
-      "https://filters.adtidy.org/extension/ublock/filters/3.txt",
-      "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt"
+      "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt",
+      "https://filters.adtidy.org/extension/ublock/filters/14.txt"
     ],
     "popupPanelSections": 15
   },
@@ -17,16 +17,15 @@
     "ublock-badware",
     "ublock-privacy",
     "ublock-quick-fixes",
-    "ublock-abuse",
     "ublock-unbreak",
     "adguard-generic",
     "urlhaus-1",
-    "adguard-annoyance",
     "adguard-social",
     "plowe-0",
     "CHN-0",
-    "https://filters.adtidy.org/extension/ublock/filters/3.txt",
-    "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt"
+    "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt",
+    "adguard-spyware",
+    "https://filters.adtidy.org/extension/ublock/filters/14.txt"
   ],
   "hiddenSettings": {},
   "whitelist": [
@@ -40,6 +39,7 @@
     "# wyciwyg-scheme",
     "bbs.colg.cn",
     "bilibili.com",
+    "livesexhouse.com",
     "ruanyifeng.com",
     "www.ghxi.com",
     "www.minecraft.net",
