@@ -82,7 +82,7 @@
 
 </details>
 
-- [Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer/releases)、~~[FEhViewer](https://github.com/honjow/FEhViewer/releases)~~、~~[JHenTai](https://github.com/jiangtian616/JHenTai/releases)~~
+- ~~[Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer/releases)~~、~~[FEhViewer](https://github.com/honjow/FEhViewer/releases)~~、[JHenTai](https://github.com/jiangtian616/JHenTai/releases)
 
 ## 视频直播
 
