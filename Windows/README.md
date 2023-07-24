@@ -384,6 +384,10 @@ apksigner sign --ks SekiBetu.p12 --ks-key-alias SekiBetu optimized-unsigned.apk 
 ```shell
 Smooth Scrolling
 【Chrome Only】Overlay Scrollbars
+【Chrome Only】Windows 11 Mica titlebar
+【Chrome Only】Chrome Refresh 2023
+【Chrome Only】Chrome WebUI Refresh 2023
+【Chrome Only】Power bookmarks side panel
 Parallel downloading
 【Chrome Only】Enable download bubble
 【Chrome Only】Enable download bubble V2
@@ -393,6 +397,7 @@ Parallel downloading
 【Edge Only】Make Rounded Tabs feature available
 【Edge Only】Enable Smooth Scrolling for PDF
 【Edge Only】Windows 11 fluent scrollbars.
+【Edge Only】Enable Windows 11 Acrylic effect in menus
 ```
 
 </details>
