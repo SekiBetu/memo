@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1689334634302,
-  "version": "1.50.0",
+  "timeStamp": 1690548232446,
+  "version": "1.51.0",
   "userSettings": {
     "cloudStorageEnabled": true,
     "uiTheme": "dark",
