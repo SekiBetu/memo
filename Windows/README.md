@@ -365,6 +365,13 @@ s2k-count 65011712
 ```
 
 </details>
+<details><summary>SSH密钥生成</summary>
+
+```shell
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
+</details>
 <details><summary>APK签名相关</summary>
 
 ```shell
