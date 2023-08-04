@@ -121,7 +121,7 @@ https://xanmod.org/
 ```shell
 curl -JL https://dl.xanmod.org/gpg.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/xanmod-kernel-archive-keyring.gpg
 echo 'deb [signed-by=/usr/share/keyrings/xanmod-kernel-archive-keyring.gpg] http://deb.xanmod.org/ releases main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list
-sudo apt update && sudo apt upgrade -y && sudo apt install -y linux-xanmod-lts
+sudo apt update && sudo apt upgrade -y && sudo apt install -y linux-xanmod-lts-x64v4
 ```
 
 </details>
