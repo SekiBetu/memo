@@ -174,8 +174,8 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/ylx2016/Linux-
 https://github.com/kirin10000/Xray-script
 
 ```shell
-wget -O Xray-TLS+Web-setup.sh https://github.com/SekiBetu/Xray-script/raw/beta/Xray-TLS+Web-setup.sh
-sudo bash Xray-TLS+Web-setup.sh
+wget -O Xray-REALITY+Web.sh https://github.com/kirin10000/Xray-script/raw/main/Xray-REALITY+Web.sh
+sudo bash Xray-REALITY+Web.sh
 ```
 
 </details>
