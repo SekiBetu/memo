@@ -179,7 +179,7 @@
 
 - [v2rayNG](https://github.com/2dust/v2rayNG/releases)
 
-- [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)
+- [ServerBox](https://github.com/lollipopkit/flutter_server_box)
 
 ## 聊天
 
