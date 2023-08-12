@@ -1,4 +1,4 @@
-# 新电脑首次开机检查是否有开启BitLocker再重装系统
+新电脑首次开机检查是否有开启BitLocker再重装系统
 
 <details><summary>防止Windows推送旧版驱动</summary>
 
