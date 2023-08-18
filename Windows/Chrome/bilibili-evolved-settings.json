@@ -368,7 +368,7 @@
     "autoUpdate": {
       "enabled": false,
       "options": {
-        "lastUpdateCheck": 1690548123969,
+        "lastUpdateCheck": 1692358690608,
         "lastInstalledVersion": "2.8.2",
         "localPortOverride": "",
         "minimumDuration": 86400000,
@@ -376,67 +376,67 @@
           "components": {
             "badgeHelper": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/live/badge-helper.js",
-              "lastUpdateCheck": 1690548123969,
+              "lastUpdateCheck": 1692358690323,
               "installTime": 1671346834515,
               "alwaysUpdate": false
             },
             "autoHideSidebar": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/style/auto-hide-sidebar.js",
-              "lastUpdateCheck": 1690548123533,
+              "lastUpdateCheck": 1692358690175,
               "installTime": 1671346839232,
               "alwaysUpdate": false
             },
             "darkMode": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/style/dark-mode.js",
-              "lastUpdateCheck": 1690548123832,
+              "lastUpdateCheck": 1692358690607,
               "installTime": 1671346844510,
               "alwaysUpdate": false
             },
             "downloadAudio": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/utils/download-audio.js",
-              "lastUpdateCheck": 1690548123365,
+              "lastUpdateCheck": 1692358690209,
               "installTime": 1671346848665,
               "alwaysUpdate": false
             },
             "viewCover": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/utils/view-cover.js",
-              "lastUpdateCheck": 1690548123386,
+              "lastUpdateCheck": 1692358690343,
               "installTime": 1671346853355,
               "alwaysUpdate": false
             },
             "downloadDanmaku": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/danmaku/download.js",
-              "lastUpdateCheck": 1690548123513,
+              "lastUpdateCheck": 1692358690398,
               "installTime": 1671346857787,
               "alwaysUpdate": false
             },
             "downloadVideo": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/download.js",
-              "lastUpdateCheck": 1690548123434,
+              "lastUpdateCheck": 1692358690382,
               "installTime": 1671346862162,
               "alwaysUpdate": false
             },
             "videoScreenshot": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/player/screenshot.js",
-              "lastUpdateCheck": 1690548123558,
+              "lastUpdateCheck": 1692358690195,
               "installTime": 1671346866921,
               "alwaysUpdate": false
             },
             "seekByFrames": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/player/seek-by-frames.js",
-              "lastUpdateCheck": 1690548123873,
+              "lastUpdateCheck": 1692358690223,
               "installTime": 1671346871434,
               "alwaysUpdate": false
             },
             "seoRedirect": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/seo-redirect.js",
-              "lastUpdateCheck": 1690548123574,
+              "lastUpdateCheck": 1692358690168,
               "installTime": 1671346875753,
               "alwaysUpdate": false
             },
             "downloadSubtitle": {
               "url": "https://raw.githubusercontent.com/the1812/Bilibili-Evolved/preview/registry/dist/components/video/subtitle/download.js",
-              "lastUpdateCheck": 1690548123894,
+              "lastUpdateCheck": 1692358690316,
               "installTime": 1671346879042,
               "alwaysUpdate": false
             }
