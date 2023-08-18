@@ -628,7 +628,7 @@ options
 - [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig)
 - [EditThisCookie](https://github.com/ETCExtensions/Edit-This-Cookie)
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile)
-- [魂签](https://github.com/inu1255/soulsign-chrome)、[fork](https://github.com/metaparty/soulsign-chrome/releases)
+- [魂签](https://github.com/inu1255/soulsign-chrome)
 - [Stylus](https://github.com/openstyles/stylus)
 - [Dark Reader](https://github.com/darkreader/darkreader/releases)
 - [Violentmonkey](https://github.com/violentmonkey/violentmonkey)
