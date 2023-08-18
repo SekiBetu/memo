@@ -323,6 +323,7 @@ gpg --list-secret-keys/-K # 列出所有私钥
 
 gpg --edit-key <密钥ID>
 gpg> list # 列出所有子密钥
+gpg> change-usage # 修改用途
 gpg> key {n} # 选择序号为n的子密钥
 gpg> trust # 设置信任度
 gpg> expire # 设置过期时间
