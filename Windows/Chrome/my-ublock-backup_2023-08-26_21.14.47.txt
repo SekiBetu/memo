@@ -1,13 +1,13 @@
 {
-  "timeStamp": 1692358726380,
+  "timeStamp": 1693055687079,
   "version": "1.51.0",
   "userSettings": {
     "cloudStorageEnabled": true,
     "uiTheme": "dark",
-    "externalLists": "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt\nhttps://filters.adtidy.org/extension/ublock/filters/14.txt",
+    "externalLists": "https://filters.adtidy.org/extension/ublock/filters/14.txt\nhttps://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt",
     "importedLists": [
-      "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt",
-      "https://filters.adtidy.org/extension/ublock/filters/14.txt"
+      "https://filters.adtidy.org/extension/ublock/filters/14.txt",
+      "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt"
     ],
     "popupPanelSections": 15
   },
@@ -19,13 +19,13 @@
     "ublock-quick-fixes",
     "ublock-unbreak",
     "adguard-generic",
-    "urlhaus-1",
-    "adguard-social",
-    "plowe-0",
-    "CHN-0",
-    "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt",
     "adguard-spyware",
-    "https://filters.adtidy.org/extension/ublock/filters/14.txt"
+    "urlhaus-1",
+    "plowe-0",
+    "adguard-social",
+    "CHN-0",
+    "https://filters.adtidy.org/extension/ublock/filters/14.txt",
+    "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt"
   ],
   "hiddenSettings": {},
   "whitelist": [
