@@ -121,6 +121,7 @@
 - [Github](https://github.com/mobile)
 
 ## 无分组
+
 - [X](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 - [百度网盘](https://pan.baidu.com/download)
@@ -183,7 +184,7 @@
 
 - [v2rayNG](https://github.com/2dust/v2rayNG/releases)
 
-- [VPNHotspot](https://github.com/Mygod/VPNHotspot)
+- [VPNHotspot](https://github.com/Mygod/VPNHotspot/releases)
 
 - [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)
 
