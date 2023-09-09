@@ -178,6 +178,10 @@
 
 - [【LSPosed Module】TSBattery](https://github.com/fankes/TSBattery/releases)
 
+- [【LSPosed Module】钉钉反撤回神器](https://github.com/Xposed-Modules-Repo/com.dingtalk.recall/releases)
+
+- [【LSPosed Module】Re:Telegram](https://github.com/Sakion-Team/Re-Telegram/releases)
+
 - [LocalSend](https://github.com/localsend/localsend/releases)
 
 ## Proxy
