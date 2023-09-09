@@ -116,8 +116,12 @@
 
 - [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
 
+- [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
+
+- [Github](https://github.com/mobile)
+
 ## 无分组
-- [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
+- [X](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 - [百度网盘](https://pan.baidu.com/download)
 
@@ -178,6 +182,10 @@
 ## Proxy
 
 - [v2rayNG](https://github.com/2dust/v2rayNG/releases)
+
+- [VPNHotspot](https://github.com/Mygod/VPNHotspot)
+
+- [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)
 
 - [ServerBox](https://github.com/lollipopkit/flutter_server_box)
 
@@ -294,3 +302,5 @@
 - [飞猫盘](https://www.feimaoyun.com/app)
 
 - [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
+
+- [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
