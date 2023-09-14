@@ -99,7 +99,7 @@ curl -OJL https://raw.githubusercontent.com/bohanyang/debi/master/debi.sh && chm
 ```
 
 ```shell
-sudo ./debi.sh --firmware --version 12 --architecture amd64 --full-upgrade --hostname debian --authorized-keys-url https://github.com/SekiBetu.keys --timezone Asia/Shanghai --user sekibetu --password <新系统用户密码> --ssh-port <SSH端口>
+sudo ./debi.sh --version 12 --architecture amd64 --hostname debian --authorized-keys-url https://github.com/SekiBetu.keys --timezone Asia/Shanghai --user sekibetu --password <新系统用户密码> --ssh-port <SSH端口>
 ```
 
 用户名要与SSH密钥设置的用户名匹配
@@ -121,7 +121,7 @@ wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com
 ```
 
 ```shell
-bash InstallNET.sh -debian 12 -port "端口" -pwd "密码" -timezone "Asia/Shanghai" -firmware
+bash InstallNET.sh -debian 12 -port "端口" -pwd "密码" -timezone "Asia/Shanghai"
 ```
 
 </details>
