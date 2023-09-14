@@ -99,7 +99,7 @@ curl -OJL https://raw.githubusercontent.com/bohanyang/debi/master/debi.sh && chm
 ```
 
 ```shell
-sudo ./debi.sh --firmware --version 12 --architecture amd64 --full-upgrade --dns '8.8.8.8 8.8.4.4' --hostname debian --authorized-keys-url https://github.com/SekiBetu.keys --timezone Asia/Shanghai --user sekibetu --password <新系统用户密码> --ssh-port <SSH端口>
+sudo ./debi.sh --firmware --version 12 --architecture amd64 --full-upgrade --dns '8.8.8.8 8.8.4.4' --hostname debian --authorized-keys-url https://github.com/SekiBetu.keys --timezone Asia/Shanghai --user sekibetu --password <新系统用户密码> --ssh-port <SSH端口> --force-lowmem 1
 ```
 
 用户名要与SSH密钥设置的用户名匹配
