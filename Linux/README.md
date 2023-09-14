@@ -114,12 +114,14 @@ sudo ./debi.sh --firmware --version 12 --architecture amd64 --full-upgrade --hos
 
 `Ubuntu 18` 或 `Debian` 的网络配置文件: `cat /etc/network/interfaces`
 
+https://github.com/leitbogioro/Tools
+
 ```shell
 wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/leitbogioro/Tools/master/Linux_reinstall/InstallNET.sh' && chmod a+x InstallNET.sh
 ```
 
 ```shell
-bash InstallNET.sh -debian 12 -port "端口" -pwd '密码' -timezone "Asia/Shanghai" -firmware
+bash InstallNET.sh -debian 12 -port "端口" -pwd "密码" -timezone "Asia/Shanghai" -firmware
 ```
 
 </details>
