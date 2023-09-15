@@ -99,10 +99,8 @@ curl -OJL https://raw.githubusercontent.com/bohanyang/debi/master/debi.sh && chm
 ```
 
 ```shell
-sudo ./debi.sh --firmware --version 12 --architecture amd64 --full-upgrade --dns '8.8.8.8 8.8.4.4' --hostname debian --authorized-keys-url https://github.com/SekiBetu.keys --timezone Asia/Shanghai --user sekibetu --password <新系统用户密码> --ssh-port <SSH端口>
+sudo ./debi.sh --version 12 --dns '8.8.8.8 8.8.4.4' --hostname debian --authorized-keys-url https://github.com/SekiBetu.keys --timezone Asia/Shanghai --user sekibetu --password <新系统用户密码> --ssh-port <SSH端口>
 ```
-
-用户名要与SSH密钥设置的用户名匹配
 
 如果没有 DHCP 自动配置网络则要手动指定 IP 与网关
 
@@ -114,6 +112,16 @@ sudo ./debi.sh --firmware --version 12 --architecture amd64 --full-upgrade --dns
 
 `Ubuntu 18` 或 `Debian` 的网络配置文件: `cat /etc/network/interfaces`
 
+https://github.com/leitbogioro/Tools
+
+```shell
+wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/leitbogioro/Tools/master/Linux_reinstall/InstallNET.sh' && chmod a+x InstallNET.sh
+```
+
+```shell
+bash InstallNET.sh -debian 12 -port "端口" -pwd "密码" -timezone "Asia/Shanghai"
+```
+
 </details>
 <details>
 <summary>xanmod 内核</summary>
@@ -123,7 +131,7 @@ https://xanmod.org/
 ```shell
 curl -JL https://dl.xanmod.org/gpg.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/xanmod-kernel-archive-keyring.gpg
 echo 'deb [signed-by=/usr/share/keyrings/xanmod-kernel-archive-keyring.gpg] http://deb.xanmod.org/ releases main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list
-sudo apt update && sudo apt upgrade -y && sudo apt install -y linux-xanmod-lts-x64v4
+sudo apt update && sudo apt upgrade -y && sudo apt install -y linux-xanmod-lts-x64v3
 ```
 
 </details>
