@@ -289,7 +289,7 @@ https://github.com/chr233/ASFEnhance/releases
 ```shell
 curl -OJL https://github.com/JustArchiNET/ArchiSteamFarm/releases/latest/download/ASF-linux-x64.zip ; 7zz x ASF-linux-x64.zip -oASF
 rm ASF-linux-x64.zip ; cd ASF/ ; chmod +x ArchiSteamFarm
-cd plugins/ ; curl -OJL https://github.com/chr233/ASFEnhance/releases/latest/download/ASFEnhance.zip ; 7zz x ASFEnhance.zi ; rm ASFEnhance.zi
+cd plugins/ ; curl -OJL https://github.com/chr233/ASFEnhance/releases/latest/download/ASFEnhance.zip ; 7zz x ASFEnhance.zip ; rm ASFEnhance.zip
 ```
 
 </details>
