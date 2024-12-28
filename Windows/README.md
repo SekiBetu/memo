@@ -571,7 +571,7 @@ options
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader/releases)、[DDTV](https://github.com/CHKZL/DDTV/releases)
 - [K-Lite Codec Pack Mega](https://codecguide.com/download_k-lite_codec_pack_mega.htm)
 - [Cheat Engine](https://cheatengine.org/)
-- [ProxyPin](https://github.com/wanghongenpin/proxypin)、[mitmproxy(pip)](https://github.com/mitmproxy/mitmproxy) `pip3 install --upgrade git+https://github.com/mitmproxy/mitmproxy.git` 、[Fiddler Classic](https://www.telerik.com/download/fiddler)、[Fiddler Everywhere](https://www.telerik.com/download/fiddler-everywhere)
+- [ProxyPin](https://github.com/wanghongenpin/proxypin)、[mitmproxy(pip)](https://github.com/mitmproxy/mitmproxy) `pip3 install --upgrade git+https://github.com/mitmproxy/mitmproxy.git` 、[Fiddler Classic](https://www.telerik.com/download/fiddler)
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 - [Open Broadcaster Software](https://obsproject.com/download)
 - [drawio](https://github.com/jgraph/drawio)
@@ -604,8 +604,7 @@ options
 - [MySQL](https://dev.mysql.com/downloads/windows/installer/5.7.html)
 - [PowerShell](https://github.com/PowerShell/PowerShell/releases)
 - [TDM-GCC](https://jmeubank.github.io/tdm-gcc/)
-- [Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)
-- [DBeaver](https://dbeaver.io/download/)
+- [DBeaver](https://dbeaver.io/download/)、[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)
 
 ## 开始菜单布局
 
