@@ -534,7 +534,7 @@ options
 - [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)
 - [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
-- [QQ](https://im.qq.com/pcqq/index.shtml)、[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)、[LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
+- [QQ](https://im.qq.com/pcqq/index.shtml)
 - [Steam](https://store.steampowered.com/about/)
 - [WeGame](https://www.wegame.com.cn/)
 - [HandBrake](https://github.com/HandBrake/HandBrake/releases)、[格式工厂(FormatFactory)](https://www.423down.com/1072.html)、[万兴优转(UniConverter)](https://www.423down.com/9267.html)
@@ -547,7 +547,7 @@ options
 - [aria2](https://github.com/aria2/aria2/releases)
 - [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases)
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)、[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases) `pip3 install --upgrade git+https://github.com/yt-dlp/yt-dlp.git` 、~~[youtube-dl(pip)](https://github.com/ytdl-org/youtube-dl/releases) `pip3 install --upgrade git+https://github.com/ytdl-org/youtube-dl.git`~~ 、[Streamlink(pip)](https://github.com/streamlink/streamlink/releases) `pip3 install --upgrade git+https://github.com/streamlink/streamlink.git`
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases) `pip3 install --upgrade git+https://github.com/yt-dlp/yt-dlp.git` 、[Streamlink(pip)](https://github.com/streamlink/streamlink/releases) `pip3 install --upgrade git+https://github.com/streamlink/streamlink.git`
 - [PixPin](https://pixpinapp.com/)
 - [MPV](https://github.com/hooke007/MPV_lazy)
 - [XnViewMP](https://www.xnview.com/en/xnviewmp/)
@@ -563,7 +563,7 @@ options
 - [Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
 - [Adguard](https://adguard.com/en/adguard-windows/overview.html)
 - [PowerToys](https://github.com/microsoft/PowerToys/releases)
-- [IObit IObitUninstaller](https://www.423down.com/7732.html)
+- [Total Uninstall](https://www.423down.com/6178.html)
 
 ## Software List(Optional)
 
@@ -571,7 +571,7 @@ options
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader/releases)、[DDTV](https://github.com/CHKZL/DDTV/releases)
 - [K-Lite Codec Pack Mega](https://codecguide.com/download_k-lite_codec_pack_mega.htm)
 - [Cheat Engine](https://cheatengine.org/)
-- [mitmproxy(pip)](https://github.com/mitmproxy/mitmproxy) `pip3 install --upgrade git+https://github.com/mitmproxy/mitmproxy.git` 、[Fiddler Classic](https://www.telerik.com/download/fiddler)、[Fiddler Everywhere](https://www.telerik.com/download/fiddler-everywhere)
+- [ProxyPin](https://github.com/wanghongenpin/proxypin)、[mitmproxy(pip)](https://github.com/mitmproxy/mitmproxy) `pip3 install --upgrade git+https://github.com/mitmproxy/mitmproxy.git` 、[Fiddler Classic](https://www.telerik.com/download/fiddler)、[Fiddler Everywhere](https://www.telerik.com/download/fiddler-everywhere)
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 - [Open Broadcaster Software](https://obsproject.com/download)
 - [drawio](https://github.com/jgraph/drawio)
@@ -584,9 +584,7 @@ options
 - [Parsec](https://parsec.app/downloads)
 - [uTools](https://www.u.tools/)
 - [Sysinternals](https://learn.microsoft.com/zh-cn/sysinternals/downloads/)
-- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 - [ICAT](https://www.nvidia.cn/geforce/technologies/icat/)
-- [PicQuickCompare](https://github.com/Nigh/PicQuickCompare/releases)
 
 #### Recovery
 
@@ -607,6 +605,7 @@ options
 - [PowerShell](https://github.com/PowerShell/PowerShell/releases)
 - [TDM-GCC](https://jmeubank.github.io/tdm-gcc/)
 - [Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)
+- [DBeaver](https://dbeaver.io/download/)
 
 ## 开始菜单布局
 
@@ -652,8 +651,6 @@ options
 - ~~[QZoneExport](https://github.com/ShunCai/QZoneExport)~~
 - ~~[Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)~~
 - ~~[贴吧签到助手](https://chromewebstore.google.com/detail/bpheclmhommpomjoeoifcggjmdelgaoj)~~
-- ~~[uBlacklist](https://github.com/iorate/uBlacklist)、[中文搜索结果黑名单](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)~~
-- ~~[uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)~~
 
 <details><summary>字体及美化</summary>
 
