@@ -142,7 +142,7 @@
 
 ## 平台
 
-- [X](https://play.google.com/store/apps/details?id=com.twitter.android)
+- [X(Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 - [Github](https://github.com/mobile)
 
@@ -206,7 +206,7 @@
 
 - [Google Play Store](https://www.apkmirror.com/apk/google-inc/google-play-store/)
 
-- [华为应用市场](https://consumer.huawei.com/cn/mobileservices/appgallery/)
+- ~~[华为应用市场](https://consumer.huawei.com/cn/mobileservices/appgallery/)~~
 
 - [酷安](https://www.coolapk.com/apk/com.coolapk.market)
 
@@ -214,7 +214,7 @@
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- ~~[【Magisk Module】safetynet-fix](https://github.com/kdrag0n/safetynet-fix/releases)~~、[【Magisk Module】PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix/releases)
+- [【Magisk Module】PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix/releases)
 
 - [【Magisk Module】BootAnimation](https://t.me/MagiBoot)
 
@@ -248,17 +248,11 @@
 
 - [【LSPosed Module】哔哩漫游](https://github.com/yujincheng08/BiliRoaming/releases)
 
-- ~~[【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook/releases)~~、[【LSPosed Module】应用变量](https://github.com/appenv/appenv.github.io/releases)
-
-- ~~[【LSPosed Module】QAuxiliary](https://github.com/cinit/QAuxiliary)~~、~~[【LSPosed Module】微 X 模块](https://t.me/fk_zhang)~~
-
-- ~~[【LSPosed Module】TSBattery](https://github.com/fankes/TSBattery/releases)~~
-
-- ~~[LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)~~
+- [【LSPosed Module】应用变量](https://github.com/appenv/appenv.github.io/releases)
 
 - [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)
 
-## Proxy
+## Network
 
 - [v2rayNG](https://github.com/2dust/v2rayNG/releases)
 
@@ -267,6 +261,8 @@
 - [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)
 
 - [ServerBox](https://github.com/lollipopkit/flutter_server_box)
+
+- [RustDesk](https://github.com/rustdesk/rustdesk/releases)
 
 ## 聊天
 
@@ -280,7 +276,7 @@
 
 ## 无分组
 
-- [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader)
+- [Follow](https://github.com/RSSNext/Follow/releases)
 
 ## 系统工具
 
