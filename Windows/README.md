@@ -564,6 +564,7 @@ options
 - [Adguard](https://adguard.com/en/adguard-windows/overview.html)
 - [PowerToys](https://github.com/microsoft/PowerToys/releases)
 - [Total Uninstall](https://www.423down.com/6178.html)
+- [RustDesk](https://github.com/rustdesk/rustdesk/releases)
 
 ## Software List(Optional)
 
