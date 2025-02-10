@@ -1,0 +1,27 @@
+{
+  "browser": "/usr/bin/chromium",
+  "games": ["460630", "488634", "490382", "493057", "511224","65997"],
+  "headless": true,
+  "headless_login": true,
+  "username": "",
+  "password": "",
+  "interval": 15,
+  "load_timeout_secs": 30,
+  "failed_stream_retry": 3,
+  "failed_stream_timeout": 30,
+  "browser_args": ["--no-sandbox"],
+  "watch_unlisted_games": false,
+  "hide_video": true,
+  "show_account_not_linked_warning": false,
+  "do_version_check": false,
+  "tui": {
+    "enabled": false
+  },
+  "updates": {
+    "type": "release",
+    "enabled": false
+  },
+  "logging": {
+    "enabled": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "servers": [
+    {
+      "address": "223.5.5.5",
+      "port": 53,
+      "skipFallback": true,
+      "domains": ["geosite:cn"],
+      "expectIPs": ["geoip:cn"]
+    },
+    "https://dns.google/dns-query"
+  ],
+  "queryStrategy": "UseIPv4"
+}
+
+{"servers":[{"address":"223.5.5.5","port":53,"skipFallback":true,"domains":["geosite:cn"],"expectIPs":["geoip:cn"]},"https://dns.google/dns-query"],"queryStrategy":"UseIPv4"}
