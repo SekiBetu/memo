@@ -1,13 +1,10 @@
 [
   {
-    "port": "",
     "outboundTag": "proxy",
-    "ip": [],
     "domain": [
       "domain:googleapis.cn",
       "domain:gstatic.com"
     ],
-    "process": [],
     "enabled": true,
     "remarks": "Google cn"
   },
@@ -33,24 +30,18 @@
     "remarks": "\u963B\u65AD\u5E7F\u544A"
   },
   {
-    "port": "",
     "outboundTag": "direct",
     "ip": [
       "geoip:private"
     ],
-    "domain": [],
-    "process": [],
     "enabled": true,
     "remarks": "\u7ED5\u8FC7\u5C40\u57DF\u7F51IP"
   },
   {
-    "port": "",
     "outboundTag": "direct",
-    "ip": [],
     "domain": [
       "geosite:private"
     ],
-    "process": [],
     "enabled": true,
     "remarks": "\u7ED5\u8FC7\u5C40\u57DF\u7F51\u57DF\u540D"
   },
@@ -115,7 +106,6 @@
     "remarks": "\u7ED5\u8FC7\u4E2D\u56FD\u516C\u5171DNS\u57DF\u540D"
   },
   {
-    "port": "",
     "outboundTag": "direct",
     "ip": [
       "geoip:cn"
@@ -124,18 +114,11 @@
     "remarks": "\u7ED5\u8FC7\u4E2D\u56FDIP"
   },
   {
-    "port": "",
     "outboundTag": "direct",
     "domain": [
       "geosite:cn"
     ],
     "enabled": true,
     "remarks": "\u7ED5\u8FC7\u4E2D\u56FD\u57DF\u540D"
-  },
-  {
-    "port": "0-65535",
-    "outboundTag": "proxy",
-    "enabled": true,
-    "remarks": "\u6700\u7EC8\u4EE3\u7406"
   }
 ]
