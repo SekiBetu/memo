@@ -154,6 +154,8 @@
 
 - [百度网盘](https://pan.baidu.com/download)
 
+- [Seal](https://github.com/JunkFood02/Seal/releases)
+
 - [迅雷](https://mobile.xunlei.com/)
 
 - [飞猫盘](https://www.feimaoyun.com/)
@@ -247,6 +249,10 @@
 - [LocalSend](https://github.com/localsend/localsend/releases)
 
 - [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
+
+- [DeepSeek](https://chat.deepseek.com)
+
+- [腾讯元宝](https://yuanbao.tencent.com/)
 
 - ~~[【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook)~~、~~[【LSPosed Module】Thanox](https://github.com/Tornaco/Thanox/releases)~~
 
