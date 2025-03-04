@@ -628,12 +628,12 @@ options
 - [Dark Reader](https://github.com/darkreader/darkreader/releases)
 - [cat-catch](https://github.com/xifangczy/cat-catch)
 - [Violentmonkey](https://github.com/violentmonkey/violentmonkey)
-- [Furigana Maker](https://chromewebstore.google.com/detail/furigana-maker/heodojceeinbkfjfilnfminlkgbacpfp)
 
 #### Unpinned
 
 - [Augmented Steam](https://github.com/tfedor/AugmentedSteam)
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe)
+- [Furigana Maker](https://chromewebstore.google.com/detail/furigana-maker/heodojceeinbkfjfilnfminlkgbacpfp)
 - [IDM Integration Module](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 - [JSON Viewer](https://github.com/mrfanii/JSON-Viewer-V3)
 - [Refined GitHub](https://github.com/refined-github/refined-github)
