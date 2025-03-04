@@ -628,6 +628,7 @@ options
 - [Dark Reader](https://github.com/darkreader/darkreader/releases)
 - [cat-catch](https://github.com/xifangczy/cat-catch)
 - [Violentmonkey](https://github.com/violentmonkey/violentmonkey)
+- [Furigana Maker](https://chromewebstore.google.com/detail/furigana-maker/heodojceeinbkfjfilnfminlkgbacpfp)
 
 #### Unpinned
 
@@ -635,7 +636,6 @@ options
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe)
 - [IDM Integration Module](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 - [JSON Viewer](https://github.com/mrfanii/JSON-Viewer-V3)
-- [mirigana](https://github.com/mirigana/mirigana)
 - [Refined GitHub](https://github.com/refined-github/refined-github)
 - [ScrollAnywhere](https://chromewebstore.google.com/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi)
 - [Show YouTube comments while watching](https://github.com/tanguykurylo/show-youtube-comments)
@@ -646,9 +646,9 @@ options
 #### Not Using
 
 - ~~[Adobe Acrobat](https://chromewebstore.google.com/detail/adobe-acrobat/efaidnbmnnnibpcajpcglclefindmkaj)~~
-
 - ~~[FeHelper](https://github.com/zxlie/FeHelper)~~
 - ~~[QZoneExport](https://github.com/ShunCai/QZoneExport)~~
+- ~~[mirigana](https://github.com/mirigana/mirigana)~~
 - ~~[RSS Reader Extension (by Inoreader)](https://chromewebstore.google.com/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)~~
 - ~~[Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)~~
 - ~~[WebRTC Leak Prevent](https://github.com/aghorler/WebRTC-Leak-Prevent)~~
