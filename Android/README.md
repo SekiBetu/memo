@@ -160,6 +160,8 @@
 
 - [飞猫盘](https://www.feimaoyun.com/)
 
+- [夸克(网盘/扫描王)](https://www.quark.cn/)
+
 ## 出行
 
 - [高德地图](https://mobile.amap.com/)
@@ -243,8 +245,6 @@
 - [WPS](https://mo.wps.cn/pc-app/office-android.html)
 
 - [搜狗输入法](https://pinyin.cn/)
-
-- [汉王扫描王](https://www.hanvonscanner.com/)、~~[夸克扫描王](https://scan.quark.cn/)~~
 
 - [LocalSend](https://github.com/localsend/localsend/releases)
 
