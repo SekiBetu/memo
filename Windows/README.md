@@ -643,6 +643,7 @@ options
 - [Steam Database](https://github.com/SteamDatabase/BrowserExtension)
 - [TabCopy](https://chromewebstore.google.com/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb)
 - [Useful Forks](https://chromewebstore.google.com/detail/useful-forks/aflbdmaojedofngiigjpnlabhginodbf)
+- [X Twitter Scraper](https://chromewebstore.google.com/detail/x-twitter-scraper/cedomiiokkcmbeoekchahgmfcppnclal)
 
 #### Not Using
 
