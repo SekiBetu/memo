@@ -627,7 +627,8 @@ options
 - [Stylus](https://github.com/openstyles/stylus)
 - [Dark Reader](https://github.com/darkreader/darkreader/releases)
 - [cat-catch](https://github.com/xifangczy/cat-catch)
-- [Violentmonkey](https://github.com/violentmonkey/violentmonkey)
+- [Tampermonkey](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
 
 #### Unpinned
 
@@ -653,6 +654,7 @@ options
 - ~~[mirigana](https://github.com/mirigana/mirigana)~~
 - ~~[RSS Reader Extension (by Inoreader)](https://chromewebstore.google.com/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)~~
 - ~~[Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)~~
+- ~~[Violentmonkey](https://github.com/violentmonkey/violentmonkey)~~
 - ~~[WebRTC Leak Prevent](https://github.com/aghorler/WebRTC-Leak-Prevent)~~
 - ~~[贴吧签到助手](https://chromewebstore.google.com/detail/bpheclmhommpomjoeoifcggjmdelgaoj)~~
 
