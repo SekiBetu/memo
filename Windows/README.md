@@ -610,6 +610,7 @@ options
 - [Keil uVision 5](https://www.keil.com/update/rvmdk.asp)
 - [Arm Compiler 5](https://developer.arm.com/downloads/view/ACOMP5)
 - [J-Link](https://www.segger.com/downloads/jlink/)
+- [Altium Designer](https://www.yutu.cn/softhtml/showsoft_6730.html)、[KiCad](https://github.com/KiCad/kicad-source-mirror/releases/)、[嘉立创EDA](https://lceda.cn/)
 
 ## 开始菜单布局
 
@@ -631,7 +632,6 @@ options
 - [Dark Reader](https://github.com/darkreader/darkreader/releases)
 - [cat-catch](https://github.com/xifangczy/cat-catch)
 - [Tampermonkey](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-
 
 #### Unpinned
 
