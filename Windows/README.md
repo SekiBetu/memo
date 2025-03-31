@@ -605,8 +605,11 @@ options
 - [Python](https://www.python.org/downloads/)
 - [MySQL](https://dev.mysql.com/downloads/windows/installer/5.7.html)
 - [PowerShell](https://github.com/PowerShell/PowerShell/releases)
-- [TDM-GCC](https://jmeubank.github.io/tdm-gcc/)
+- [MinGW-W64](https://github.com/niXman/mingw-builds-binaries/releases)
 - [DBeaver](https://dbeaver.io/download/)、[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)
+- [Keil uVision 5](https://www.keil.com/update/rvmdk.asp)
+- [Arm Compiler 5](https://developer.arm.com/downloads/view/ACOMP5)
+- [J-Link](https://www.segger.com/downloads/jlink/)
 
 ## 开始菜单布局
 
