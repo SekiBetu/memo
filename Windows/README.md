@@ -612,6 +612,7 @@ options
 - [Arm Compiler 5](https://developer.arm.com/downloads/view/ACOMP5)
 - [J-Link](https://www.segger.com/downloads/jlink/)
 - [Altium Designer](https://www.yutu.cn/softhtml/showsoft_6730.html)、[KiCad](https://github.com/KiCad/kicad-source-mirror/releases/)、[嘉立创EDA](https://lceda.cn/)
+- [PulseView](https://github.com/sigrokproject/pulseview/releases)、[saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)
 
 ## 开始菜单布局
 
