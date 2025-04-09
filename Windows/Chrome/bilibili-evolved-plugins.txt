@@ -1,7 +1,9 @@
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/live/badge-helper.js
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/style/auto-hide-sidebar.js
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/style/dark-mode.js
+https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/utils/active-video-links.js
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/utils/download-audio.js
+https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/utils/download-emoticons.js
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/utils/view-cover.js
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/video/danmaku/download.js
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/video/download.js
