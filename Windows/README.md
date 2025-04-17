@@ -594,7 +594,7 @@ options
 
 ## Developer Tools
 
-- [Temurin](https://adoptium.net/)、[Oracle JDK](https://www.oracle.com/java/technologies/downloads/)
+- [Temurin](https://adoptium.net/)
 - [Windows Terminal](https://github.com/microsoft/terminal/releases)
 - [Tabby](https://github.com/Eugeny/tabby/releases)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)、[JetBrains Mono](https://www.jetbrains.com/lp/mono/)、[patch](https://zhile.io/)、[patch2](https://3.jetbra.in)
