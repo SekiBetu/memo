@@ -98,7 +98,7 @@
 
 - [快看漫画](https://www.kkmh.com/webs/download)
 
-- [JavDB](https://github.com/bdvajstudio/javdb/releases)
+- ~~[JavDB](https://github.com/bdvajstudio/javdb/releases)~~
 
 - [阅读](https://github.com/gedoor/legado/releases)
 
@@ -122,15 +122,15 @@
 
 - [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community)
 
-- [TapTap](https://www.taptap.com/mobile)
+- ~~[TapTap](https://www.taptap.com/mobile)~~
 
-- [网易BUFF](https://buff.163.com/app/)
+- ~~[网易BUFF](https://buff.163.com/app/)~~
 
 - [DNF助手](https://dnf.qq.com/cp/a20190809app/)
 
-- [一念逍遥](https://xian.leiting.com/)
+- ~~[一念逍遥](https://xian.leiting.com/)~~
 
-- [森空岛](https://www.skland.com/)
+- ~~[森空岛](https://www.skland.com/)~~
 
 ## 安全
 
@@ -158,7 +158,7 @@
 
 - [迅雷](https://mobile.xunlei.com/)
 
-- [飞猫盘](https://www.feimaoyun.com/)
+- ~~[飞猫盘](https://www.feimaoyun.com/)~~
 
 ## 出行
 
