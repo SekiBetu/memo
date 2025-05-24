@@ -542,7 +542,6 @@ options
 - [Steam](https://store.steampowered.com/about/)
 - [WeGame](https://www.wegame.com.cn/)
 - [HandBrake](https://github.com/HandBrake/HandBrake/releases)、[格式工厂(FormatFactory)](https://www.423down.com/1072.html)、[万兴优转(UniConverter)](https://www.423down.com/9267.html)
-- [便笺](https://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw)
 - [Shotcut](https://github.com/mltframework/shotcut/releases)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 - [网易云音乐](https://music.163.com/#/download)
@@ -616,6 +615,8 @@ options
 - [J-Link](https://www.segger.com/downloads/jlink/)
 - [Altium Designer](https://www.yutu.cn/softhtml/showsoft_6730.html)、[KiCad](https://github.com/KiCad/kicad-source-mirror/releases/)、[嘉立创EDA](https://lceda.cn/)
 - [PulseView](https://github.com/sigrokproject/pulseview/releases)、[saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)
+- [SolidWorks](https://www.423down.com/16519.html)
+- [Bambu Studio](https://bambulab.cn/zh-cn/download/studio)
 
 ## 开始菜单布局
 
