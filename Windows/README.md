@@ -615,7 +615,7 @@ options
 - [J-Link](https://www.segger.com/downloads/jlink/)
 - [Altium Designer](https://www.yutu.cn/softhtml/showsoft_6730.html)、[KiCad](https://github.com/KiCad/kicad-source-mirror/releases/)、[嘉立创EDA](https://lceda.cn/)
 - [PulseView](https://github.com/sigrokproject/pulseview/releases)、[saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)
-- [SolidWorks](https://www.423down.com/16519.html)
+- [SolidWorks](https://www.423down.com/16519.html)、[Autodesk Fusion](https://www.autodesk.com/products/fusion-360/personal-form?userstate=signedin)、[direct link](https://dl.appstreaming.autodesk.com/production/installers/Fusion%20Client%20Downloader.exe)
 - [Bambu Studio](https://bambulab.cn/zh-cn/download/studio)
 
 ## 开始菜单布局
