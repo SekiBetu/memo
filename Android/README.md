@@ -182,6 +182,10 @@
 
 - [闲鱼](https://2.taobao.com/)
 
+- [嘉立创下单助手](https://www.jlc.com/portal/appDownloadsWithConfig.html)
+
+- [立创商城](https://www.szlcsc.com/app.html)
+
 ## 营业厅
 
 - [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
@@ -194,11 +198,13 @@
 
 - ~~[国家医保服务平台](https://app.gjzwfw.gov.cn/fwmhapp/downloadApp/android.html)~~
 
-## 临时
+## AI
 
-- [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
+- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 
-- [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
+- [DeepSeek](https://chat.deepseek.com)
+
+- [腾讯元宝](https://yuanbao.tencent.com/)
 
 ## 外卖
 
@@ -248,12 +254,6 @@
 
 - [LocalSend](https://github.com/localsend/localsend/releases)
 
-- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
-
-- [DeepSeek](https://chat.deepseek.com)
-
-- [腾讯元宝](https://yuanbao.tencent.com/)
-
 - ~~[【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook)~~、~~[【LSPosed Module】Thanox](https://github.com/Tornaco/Thanox/releases)~~
 
 - [【LSPosed Module】哔哩漫游](https://github.com/yujincheng08/BiliRoaming/releases)
@@ -272,7 +272,7 @@
 
 - [RustDesk](https://github.com/rustdesk/rustdesk/releases)
 
-## 聊天
+## 即时通信
 
 - [QQ](https://im.qq.com/download)
 
@@ -324,6 +324,8 @@
 
 - [GKD](https://github.com/gkd-kit/gkd/releases/)
 
+- [米家](https://g.home.mi.com/views/download-mihome.html)
+
 ## 无分组
 
 - [网易云音乐](https://music.163.com/#/download)
@@ -340,6 +342,11 @@
 
 - 相机
 
+## 3D打印
+
+- [Bambu Handy](https://bambulab.cn/zh-cn/download)
+
+- [KIRI Engine](https://play.google.com/store/apps/details?id=com.kiriengine.app)
 
 ## 无分组
 
@@ -354,3 +361,13 @@
 - ~~[前程无忧 51job](http://app.51job.com/index.html)~~
 
 - ~~[58同城](https://down.58.com/home.html)~~
+
+## 临时
+
+- 可视耳勺
+
+- [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
+
+- [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
+
+- Fr8010 OTA
