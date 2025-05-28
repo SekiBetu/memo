@@ -284,7 +284,7 @@
 
 ## 无分组
 
-- [Folo/Follow](https://github.com/RSSNext/Folo/releases)
+- [Folo](https://github.com/RSSNext/Folo/releases)
 
 ## 系统工具
 
