@@ -535,7 +535,7 @@ options
 - [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer/releases)
 - [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)
-- [WPS](https://www.wps.cn/)
+- [WPS](https://www.wps.cn/) 配置里关闭在线资源和功能推荐
 - [方方格子](http://www.ffcell.com/home/ffcell.aspx)
 - [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
 - [QQ](https://im.qq.com/pcqq/index.shtml)
