@@ -224,7 +224,7 @@
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- [【Magisk Module】PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix/releases)
+- [【Magisk Module】Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)
 
 - [【Magisk Module】BootAnimation](https://t.me/MagiBoot)
 
