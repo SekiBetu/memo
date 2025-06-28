@@ -236,7 +236,13 @@
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- [【Magisk Module】Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)
+- [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)
+
+- [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
+
+- ~~[【Magisk Module】Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)~~、[【Magisk Module】PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT/releases)
+
+- [【Magisk Module】TrickyStore](https://github.com/5ec1cff/TrickyStore/releases)
 
 - [【Magisk Module】BootAnimation](https://t.me/MagiBoot)
 
