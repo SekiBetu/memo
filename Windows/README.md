@@ -430,6 +430,7 @@ C:\Users\username\AppData\Roaming\yt-dlp\config
 
 ```shell
 ffmpeg -hwaccel_output_format cuda -c:v h264_cuvid -i input.mp4 -vf ass=input.ass -c:v h264_nvenc -cq:v 19 output.mp4
+ffmpeg -hwaccel cuda -i input.mp4 -i input.m4a -c:v copy -c:a copy output.mp4
 ```
 
 </details>
