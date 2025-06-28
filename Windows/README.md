@@ -429,8 +429,11 @@ C:\Users\username\AppData\Roaming\yt-dlp\config
 <details><summary>ffmpeg</summary>
 
 ```shell
-# 转换格式
+# 转换格式(无损)
 ffmpeg -hwaccel cuda -i input.avi -c:v copy -c:a copy output.mp4
+
+# 转换格式(有损)
+ffmpeg -hwaccel cuda -i input.avi -c:v h264_nvenc -preset p7 -cq 0 output.mp4
 
 # 嵌入字幕(有损方法一)
 ffmpeg -hwaccel_output_format cuda -c:v h264_cuvid -i input.mp4 -vf ass=input.ass -c:v h264_nvenc -cq:v 19 output.mp4
