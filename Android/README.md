@@ -110,6 +110,10 @@
 
 - [抖音](https://www.douyin.com/)
 
+- [斗鱼](https://www.douyu.com/client)
+
+- [虎牙](https://www.huya.com/download/)
+
 ## 无分组
 
 - [小米计算器](https://play.google.com/store/apps/details?id=com.miui.calculator)
@@ -124,9 +128,13 @@
 
 - ~~[TapTap](https://www.taptap.com/mobile)~~
 
-- ~~[网易BUFF](https://buff.163.com/app/)~~
-
 - [DNF助手](https://dnf.qq.com/cp/a20190809app/)
+
+- [腾讯START云游戏](https://start.qq.com/download.html)
+
+- [网易BUFF](https://buff.163.com/app/)
+
+- [Last War](https://play.google.com/store/apps/details?id=com.fun.lastwar.gp)
 
 - ~~[一念逍遥](https://xian.leiting.com/)~~
 
@@ -149,6 +157,8 @@
 - [Github](https://github.com/mobile)
 
 - [微博](https://c.weibo.cn/)
+
+- [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 ## 存储下载
 
@@ -191,6 +201,8 @@
 - [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
 
 - [中国建设银行](https://appgallery.huawei.com/app/C10092701)
+
+- [中国电信](https://www.189.cn/client/)
 
 - ~~[浙里办](https://www.zjzwfw.gov.cn/col/col1229640638/index.html)~~
 
