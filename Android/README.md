@@ -236,7 +236,7 @@
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- [【Magisk Module】ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)
+- [【Magisk Module】Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
 
 - [【Magisk Module】Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
 
@@ -264,7 +264,7 @@
 
 - [MT 管理器](https://bbs.binmt.cc/forum-2-1.html)
 
-- [MX Player Pro](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro)
+- [Next Player](https://github.com/anilbeesetti/nextplayer/releases)
 
 - [WPS](https://mo.wps.cn/pc-app/office-android.html)
 
@@ -391,3 +391,7 @@
 - [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
 
 - Fr8010 OTA
+
+## 无分组
+
+- [天眼查](https://www.tianyancha.com/)
