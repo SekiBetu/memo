@@ -432,15 +432,21 @@ C:\Users\username\AppData\Roaming\yt-dlp\config
 # 转换格式
 ffmpeg -hwaccel cuda -i input.avi -c:v copy -c:a copy output.mp4
 
-# 嵌入字幕
+# 嵌入字幕(有损方法一)
 ffmpeg -hwaccel_output_format cuda -c:v h264_cuvid -i input.mp4 -vf ass=input.ass -c:v h264_nvenc -cq:v 19 output.mp4
 
-# 合并音频视频
+# 嵌入字幕(有损方法二)
+ffmpeg -hwaccel cuda -i video.mp4 -vf "subtitles=sub.ass:force_style='Fontsize=24'" -c:v h264_nvenc -preset p7 -cq 0 -c:a copy output.mp4
+
+# 嵌入字幕(无损)
+ffmpeg -hwaccel cuda -i video.mp4 -i sub.ass -map 0 -map 1 -c:v copy -c:a copy -c:s mov_text -metadata:s:s:0 title="中文" -metadata:s:s:0 language=chi output.mp4
+
+# 合并音频视频(方法一)
 ffmpeg -hwaccel cuda -i input.mp4 -i input.m4a -c:v copy -c:a copy output.mp4
 
-# 视频转TS格式（兼容H.264流）
+# 合并音频视频(方法二)：先转TS格式
 ffmpeg -hwaccel cuda -i video.mp4 -c copy -bsf:v h264_mp4toannexb -f mpegts video.ts
-# 合并TS与音频
+# 合并音频视频(方法二)：再合并TS与音频
 ffmpeg -i "concat:video.ts" -i audio.m4a -c copy -bsf:a aac_adtstoasc output.mp4
 ```
 
