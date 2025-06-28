@@ -236,13 +236,15 @@
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)
+- [【Magisk Module】ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)
 
-- [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
+- [【Magisk Module】Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
 
 - ~~[【Magisk Module】Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)~~、[【Magisk Module】PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT/releases)
 
 - [【Magisk Module】TrickyStore](https://github.com/5ec1cff/TrickyStore/releases)
+
+- [【Magisk Module】Unlock CN GMS](https://github.com/fei-ke/unlock-cn-gms)
 
 - [【Magisk Module】BootAnimation](https://t.me/MagiBoot)
 
