@@ -429,7 +429,13 @@ C:\Users\username\AppData\Roaming\yt-dlp\config
 <details><summary>ffmpeg</summary>
 
 ```shell
+# 转换格式
+ffmpeg -hwaccel cuda -i input.avi -c:v copy -c:a copy output.mp4
+
+# 嵌入字幕
 ffmpeg -hwaccel_output_format cuda -c:v h264_cuvid -i input.mp4 -vf ass=input.ass -c:v h264_nvenc -cq:v 19 output.mp4
+
+# 合并音频视频
 ffmpeg -hwaccel cuda -i input.mp4 -i input.m4a -c:v copy -c:a copy output.mp4
 
 # 视频转TS格式（兼容H.264流）
