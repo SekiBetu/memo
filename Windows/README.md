@@ -541,6 +541,7 @@ options
 
 - [WinNTSetup](https://msfn.org/board/topic/149612-winntsetup)
 - [微软运行库](https://github.com/abbodi1406/vcredist/releases)、[Official](https://docs.microsoft.com/zh-CN/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+- [Microsoft Edge WebView2](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2?form=MA13LH#download)
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)、[CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition/releases)、`irm https://massgrave.dev/get | iex`
 - [v2rayN](https://github.com/2dust/v2rayN/releases)
 - [搜狗输入法](https://pinyin.sogou.com/)
