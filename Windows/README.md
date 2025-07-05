@@ -640,6 +640,7 @@ options
 - [SolidWorks](https://www.423down.com/16519.html)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(原迈迪)](https://www.global-dsc.cn/dggj)、[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)
 - [Bambu Studio](https://bambulab.cn/zh-cn/download/studio)
 - [Wireshark](https://www.wireshark.org/#download)
+- [Npcap](https://npcap.com/#download)
 - [FileZilla Pro](https://www.423down.com/10189.html)
 
 ## 开始菜单布局
