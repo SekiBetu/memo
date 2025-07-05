@@ -88,7 +88,7 @@
 
 </details>
 
-- [PicaComic](https://github.com/Pacalini/PicaComic/releases)、[JHenTai](https://github.com/jiangtian616/JHenTai/releases)、~~[Eros-FE](https://github.com/3003h/Eros-FE/releases)~~
+- [venera](https://github.com/venera-app/venera/releases)、[PicaComic](https://github.com/Pacalini/PicaComic/releases)、[JHenTai](https://github.com/jiangtian616/JHenTai/releases)、~~[Eros-FE](https://github.com/3003h/Eros-FE/releases)~~
 
 - ~~[禁漫天堂](https://18comic.vip/stray/)~~
 
