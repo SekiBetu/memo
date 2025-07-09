@@ -54,7 +54,7 @@
 
 ## 小说漫画
 
-- [aniyomi](https://github.com/aniyomiorg/aniyomi/releases)
+- [aniyomi](https://github.com/aniyomiorg/aniyomi/releases)、~~[Mihon](https://github.com/mihonapp/mihon/releases)~~
 
 <details><summary>Tchiyomi Extensions</summary>
 
@@ -62,33 +62,17 @@
 
 - Baozi Manhua
 
-- Baozimh.org
-
 - COLAMANGA
 
 - DM5
 
-- E-Hentai
-
-- Gufeng Manhua
+- GoDa
 
 - Happymh
 
-- Jinmantiantang
-
-- ManHuaDB
-
-- Miaoshang Manhua
-
-- NHentai
-
-- nHentai.com(unoriginal)
-
-- Picacomic
-
 </details>
 
-- [venera](https://github.com/venera-app/venera/releases)、[PicaComic](https://github.com/Pacalini/PicaComic/releases)、[JHenTai](https://github.com/jiangtian616/JHenTai/releases)、~~[Eros-FE](https://github.com/3003h/Eros-FE/releases)~~
+- [venera](https://github.com/venera-app/venera/releases)、[JHenTai](https://github.com/jiangtian616/JHenTai/releases)、~~[PicaComic](https://github.com/Pacalini/PicaComic/releases)~~、~~[Eros-FE](https://github.com/3003h/Eros-FE/releases)~~
 
 - ~~[禁漫天堂](https://18comic.vip/stray/)~~
 
