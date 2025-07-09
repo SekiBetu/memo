@@ -196,6 +196,8 @@
 
 ## AI
 
+- [Google Gemini](https://gemini.google.com/)
+
 - [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 
 - [DeepSeek](https://chat.deepseek.com)
