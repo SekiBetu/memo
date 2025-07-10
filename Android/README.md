@@ -56,7 +56,7 @@
 
 - [aniyomi](https://github.com/aniyomiorg/aniyomi/releases)、~~[Mihon](https://github.com/mihonapp/mihon/releases)~~
 
-<details><summary>Tchiyomi Extensions</summary>
+<details><summary>aniyomi Extensions</summary>
 
 - 6Manhua
 
@@ -76,19 +76,19 @@
 
 </details>
 
-- [venera](https://github.com/venera-app/venera/releases)、[JHenTai](https://github.com/jiangtian616/JHenTai/releases)、~~[PicaComic](https://github.com/Pacalini/PicaComic/releases)~~、~~[Eros-FE](https://github.com/3003h/Eros-FE/releases)~~
+- ~~[venera](https://github.com/venera-app/venera/releases)~~、[JHenTai](https://github.com/jiangtian616/JHenTai/releases)、~~[PicaComic](https://github.com/Pacalini/PicaComic/releases)~~、~~[Eros-FE](https://github.com/3003h/Eros-FE/releases)~~
 
-- ~~[禁漫天堂](https://18comic.vip/stray/)~~
+- [禁漫天堂](https://18comic.vip/stray/)
 
-- ~~[哔咔漫画](https://www.picacomic.com/)~~
+- [哔咔漫画](https://www.picacomic.com/)
+
+- [阅读](https://github.com/gedoor/legado/releases)
 
 - [腾讯动漫](https://ac.qq.com/)
 
 - [快看漫画](https://www.kkmh.com/webs/download)
 
 - ~~[JavDB](https://github.com/bdvajstudio/javdb/releases)~~
-
-- [阅读](https://github.com/gedoor/legado/releases)
 
 ## 视频直播
 
