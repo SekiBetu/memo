@@ -184,6 +184,12 @@
 
 - [立创商城](https://www.szlcsc.com/app.html)
 
+- [欧易](https://www.okx.com/zh-hans/download)
+
+- [PokePay](https://pokepay.cc/appdown.html)
+
+- [Wise](https://wise.com/)
+
 ## 营业厅
 
 - [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
