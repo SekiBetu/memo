@@ -612,6 +612,14 @@ options
 - [Sysinternals](https://learn.microsoft.com/zh-cn/sysinternals/downloads/)
 - [ICAT](https://www.nvidia.cn/geforce/technologies/icat/)
 
+#### Hardware
+
+- [AIDA64](https://www.423down.com/887.html)
+- [FurMark](https://geeks3d.com/furmark/downloads/)
+- [HWiNFO](https://www.hwinfo.com/download/)
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+- [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/)
+
 #### Recovery
 
 - [DiskGenius](https://www.423down.com/8073.html)
