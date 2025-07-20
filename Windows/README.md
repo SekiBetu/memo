@@ -601,7 +601,7 @@ options
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 - [Open Broadcaster Software](https://obsproject.com/download)
 - [drawio](https://github.com/jgraph/drawio)
-- [VMware Workstation](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro)
+- [VMware Workstation](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
 - [SteamAchievementManager](https://github.com/syntax-tm/SteamAchievementManager/releases)、[SAM-Auto](https://github.com/SekiBetu/SAM-Auto/releases)、[Steam Achievement Abuser](https://github.com/Luois45/Steam-Achievement-Abuser/releases)
 - [NatTypeTester](https://github.com/HMBSbige/NatTypeTester/releases)
 - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit/releases)
