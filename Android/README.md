@@ -64,8 +64,6 @@
 
 - COLAMANGA
 
-- DM5
-
 - GoDa
 
 - Happymh
@@ -87,8 +85,6 @@
 - [腾讯动漫](https://ac.qq.com/)
 
 - [快看漫画](https://www.kkmh.com/webs/download)
-
-- ~~[JavDB](https://github.com/bdvajstudio/javdb/releases)~~
 
 ## 视频直播
 
@@ -116,17 +112,11 @@
 
 - ~~[TapTap](https://www.taptap.com/mobile)~~
 
-- [DNF助手](https://dnf.qq.com/cp/a20190809app/)
-
-- [腾讯START云游戏](https://start.qq.com/download.html)
+- [完美世界电竞](https://app.pwesports.cn/)
 
 - [网易BUFF](https://buff.163.com/app/)
 
 - [Last War](https://play.google.com/store/apps/details?id=com.fun.lastwar.gp)
-
-- ~~[一念逍遥](https://xian.leiting.com/)~~
-
-- ~~[森空岛](https://www.skland.com/)~~
 
 ## 安全
 
@@ -155,8 +145,6 @@
 - [Seal](https://github.com/JunkFood02/Seal/releases)
 
 - [迅雷](https://mobile.xunlei.com/)
-
-- ~~[飞猫盘](https://www.feimaoyun.com/)~~
 
 ## 出行
 
