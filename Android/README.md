@@ -182,7 +182,7 @@
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- Native Test、Momo、Ruru、密钥认证
+- [Native Test](https://github.com/Dr-TSNG/NativeDetector/releases)、[Momo](https://t.me/magiskalpha/529)、[Ruru](https://github.com/byxiaorun/Ruru/releases)、[密钥认证](https://t.me/magiskalpha/608)
 
 - [【Magisk Module】Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
 
