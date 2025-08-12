@@ -278,7 +278,7 @@
 
 - [钉钉](https://www.dingtalk.com/download)
 
-- Discord
+- [Discord](https://play.google.com/store/apps/details?id=com.discord)
 
 ## 无分组
 
