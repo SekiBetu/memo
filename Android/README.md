@@ -178,6 +178,36 @@
 
 - [Wise](https://wise.com/)
 
+## Root
+
+- [Magisk](https://github.com/topjohnwu/Magisk)
+
+- Native Test、Momo、Ruru、密钥认证
+
+- [【Magisk Module】Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
+
+- [【Magisk Module】TrickyStore](https://github.com/5ec1cff/TrickyStore/releases)
+
+- ~~[【Magisk Module】Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)~~、[【Magisk Module】PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT/releases)
+
+- [【Magisk Module】Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
+
+- [【Magisk Module】Unlock CN GMS](https://github.com/fei-ke/unlock-cn-gms)
+
+- ~~[【Magisk Module】MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts)~~、~~[【Magisk Module】Move Certificates](https://github.com/ys1231/MoveCertificate)~~
+
+- [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=workflow%3ACore+branch%3Amaster)
+
+- ~~[【LSPosed Module】CorePatch](https://github.com/LSPosed/CorePatch/releases)~~
+
+- [【LSPosed Module】Enable Screenshot](https://github.com/LSPosed/DisableFlagSecure/releases)
+
+- ~~[【LSPosed Module】JustTrustMe](https://github.com/SekiBetu/JustTrustMe/releases)~~、~~[【LSPosed Module】SSL KiLLER](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer)~~
+
+- [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting)
+
+- [GKD](https://github.com/gkd-kit/gkd/releases/)
+
 ## 营业厅
 
 - [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
@@ -217,30 +247,6 @@
 - [酷安](https://www.coolapk.com/apk/com.coolapk.market)
 
 ## 工具
-
-- [Magisk](https://github.com/topjohnwu/Magisk)
-
-- [【Magisk Module】Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
-
-- [【Magisk Module】Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
-
-- ~~[【Magisk Module】Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)~~、[【Magisk Module】PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT/releases)
-
-- [【Magisk Module】TrickyStore](https://github.com/5ec1cff/TrickyStore/releases)
-
-- [【Magisk Module】Unlock CN GMS](https://github.com/fei-ke/unlock-cn-gms)
-
-- [【Magisk Module】BootAnimation](https://t.me/MagiBoot)
-
-- ~~[【Magisk Module】MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts)~~、~~[【Magisk Module】Move Certificates](https://github.com/ys1231/MoveCertificate)~~
-
-- [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=workflow%3ACore+branch%3Amaster)
-
-- [【LSPosed Module】CorePatch](https://github.com/LSPosed/CorePatch/releases)
-
-- [【LSPosed Module】Enable Screenshot](https://github.com/LSPosed/DisableFlagSecure/releases)
-
-- ~~[【LSPosed Module】JustTrustMe](https://github.com/SekiBetu/JustTrustMe/releases)~~、~~[【LSPosed Module】SSL KiLLER](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer)~~
 
 - [ZArchiver Pro](https://www.423down.com/6027.html)
 
@@ -323,10 +329,6 @@
 - 服务与反馈
 
 - Settings(Magisk)
-
-- [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting)
-
-- [GKD](https://github.com/gkd-kit/gkd/releases/)
 
 - [米家](https://g.home.mi.com/views/download-mihome.html)
 
