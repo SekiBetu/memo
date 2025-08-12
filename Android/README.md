@@ -216,20 +216,6 @@
 
 - [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)
 
-## 营业厅
-
-- [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
-
-- [中国建设银行](https://appgallery.huawei.com/app/C10092701)
-
-- [中国电信](https://www.189.cn/client/)
-
-- ~~[浙里办](https://www.zjzwfw.gov.cn/col/col1229640638/index.html)~~
-
-- ~~[掌上12333](http://www.12333.gov.cn/ggfwstatic/download/app.html)~~
-
-- ~~[国家医保服务平台](https://app.gjzwfw.gov.cn/fwmhapp/downloadApp/android.html)~~
-
 ## AI
 
 - [Google Gemini](https://gemini.google.com/)
@@ -292,6 +278,8 @@
 
 - [钉钉](https://www.dingtalk.com/download)
 
+- Discord
+
 ## 无分组
 
 - [Folo](https://github.com/RSSNext/Folo/releases)
@@ -348,6 +336,20 @@
 
 - 相机
 
+## 营业厅
+
+- [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
+
+- [中国建设银行](https://appgallery.huawei.com/app/C10092701)
+
+- [中国电信](https://www.189.cn/client/)
+
+- ~~[浙里办](https://www.zjzwfw.gov.cn/col/col1229640638/index.html)~~
+
+- ~~[掌上12333](http://www.12333.gov.cn/ggfwstatic/download/app.html)~~
+
+- ~~[国家医保服务平台](https://app.gjzwfw.gov.cn/fwmhapp/downloadApp/android.html)~~
+
 ## 3D打印
 
 - [Bambu Handy](https://bambulab.cn/zh-cn/download)
@@ -368,6 +370,10 @@
 
 - ~~[58同城](https://down.58.com/home.html)~~
 
+## 无分组
+
+- [天眼查](https://www.tianyancha.com/)
+
 ## 临时
 
 - 可视耳勺
@@ -377,7 +383,3 @@
 - [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
 
 - Fr8010 OTA
-
-## 无分组
-
-- [天眼查](https://www.tianyancha.com/)
