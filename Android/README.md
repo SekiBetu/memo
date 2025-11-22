@@ -232,7 +232,7 @@
 
 ## 外卖
 
-- [饿了么](https://www.ele.me/waimai)
+- [淘宝闪购](https://www.ele.me/waimai)
 
 - [美团](https://i.meituan.com/mobile/down/meituan)
 
@@ -260,6 +260,8 @@
 
 - [LocalSend](https://github.com/localsend/localsend/releases)
 
+- [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox)
+
 ## Network
 
 - [v2rayNG](https://github.com/2dust/v2rayNG/releases)
@@ -270,7 +272,7 @@
 
 - [ServerBox](https://github.com/lollipopkit/flutter_server_box)
 
-- [RustDesk](https://github.com/rustdesk/rustdesk/releases)
+- [UU远程](https://uuyc.163.com/)
 
 ## 即时通信
 
@@ -374,16 +376,18 @@
 
 - ~~[58同城](https://down.58.com/home.html)~~
 
-## 无分组
-
-- [天眼查](https://www.tianyancha.com/)
-
 ## 临时
-
-- 可视耳勺
 
 - [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
 
 - [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
 
-- Fr8010 OTA
+- 可视耳勺
+
+- [声级计](https://play.google.com/store/apps/details?id=com.ktwapps.soundmeter)
+
+- BLE OTA
+
+- 内部测试APP
+
+- 热成像监视器
