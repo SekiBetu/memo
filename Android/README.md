@@ -116,13 +116,11 @@
 
 - [网易BUFF](https://buff.163.com/app/)
 
-- [Last War](https://play.google.com/store/apps/details?id=com.fun.lastwar.gp)
-
 ## 安全
 
-- [QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_index?id=index)
-
 - [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator)
+
+- [QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_index?id=index)
 
 - [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
 
@@ -222,9 +220,15 @@
 
 - [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 
-- [DeepSeek](https://chat.deepseek.com)
+- [Grok](https://grok.com/)
+
+- [豆包](https://www.doubao.com/chat/)
+
+- [千问](https://www.qianwen.com/)
 
 - [腾讯元宝](https://yuanbao.tencent.com/)
+
+- [DeepSeek](https://chat.deepseek.com)
 
 ## 外卖
 
