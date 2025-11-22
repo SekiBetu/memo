@@ -94,6 +94,12 @@
 
 - [抖音](https://www.douyin.com/)
 
+- [红果免费短剧](https://novelquickapp.com/)
+
+- [Tiktok](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically)
+
+- Tiktok Plugin
+
 - [斗鱼](https://www.douyu.com/client)
 
 - [虎牙](https://www.huya.com/download/)
@@ -115,6 +121,8 @@
 - [完美世界电竞](https://app.pwesports.cn/)
 
 - [网易BUFF](https://buff.163.com/app/)
+
+- [Last War](https://www.lastwar.com/)
 
 ## 安全
 
