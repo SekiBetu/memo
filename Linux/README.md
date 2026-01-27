@@ -265,7 +265,7 @@ source ~/.bashrc
 
 </details>
 <details>
-<summary>nodejs</summary>
+<summary>Node.js</summary>
 
 https://nodesource.com/products/distributions
 
