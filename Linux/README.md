@@ -265,6 +265,18 @@ source ~/.bashrc
 
 </details>
 <details>
+<summary>nodejs</summary>
+
+https://nodesource.com/products/distributions
+
+```shell
+curl -fsSL https://deb.nodesource.com/setup_24.x | sudo -E bash -
+sudo apt install -y nodejs
+node -v
+```
+
+</details>
+<details>
 <summary>btop++</summary>
 
 https://github.com/aristocratos/btop/releases
