@@ -1,3 +1,6 @@
+# https://wiki.debian.org/DebianRepository/UseThirdParty
+# https://wiki.debian.org/SourcesList
+
 Types: deb
 URIs: https://deb.debian.org/debian
 Suites: trixie trixie-updates trixie-backports
