@@ -1,5 +1,6 @@
 # https://wiki.debian.org/DebianRepository/UseThirdParty
 # https://wiki.debian.org/SourcesList
+# https://ftp.debian.org/debian/pool/main/d/debian-archive-keyring/
 
 deb http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
 deb-src http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
