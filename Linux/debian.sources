@@ -1,5 +1,6 @@
 # https://wiki.debian.org/DebianRepository/UseThirdParty
 # https://wiki.debian.org/SourcesList
+# https://ftp.debian.org/debian/pool/main/d/debian-archive-keyring/
 
 Types: deb
 URIs: https://deb.debian.org/debian
