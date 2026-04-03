@@ -278,6 +278,8 @@
 
 - [UU远程](https://uuyc.163.com/)
 
+- [UU加速器](https://uu.163.com/)
+
 ## 即时通信
 
 - [QQ](https://im.qq.com/download)
@@ -318,15 +320,13 @@
 
 - 指南针
 
-- 小爱视觉
+- AI扫描
 
 - 录音机
 
 - 浏览器
 
 - 服务与反馈
-
-- Settings(Magisk)
 
 - [米家](https://g.home.mi.com/views/download-mihome.html)
 
@@ -391,7 +391,5 @@
 - [声级计](https://play.google.com/store/apps/details?id=com.ktwapps.soundmeter)
 
 - BLE OTA
-
-- 内部测试APP
 
 - 热成像监视器
