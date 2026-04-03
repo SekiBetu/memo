@@ -194,15 +194,13 @@
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- [Native Test](https://github.com/Dr-TSNG/NativeDetector/releases)、[Momo](https://t.me/magiskalpha/529)、[Ruru](https://github.com/byxiaorun/Ruru/releases)、[密钥认证](https://t.me/magiskalpha/608)
+- [Native Test](https://github.com/Dr-TSNG/NativeDetector/releases)、~~[Momo](https://t.me/magiskalpha/529)~~、[Ruru](https://github.com/byxiaorun/Ruru/releases)、[密钥认证](https://t.me/magiskalpha/608)
 
 - [【Magisk Module】Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
 
-- [【Magisk Module】TrickyStore](https://github.com/5ec1cff/TrickyStore/releases)
+- ~~[【Magisk Module】TrickyStore](https://github.com/5ec1cff/TrickyStore/releases)~~
 
-- ~~[【Magisk Module】Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)~~、[【Magisk Module】PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT/releases)
-
-- [【Magisk Module】Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
+- ~~[【Magisk Module】Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)~~、~~[【Magisk Module】PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT/releases)~~
 
 - [【Magisk Module】Unlock CN GMS](https://github.com/fei-ke/unlock-cn-gms)
 
@@ -218,7 +216,7 @@
 
 - ~~[【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook)~~、~~[【LSPosed Module】Thanox](https://github.com/Tornaco/Thanox/releases)~~
 
-- [【LSPosed Module】哔哩漫游](https://github.com/yujincheng08/BiliRoaming/releases)
+- ~~[【LSPosed Module】哔哩漫游](https://github.com/yujincheng08/BiliRoaming/releases)~~
 
 - [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting)
 
@@ -227,6 +225,8 @@
 - [MT 管理器](https://bbs.binmt.cc/forum-2-1.html)
 
 - [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)
+
+- [KsuWebUI](https://github.com/adivenxnataly/KsuWebUI/releases)
 
 ## AI
 
