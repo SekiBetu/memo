@@ -124,6 +124,8 @@
 
 - [Last War](https://www.lastwar.com/)
 
+- [小黑盒](https://www.xiaoheihe.cn/home)
+
 ## 安全
 
 - [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator)
