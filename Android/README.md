@@ -152,7 +152,7 @@
 
 - [百度网盘](https://pan.baidu.com/download)
 
-- [Seal](https://github.com/JunkFood02/Seal/releases)
+- [YTDLnis](https://github.com/deniscerri/ytdlnis/releases)
 
 - [迅雷](https://mobile.xunlei.com/)
 
