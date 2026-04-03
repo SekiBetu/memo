@@ -226,23 +226,13 @@
 
 - [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)
 
-- [KsuWebUI](https://github.com/adivenxnataly/KsuWebUI/releases)
+- [KsuWebUI](https://github.com/adivenxnataly/KsuWebUI/releases) 仅还原挂载、使用匿名内存、使用Zygisk Next链接器(实验性)
 
 ## AI
 
 - [Google Gemini](https://gemini.google.com/)
 
-- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
-
-- [Grok](https://grok.com/)
-
 - [豆包](https://www.doubao.com/chat/)
-
-- [千问](https://www.qianwen.com/)
-
-- [腾讯元宝](https://yuanbao.tencent.com/)
-
-- [DeepSeek](https://chat.deepseek.com)
 
 ## 外卖
 
@@ -380,7 +370,7 @@
 
 - [多邻国](https://www.duolingo.com/)
 
-## Future
+## Job
 
 - ~~[BOSS 直聘](https://app.zhipin.com/?ka=header-app)~~
 
