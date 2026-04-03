@@ -188,6 +188,8 @@
 
 - [Wise](https://wise.com/)
 
+- [慢慢买](https://tool.manmanbuy.com/)
+
 ## Root
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
