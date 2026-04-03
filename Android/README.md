@@ -146,6 +146,8 @@
 
 - [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
+- [小红书](https://www.xiaohongshu.com/download)
+
 ## 存储下载
 
 - [百度网盘](https://pan.baidu.com/download)
