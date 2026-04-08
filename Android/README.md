@@ -230,7 +230,11 @@
 
 ## AI
 
-- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+https://artificialanalysis.ai/leaderboards/models
+
+https://www.superclueai.com/homepage
+
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat) (Gemini 3.1 Pro Preview)
 
 - [ChatGPT](https://chatgpt.com/)
 
