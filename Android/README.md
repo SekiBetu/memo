@@ -236,11 +236,11 @@ https://www.superclueai.com/homepage
 
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat) (Gemini 3.1 Pro Preview)
 
-- [ChatGPT](https://chatgpt.com/)
+- [ChatGPT](https://chatgpt.com/) (GPT-5.3)
 
-- [豆包](https://www.doubao.com/chat/)
+- [豆包](https://www.doubao.com/chat/) (Doubao-Seed-2.0-pro)
 
-- [Google Gemini](https://gemini.google.com/)
+- [Google Gemini](https://gemini.google.com/) (Gemini 3 Flash)
 
 ## 外卖
 
