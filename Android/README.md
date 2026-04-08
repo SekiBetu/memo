@@ -230,9 +230,13 @@
 
 ## AI
 
-- [Google Gemini](https://gemini.google.com/)
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+
+- [ChatGPT](https://chatgpt.com/)
 
 - [豆包](https://www.doubao.com/chat/)
+
+- [Gemini](https://gemini.google.com/)
 
 ## 外卖
 
