@@ -240,7 +240,7 @@ https://www.superclueai.com/homepage
 
 - [豆包](https://www.doubao.com/chat/)
 
-- [Gemini](https://gemini.google.com/)
+- [Google Gemini](https://gemini.google.com/)
 
 ## 外卖
 
