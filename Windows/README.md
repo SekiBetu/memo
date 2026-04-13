@@ -551,7 +551,7 @@ options
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [火绒](https://www.huorong.cn/person5.html)
 - [Logitech G HUB](https://support.logi.com/hc/zh-cn/articles/360025298133)
-- [Intel Graphics Driver](https://www.intel.cn/content/www/cn/zh/download/785597/intel-arc-iris-xe-graphics-windows.html)、[Intel Extreme Tuning Utility](https://www.intel.cn/content/www/cn/zh/download/17881/intel-extreme-tuning-utility-intel-xtu.html)
+- [Intel Graphics Driver](https://www.intel.cn/content/www/cn/zh/download/864990/intel-11th-14th-gen-processor-graphics-windows.html)、[Intel Extreme Tuning Utility](https://www.intel.cn/content/www/cn/zh/download/17881/intel-extreme-tuning-utility-intel-xtu.html)
 - [NVIDIA App](https://www.nvidia.cn/software/nvidia-app/)、[GeForce Drivers](https://www.nvidia.cn/Download/Find.aspx?lang=cn)、[Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-)
 - [Realtek High Definition Audio (HDA) Version WHQL](https://www.necacom.net/index.php/realtek/hd-audio-2)、[Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic)
 - [Intel Wi-Fi Drivers](https://www.intel.cn/content/www/cn/zh/download/19351/windows-10-and-windows-11-wi-fi-drivers-for-intel-wireless-adapters.html)、[Intel Wireless Bluetooth](https://www.intel.cn/content/www/cn/zh/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html)
