@@ -230,17 +230,17 @@
 
 ## AI
 
-https://artificialanalysis.ai/leaderboards/models
+https://arena.ai/leaderboard/text
 
 https://www.superclueai.com/homepage
 
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat) (Gemini 3.1 Pro Preview)
 
-- [ChatGPT](https://chatgpt.com/) (GPT-5.3)
+- [豆包](https://www.doubao.com/chat/)
 
-- [豆包](https://www.doubao.com/chat/) (Doubao-Seed-2.0-pro)
+- [ChatGPT](https://chatgpt.com/)
 
-- [Google Gemini](https://gemini.google.com/) (Gemini 3 Flash)
+- [通义千问](https://www.qianwen.com/)
 
 ## 外卖
 
