@@ -69,7 +69,7 @@ Components: binary/
 Architectures: $(dpkg --print-architecture)
 Signed-By: /usr/share/keyrings/jenkins-archive-keyring.gpg
 EOF
-echo "deb [signed-by=/usr/share/keyrings/jenkins-archive-keyring.gpg] https://pkg.jenkins.io/debian-stable/ binary/" | sudo tee /etc/apt/sources.list.d/jenkins.list > /dev/null
+# echo "deb [signed-by=/usr/share/keyrings/jenkins-archive-keyring.gpg] https://pkg.jenkins.io/debian-stable/ binary/" | sudo tee /etc/apt/sources.list.d/jenkins.list > /dev/null
 # sudo apt update && sudo apt install -y jenkins
 
 sudo apt update && sudo apt upgrade -y
