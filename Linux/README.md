@@ -129,7 +129,15 @@ https://xanmod.org/
 
 ```shell
 curl -JL https://dl.xanmod.org/gpg.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/xanmod-kernel-archive-keyring.gpg
-echo 'deb [signed-by=/usr/share/keyrings/xanmod-kernel-archive-keyring.gpg] http://deb.xanmod.org/ releases main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list
+sudo tee /etc/apt/sources.list.d/xanmod.sources <<EOF
+Types: deb
+URIs: http://deb.xanmod.org
+Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
+Components: releases main
+Architectures: $(dpkg --print-architecture)
+Signed-By: /usr/share/keyrings/xanmod-archive-keyring.gpg
+EOF
+# echo 'deb [signed-by=/usr/share/keyrings/xanmod-kernel-archive-keyring.gpg] http://deb.xanmod.org/ releases main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list
 sudo apt update && sudo apt upgrade -y && sudo apt install -y linux-xanmod-lts-x64v3
 ```
 
@@ -206,13 +214,13 @@ https://adoptium.net/zh-CN/installation/linux
 curl -JL https://packages.adoptium.net/artifactory/api/gpg/key/public | sudo gpg --dearmor --yes -o /usr/share/keyrings/temurin-archive-keyring.gpg
 sudo tee /etc/apt/sources.list.d/temurin.sources <<EOF
 Types: deb
-URIs: https://packages.adoptium.net/artifactory/deb/
+URIs: https://packages.adoptium.net/artifactory/deb
 Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
 Components: main
 Architectures: $(dpkg --print-architecture)
 Signed-By: /usr/share/keyrings/temurin-archive-keyring.gpg
 EOF
-echo "deb [signed-by=/usr/share/keyrings/temurin-archive-keyring.gpg] https://packages.adoptium.net/artifactory/deb/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/temurin.list
+# echo "deb [signed-by=/usr/share/keyrings/temurin-archive-keyring.gpg] https://packages.adoptium.net/artifactory/deb/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/temurin.list
 sudo apt update && sudo apt install -y temurin-25-jdk
 ```
 
