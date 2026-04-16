@@ -316,3 +316,23 @@ sudo apt update && sudo apt install -y php8.5 php8.5-curl php8.5-fpm php8.5-mbst
 ```
 
 </details>
+<details>
+<summary>PostgreSQL</summary>
+
+https://www.postgresql.org/download/linux/debian/
+
+```shell
+curl -JL https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo gpg --dearmor --yes -o /usr/share/keyrings/postgresql-archive-keyring.gpg
+sudo tee /etc/apt/sources.list.d/postgresql.sources <<EOF
+Types: deb
+URIs: http://apt.postgresql.org/pub/repos/apt
+Suites: $(. /etc/os-release && echo "${VERSION_CODENAME}-pgdg")
+Components: main
+Architectures: $(dpkg --print-architecture)
+Signed-By: /usr/share/keyrings/postgresql-archive-keyring.gpg
+EOF
+# echo "deb [signed-by=/usr/share/keyrings/postgresql-archive-keyring.gpg] http://apt.postgresql.org/pub/repos/apt/ $(lsb_release -cs)-pgdg main" | sudo tee /etc/apt/sources.list.d/postgresql.list > /dev/null
+sudo apt update && sudo apt install -y postgresql
+```
+
+</details>
