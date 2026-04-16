@@ -108,7 +108,7 @@ curl -OJL https://raw.githubusercontent.com/bohanyang/debi/master/debi.sh && chm
 ```
 
 ```shell
-sudo ./debi.sh --version 12 --dns '8.8.8.8 8.8.4.4' --hostname debian --authorized-keys-url https://github.com/SekiBetu.keys --timezone Asia/Shanghai --user sekibetu --password <新系统用户密码> --ssh-port <SSH端口>
+sudo ./debi.sh --version 13 --dns '8.8.8.8 8.8.4.4' --hostname debian --authorized-keys-url https://github.com/SekiBetu.keys --timezone Asia/Shanghai --user sekibetu --password <新系统用户密码> --ssh-port <SSH端口>
 ```
 
 如果没有 DHCP 自动配置网络则要手动指定 IP 与网关
