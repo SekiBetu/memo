@@ -21,8 +21,15 @@ EOF
 
 # [Nginx](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/#installing-prebuilt-debian-packages)
 curl -JL https://nginx.org/keys/nginx_signing.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/nginx-archive-keyring.gpg
-echo "deb [signed-by=/usr/share/keyrings/nginx-archive-keyring.gpg] https://nginx.org/packages/mainline/debian/ $(lsb_release -cs) nginx" | sudo tee /etc/apt/sources.list.d/nginx.list > /dev/null
-echo "deb-src [signed-by=/usr/share/keyrings/nginx-archive-keyring.gpg] https://nginx.org/packages/mainline/debian/ $(lsb_release -cs) nginx" | sudo tee -a /etc/apt/sources.list.d/nginx.list > /dev/null
+sudo tee /etc/apt/sources.list.d/nginx.sources > /dev/null <<EOF
+Types: deb deb-src
+URIs: https://nginx.org/packages/mainline/debian/
+Suites: $(lsb_release -cs)
+Components: nginx
+Signed-By: /usr/share/keyrings/nginx-archive-keyring.gpg
+EOF
+# echo "deb [signed-by=/usr/share/keyrings/nginx-archive-keyring.gpg] https://nginx.org/packages/mainline/debian/ $(lsb_release -cs) nginx" | sudo tee /etc/apt/sources.list.d/nginx.list > /dev/null
+# echo "deb-src [signed-by=/usr/share/keyrings/nginx-archive-keyring.gpg] https://nginx.org/packages/mainline/debian/ $(lsb_release -cs) nginx" | sudo tee -a /etc/apt/sources.list.d/nginx.list > /dev/null
 # sudo apt update && sudo apt install -y nginx
 
 # [php](https://deb.sury.org/)
