@@ -8,7 +8,15 @@ cd /etc/apt/sources.list.d ; rm * ; curl -OJL https://raw.githubusercontent.com/
 # [Docker](https://docs.docker.com/engine/install/debian/)
 sudo apt remove docker docker-engine docker.io containerd runc
 curl -JL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor --yes -o /usr/share/keyrings/docker-archive-keyring.gpg
-echo "deb [signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/debian/ $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo tee /etc/apt/sources.list.d/docker.sources <<EOF
+Types: deb
+URIs: https://download.docker.com/linux/debian
+Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
+Components: stable
+Architectures: $(dpkg --print-architecture)
+Signed-By: /usr/share/keyrings/docker-archive-keyring.gpg
+EOF
+# echo "deb [signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/debian/ $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 # sudo apt update && sudo apt install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 # [Nginx](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/#installing-prebuilt-debian-packages)
