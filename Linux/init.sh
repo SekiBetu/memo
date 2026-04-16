@@ -21,7 +21,7 @@ EOF
 
 # [Nginx](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/#installing-prebuilt-debian-packages)
 curl -JL https://nginx.org/keys/nginx_signing.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/nginx-archive-keyring.gpg
-sudo tee /etc/apt/sources.list.d/nginx.sources > /dev/null <<EOF
+sudo tee /etc/apt/sources.list.d/nginx.sources <<EOF
 Types: deb deb-src
 URIs: https://nginx.org/packages/mainline/debian/
 Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
@@ -35,7 +35,15 @@ EOF
 
 # [php](https://deb.sury.org/)
 sudo curl -JL https://packages.sury.org/php/apt.gpg > /usr/share/keyrings/php-archive-keyring.gpg
-echo "deb [signed-by=/usr/share/keyrings/php-archive-keyring.gpg] https://packages.sury.org/php/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/php.list > /dev/null
+sudo tee /etc/apt/sources.list.d/php.sources <<EOF
+Types: deb
+URIs: https://packages.sury.org/php/
+Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
+Components: main
+Architectures: $(dpkg --print-architecture)
+Signed-By: /usr/share/keyrings/php-archive-keyring.gpg
+EOF
+# echo "deb [signed-by=/usr/share/keyrings/php-archive-keyring.gpg] https://packages.sury.org/php/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/php.list > /dev/null
 # sudo apt update && sudo apt install -y php8.1 php8.1-curl php8.1-fpm php8.1-mbstring
 
 # [PostgreSQL](https://www.postgresql.org/download/linux/debian/)
