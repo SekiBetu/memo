@@ -48,7 +48,7 @@ EOF
 
 # [PostgreSQL](https://www.postgresql.org/download/linux/debian/)
 curl -JL https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo gpg --dearmor --yes -o /usr/share/keyrings/postgresql-archive-keyring.gpg
-sudo tee /etc/apt/sources.list.d/php.sources <<EOF
+sudo tee /etc/apt/sources.list.d/postgresql.sources <<EOF
 Types: deb
 URIs: http://apt.postgresql.org/pub/repos/apt
 Suites: $(. /etc/os-release && echo "${VERSION_CODENAME}-pgdg")
@@ -61,7 +61,7 @@ EOF
 
 # [JenKins](https://www.jenkins.io/doc/book/installing/linux/)
 curl -JL https://pkg.jenkins.io/debian-stable/jenkins.io-2026.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/jenkins-archive-keyring.gpg
-sudo tee /etc/apt/sources.list.d/php.sources <<EOF
+sudo tee /etc/apt/sources.list.d/jenkins.sources <<EOF
 Types: deb
 URIs: https://pkg.jenkins.io/debian-stable
 Suites: binary/
