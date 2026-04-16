@@ -296,3 +296,21 @@ sudo apt update && sudo apt install -y docker-ce docker-ce-cli containerd.io doc
 ```
 
 </details>
+<details>
+<summary>PHP</summary>
+
+https://deb.sury.org/
+
+sudo curl -JL https://packages.sury.org/php/apt.gpg > /usr/share/keyrings/php-archive-keyring.gpg
+sudo tee /etc/apt/sources.list.d/php.sources <<EOF
+Types: deb
+URIs: https://packages.sury.org/php
+Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
+Components: main
+Architectures: $(dpkg --print-architecture)
+Signed-By: /usr/share/keyrings/php-archive-keyring.gpg
+EOF
+# echo "deb [signed-by=/usr/share/keyrings/php-archive-keyring.gpg] https://packages.sury.org/php/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/php.list > /dev/null
+sudo apt update && sudo apt install -y php8.5 php8.5-curl php8.5-fpm php8.5-mbstring
+
+</details>
