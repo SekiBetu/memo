@@ -61,6 +61,14 @@ EOF
 
 # [JenKins](https://www.jenkins.io/doc/book/installing/linux/)
 curl -JL https://pkg.jenkins.io/debian-stable/jenkins.io-2026.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/jenkins-archive-keyring.gpg
+sudo tee /etc/apt/sources.list.d/php.sources <<EOF
+Types: deb
+URIs: https://pkg.jenkins.io/debian-stable/
+Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
+Components: binary/
+Architectures: $(dpkg --print-architecture)
+Signed-By: /usr/share/keyrings/jenkins-archive-keyring.gpg
+EOF
 echo "deb [signed-by=/usr/share/keyrings/jenkins-archive-keyring.gpg] https://pkg.jenkins.io/debian-stable/ binary/" | sudo tee /etc/apt/sources.list.d/jenkins.list > /dev/null
 # sudo apt update && sudo apt install -y jenkins
 
