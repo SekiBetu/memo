@@ -23,7 +23,7 @@ EOF
 curl -JL https://nginx.org/keys/nginx_signing.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/nginx-archive-keyring.gpg
 sudo tee /etc/apt/sources.list.d/nginx.sources <<EOF
 Types: deb deb-src
-URIs: https://nginx.org/packages/mainline/debian/
+URIs: https://nginx.org/packages/mainline/debian
 Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
 Components: nginx
 Architectures: $(dpkg --print-architecture)
@@ -37,7 +37,7 @@ EOF
 sudo curl -JL https://packages.sury.org/php/apt.gpg > /usr/share/keyrings/php-archive-keyring.gpg
 sudo tee /etc/apt/sources.list.d/php.sources <<EOF
 Types: deb
-URIs: https://packages.sury.org/php/
+URIs: https://packages.sury.org/php
 Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
 Components: main
 Architectures: $(dpkg --print-architecture)
@@ -50,7 +50,7 @@ EOF
 curl -JL https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo gpg --dearmor --yes -o /usr/share/keyrings/postgresql-archive-keyring.gpg
 sudo tee /etc/apt/sources.list.d/php.sources <<EOF
 Types: deb
-URIs: http://apt.postgresql.org/pub/repos/apt/
+URIs: http://apt.postgresql.org/pub/repos/apt
 Suites: $(. /etc/os-release && echo "${VERSION_CODENAME}-pgdg")
 Components: main
 Architectures: $(dpkg --print-architecture)
@@ -63,9 +63,8 @@ EOF
 curl -JL https://pkg.jenkins.io/debian-stable/jenkins.io-2026.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/jenkins-archive-keyring.gpg
 sudo tee /etc/apt/sources.list.d/php.sources <<EOF
 Types: deb
-URIs: https://pkg.jenkins.io/debian-stable/
-Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
-Components: binary/
+URIs: https://pkg.jenkins.io/debian-stable
+Suites: binary/
 Architectures: $(dpkg --print-architecture)
 Signed-By: /usr/share/keyrings/jenkins-archive-keyring.gpg
 EOF
