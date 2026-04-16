@@ -214,9 +214,9 @@ sudo apt update && sudo apt install -y temurin-25-jdk
 https://www.7-zip.org/
 
 ```shell
-curl -OJL https://7-zip.org/a/7z2501-linux-x64.tar.xz
+curl -OJL https://7-zip.org/a/7z2600-linux-x64.tar.xz
 sudo mkdir -p /usr/local/7zip
-sudo tar -C /usr/local/7zip -xvf 7z2501-linux-x64.tar.xz ; rm 7z2501-linux-x64.tar.xz
+sudo tar -C /usr/local/7zip -xvf 7z2600-linux-x64.tar.xz ; rm 7z2600-linux-x64.tar.xz
 echo 'export PATH=$PATH:/usr/local/7zip'>>~/.bashrc
 export PATH=$PATH:/usr/local/7zip
 source ~/.bashrc
