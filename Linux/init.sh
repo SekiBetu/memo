@@ -24,8 +24,9 @@ curl -JL https://nginx.org/keys/nginx_signing.key | sudo gpg --dearmor --yes -o 
 sudo tee /etc/apt/sources.list.d/nginx.sources > /dev/null <<EOF
 Types: deb deb-src
 URIs: https://nginx.org/packages/mainline/debian/
-Suites: $(lsb_release -cs)
+Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
 Components: nginx
+Architectures: $(dpkg --print-architecture)
 Signed-By: /usr/share/keyrings/nginx-archive-keyring.gpg
 EOF
 # echo "deb [signed-by=/usr/share/keyrings/nginx-archive-keyring.gpg] https://nginx.org/packages/mainline/debian/ $(lsb_release -cs) nginx" | sudo tee /etc/apt/sources.list.d/nginx.list > /dev/null
