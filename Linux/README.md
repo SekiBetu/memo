@@ -61,18 +61,6 @@ source ~/.bashrc
 ```
 
 ```shell
-kill -9 $(ps -ef | grep record | grep -v grep | awk '{print $2}')
-```
-
-```shell
-cat /dev/null > nohup.out
-```
-
-```shell
-ps aux|grep
-```
-
-```shell
 journalctl --vacuum-size=100M
 ```
 
@@ -128,7 +116,7 @@ wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com
 ```
 
 ```shell
-bash InstallNET.sh -debian 12 -port "端口" -pwd "密码" -timezone "Asia/Shanghai"
+bash InstallNET.sh -debian 13 -port "端口" -pwd "密码" -timezone "Asia/Shanghai"
 ```
 
 https://github.com/spiritLHLS/one-click-installation-script
@@ -207,14 +195,6 @@ vasma
 curl https://raw.githubusercontent.com/SekiBetu/memo/main/Linux/init.sh | bash
 ```
 
-```shell
-curl https://raw.githubusercontent.com/SekiBetu/memo/main/Linux/init2.sh | bash
-```
-
-```shell
-curl https://raw.githubusercontent.com/SekiBetu/memo/main/Linux/restart.sh | bash
-```
-
 </details>
 <details>
 <summary>Temurin</summary>
@@ -224,20 +204,7 @@ https://adoptium.net/temurin/releases
 ```shell
 curl -JL https://packages.adoptium.net/artifactory/api/gpg/key/public | sudo gpg --dearmor --yes -o /usr/share/keyrings/temurin-archive-keyring.gpg
 echo "deb [signed-by=/usr/share/keyrings/temurin-archive-keyring.gpg] https://packages.adoptium.net/artifactory/deb/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/temurin.list
-sudo apt update && sudo apt install -y temurin-21-jdk
-```
-
-</details>
-<details>
-<summary>MySQL</summary>
-
-https://dev.mysql.com/downloads/repo/apt/
-
-```shell
-curl -OJL https://dev.mysql.com/get/mysql-apt-config_0.8.30-1_all.deb
-sudo apt install ./mysql-apt-config_0.8.30-1_all.deb ; rm mysql-apt-config_0.8.30-1_all.deb
-sudo apt update && sudo apt install -y mysql-server
-sudo mysql_secure_installation
+sudo apt update && sudo apt install -y temurin-25-jdk
 ```
 
 </details>
@@ -304,124 +271,6 @@ https://github.com/DevSplash/FreePointsShop
 curl -OJL https://github.com/JustArchiNET/ArchiSteamFarm/releases/latest/download/ASF-linux-x64.zip ; 7zz x ASF-linux-x64.zip -oASF
 rm ASF-linux-x64.zip ; cd ASF/ ; chmod +x ArchiSteamFarm
 cd plugins/ ; curl -OJL https://github.com/chr233/ASFEnhance/releases/latest/download/ASFEnhance.zip ; 7zz x ASFEnhance.zip ; rm ASFEnhance.zip
-cd plugins/ ; curl -OJL https://github.com/DevSplash/FreePointsShop/releases/download/1.0.0.1/FreePointsShop.zip ; 7zz x FreePointsShop.zip ; rm FreePointsShop.zip
 ```
 
 </details>
-<details>
-<summary>mirai</summary>
-
-https://github.com/iTXTech/mirai-console-loader/releases
-
-https://github.com/cssxsh/bilibili-helper/releases
-
-https://github.com/Nana-Miko/ChatLearning
-
-https://github.com/project-mirai/chat-command/releases
-
-```shell
-mkdir -p mirai ; cd mirai
-curl -OJL https://github.com/iTXTech/mirai-console-loader/releases/download/v2.1.2/mcl-2.1.2.zip
-7zz x mcl-2.1.2.zip ; chmod +x mcl
-mkdir -p plugins ; cd plugins
-curl -OJL https://github.com/cssxsh/bilibili-helper/releases/download/v1.8.0/bilibili-helper-1.8.0.mirai2.jar
-curl -OJL https://github.com/project-mirai/chat-command/releases/download/0.6.0/chat-command-0.6.0.jar
-cd .. ; ./mcl -u
-
-# config.json 换源
-# mirai repo: https://raw.githubusercontent.com/project-mirai/mirai-repo-mirror/master
-# maven repo: https://repo1.maven.org/maven2
-```
-
-```shell
-/perm permit u805023197 *:*
-```
-
-```shell
-/bili-dynamic add 161775300
-/bili-dynamic add 233108841
-/bili-dynamic add 36142005
-```
-
-</details>
-<details>
-<summary>qinglong</summary>
-
-https://github.com/whyour/qinglong
-
-```shell
-# 拉取镜像运行
-mkdir qinglong ; cd qinglong ; wget https://raw.githubusercontent.com/whyour/qinglong/master/docker/docker-compose.yml # 修改为2.13.3版本
-
-docker compose up -d
-
-docker exec -it qinglong_web_1 bash
-
-# 环境变量
-JD_COOKIE = pt_key=XXXXXXX;pt_pin=XXX;
-# QL_LOG_AUTO_INSTALL_DEPEND = true
-
-# 拉库
-0 0 * * * ql repo https://git.metauniverse-cn.com/https://github.com/shufflewzc/faker2.git "jd_|jx_|gua_|jddj_|jdCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendNotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql|JDSignValidator|magic|depend|h5sts" "main"
-
-# 更换python3版本
-apk add python3=3.8.10-r0 --repository=https://mirrors.aliyun.com/alpine/v3.13/main
-apk add python3=3.8.10-r0 --repository=https://dl-cdn.alpinelinux.org/alpine/v3.13/main
-wget https://bootstrap.pypa.io/get-pip.py ; python3 get-pip.py
-
-mkdir -p /mydata/redis/conf
-touch /mydata/redis/conf/redis.conf
-docker run -p 6379:6379 --name redis \
--v /mydata/redis/data:/data \
--v /mydata/redis/conf/redis.conf:/etc/redis/redis.conf \
--itd redis redis-server /etc/redis/redis.conf \
---appendonly yes
-
-# config.sh
-RepoFileExtensions="js py ts so"
-
-# 缺失依赖
-npm install -g moment png-js axios jsdom date-fns canvas ts-md5 ds
-pip3 install cacheout PyExecJS pyrogram requests bs4 telethon redis
-apk add build-base g++ cairo-dev jpeg-dev pango-dev giflib-dev
-```
-
-</details>
-<details>
-<summary>Twitch Drop</summary>
-
-https://github.com/TychoTheTaco/Twitch-Drops-Bot
-
-```shell
-sudo apt install -y git nodejs chromium
-sudo npm install -g npm
-git clone https://github.com/TychoTheTaco/Twitch-Drops-Bot.git
-cd Twitch-Drops-Bot ; sudo npm install ; npm run build
-curl -OJL https://raw.githubusercontent.com/SekiBetu/Softwares/main/Linux/config.json ; sudo vim config.json
-
-npm run start
-
-curl -OJL https://raw.githubusercontent.com/SekiBetu/Softwares/main/Linux/twitch.sh
-
-crontab -e
-0,30 * * * * /bin/bash /PATH/TO/twitch.sh
-```
-
-</details>
-<details>
-<summary>RSSHub</summary>
-
-```shell
-mkdir RSSHub ; cd RSSHub
-curl -OJL https://raw.githubusercontent.com/DIYgod/RSSHub/master/docker-compose.yml
-docker volume create redis-data
-docker compose up -d
-docker pull diygod/rsshub:chromium-bundled
-```
-
-```shell
-# PUPPETEER_WS_ENDPOINT : "ws://<ip>:<port>"
-
-docker pull browserless/chrome:latest
-docker run -p 3000:3000 -d browserless/chrome
-```
