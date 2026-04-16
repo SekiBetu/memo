@@ -337,7 +337,7 @@ sudo apt update && sudo apt install -y postgresql
 
 </details>
 <details>
-<summary>JenKins</summary>
+<summary>Jenkins</summary>
 
 https://www.jenkins.io/doc/book/installing/linux/
 
