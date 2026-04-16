@@ -133,11 +133,11 @@ sudo tee /etc/apt/sources.list.d/xanmod.sources <<EOF
 Types: deb
 URIs: http://deb.xanmod.org
 Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
-Components: releases main
+Components: main
 Architectures: $(dpkg --print-architecture)
 Signed-By: /usr/share/keyrings/xanmod-archive-keyring.gpg
 EOF
-# echo 'deb [signed-by=/usr/share/keyrings/xanmod-kernel-archive-keyring.gpg] http://deb.xanmod.org/ releases main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list
+# echo 'deb [signed-by=/usr/share/keyrings/xanmod-kernel-archive-keyring.gpg] http://deb.xanmod.org/ $(lsb_release -sc) main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list
 sudo apt update && sudo apt upgrade -y && sudo apt install -y linux-xanmod-lts-x64v3
 ```
 
