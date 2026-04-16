@@ -1,7 +1,7 @@
 apt install -y sudo
 sudo apt update && sudo apt upgrade -y
 sudo apt remove -y vim-common
-sudo apt install -y wget curl screen software-properties-common apt-transport-https ca-certificates lsb-release dirmngr gnupg gnupg1 gnupg2 vim build-essential
+sudo apt install -y wget curl gpg screen apt-transport-https ca-certificates lsb-release dirmngr gnupg gnupg1 gnupg2 vim build-essential
 cd /etc/apt ; rm sources.list
 cd /etc/apt/sources.list.d ; rm * ; curl -OJL https://raw.githubusercontent.com/SekiBetu/Softwares/main/Linux/debian.sources
 

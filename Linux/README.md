@@ -36,7 +36,7 @@ sudo apt --fix-missing purge
 sudo apt --purge autoremove -y && sudo apt autoclean -y && sudo apt clean
 
 sudo apt remove -y vim-common
-sudo apt install -y wget curl screen software-properties-common apt-transport-https ca-certificates lsb-release dirmngr gnupg gnupg1 gnupg2 vim build-essential
+sudo apt install -y wget curl gpg screen apt-transport-https ca-certificates lsb-release dirmngr gnupg gnupg1 gnupg2 vim build-essential
 ```
 
 ```shell
@@ -135,7 +135,7 @@ URIs: http://deb.xanmod.org
 Suites: $(. /etc/os-release && echo "$VERSION_CODENAME")
 Components: main
 Architectures: $(dpkg --print-architecture)
-Signed-By: /usr/share/keyrings/xanmod-archive-keyring.gpg
+Signed-By: /usr/share/keyrings/xanmod-kernel-archive-keyring.gpg
 EOF
 # echo 'deb [signed-by=/usr/share/keyrings/xanmod-kernel-archive-keyring.gpg] http://deb.xanmod.org/ $(lsb_release -sc) main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list
 sudo apt update && sudo apt upgrade -y && sudo apt install -y linux-xanmod-lts-x64v3
