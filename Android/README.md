@@ -102,7 +102,11 @@
 
 - [斗鱼](https://www.douyu.com/client)
 
-- [虎牙](https://www.huya.com/download/)
+- [虎牙直播](https://www.huya.com/download/)
+
+- 动漫共和国
+
+- Lanerc
 
 ## 无分组
 
@@ -112,19 +116,19 @@
 
 ## 游戏
 
-- [明日方舟](https://ak.hypergryph.com/)
+- [异环](https://yh.wanmei.com/)
+
+- [Last War](https://www.lastwar.com/)
 
 - [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community)
-
-- ~~[TapTap](https://www.taptap.com/mobile)~~
 
 - [完美世界电竞](https://app.pwesports.cn/)
 
 - [网易BUFF](https://buff.163.com/app/)
 
-- [Last War](https://www.lastwar.com/)
-
 - [小黑盒](https://www.xiaoheihe.cn/home)
+
+- [TapTap](https://www.taptap.com/mobile)
 
 ## 安全
 
@@ -178,23 +182,21 @@
 
 - [闲鱼](https://2.taobao.com/)
 
-- [嘉立创下单助手](https://www.jlc.com/portal/appDownloadsWithConfig.html)
+- [爱回收](https://www.aihuishou.com/)
 
-- [立创商城](https://www.szlcsc.com/app.html)
+- [转转](https://www.zhuanzhuan.com/)
+
+- [慢慢买](https://tool.manmanbuy.com/)
 
 - [欧易](https://www.okx.com/zh-hans/download)
 
 - [PokePay](https://pokepay.cc/appdown.html)
 
-- [Wise](https://wise.com/)
-
-- [慢慢买](https://tool.manmanbuy.com/)
-
 ## Root
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- [Native Test](https://github.com/Dr-TSNG/NativeDetector/releases)、~~[Momo](https://t.me/magiskalpha/529)~~、[Ruru](https://github.com/byxiaorun/Ruru/releases)、[密钥认证](https://t.me/magiskalpha/608)
+- ~~[Native Test](https://github.com/Dr-TSNG/NativeDetector/releases)~~、~~[Momo](https://t.me/magiskalpha/529)~~、[Ruru](https://github.com/byxiaorun/Ruru/releases)、~~[密钥认证](https://t.me/magiskalpha/608)~~
 
 - [【Magisk Module】Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
 
@@ -224,7 +226,7 @@
 
 - [MT 管理器](https://bbs.binmt.cc/forum-2-1.html)
 
-- [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)
+- ~~[LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)~~
 
 - [KsuWebUI](https://github.com/adivenxnataly/KsuWebUI/releases) 仅还原挂载、使用匿名内存、使用Zygisk Next链接器(实验性)
 
@@ -238,9 +240,11 @@ https://www.superclueai.com/homepage
 
 - [豆包](https://www.doubao.com/chat/)
 
+- [Gemini](https://gemini.google.com/app)
+
 - [ChatGPT](https://chatgpt.com/)
 
-- [通义千问](https://www.qianwen.com/)
+- [千问](https://www.qianwen.com/)
 
 ## 外卖
 
@@ -252,7 +256,7 @@ https://www.superclueai.com/homepage
 
 - [Google Play Store](https://www.apkmirror.com/apk/google-inc/google-play-store/)
 
-- 应用商店
+- 小米应用商店
 
 - [酷安](https://www.coolapk.com/apk/com.coolapk.market)
 
@@ -338,6 +342,8 @@ https://www.superclueai.com/homepage
 
 - [米家](https://g.home.mi.com/views/download-mihome.html)
 
+- 密码
+
 ## 无分组
 
 - [网易云音乐](https://music.163.com/#/download)
@@ -378,34 +384,10 @@ https://www.superclueai.com/homepage
 
 - [多邻国](https://www.duolingo.com/)
 
-## Job
-
-- ~~[BOSS 直聘](https://app.zhipin.com/?ka=header-app)~~
-
-- ~~[智联招聘](https://www.zhaopin.com)~~
-
-- ~~[前程无忧 51job](http://app.51job.com/index.html)~~
-
-- ~~[58同城](https://down.58.com/home.html)~~
-
 ## 临时
 
 - [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
 
-- [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
-
 - 可视耳勺
 
 - [声级计](https://play.google.com/store/apps/details?id=com.ktwapps.soundmeter)
-
-- BLE OTA
-
-- 热成像监视器
-
-- 客户P测试用APP
-
-- 客户A测试用APP
-
-- 客户L测试用APP1
-
-- 客户L测试用APP2(更高权限)
