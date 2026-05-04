@@ -384,7 +384,7 @@ https://www.superclueai.com/homepage
 
 - [多邻国](https://www.duolingo.com/)
 
-## 临时
+## 其他
 
 - [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
 
