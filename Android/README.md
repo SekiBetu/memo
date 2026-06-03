@@ -238,13 +238,15 @@ https://www.superclueai.com/homepage
 
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat) (Gemini 3.1 Pro Preview)
 
-- [豆包](https://www.doubao.com/chat/)
+- [ChatGPT](https://chatgpt.com/)
 
 - [Gemini](https://gemini.google.com/app)
 
-- [ChatGPT](https://chatgpt.com/)
+- [DeepSeek](https://chat.deepseek.com/)
 
 - [千问](https://www.qianwen.com/)
+
+- [豆包](https://www.doubao.com/chat/)
 
 ## 外卖
 
