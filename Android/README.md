@@ -80,6 +80,8 @@
 
 - [哔咔漫画](https://www.picacomic.com/)
 
+- [DZMM](https://www.dzmm.ai/app)
+
 - [阅读](https://github.com/gedoor/legado/releases)
 
 - [腾讯动漫](https://ac.qq.com/)
