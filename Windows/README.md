@@ -640,7 +640,7 @@ options
 - [J-Link](https://www.segger.com/downloads/jlink/)
 - [Altium Designer](https://www.yutu.cn/softhtml/showsoft_6730.html)、[KiCad](https://github.com/KiCad/kicad-source-mirror/releases/)、[嘉立创EDA](https://lceda.cn/)
 - [PulseView](https://github.com/sigrokproject/pulseview/releases)、[saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)
-- [SolidWorks](https://www.423down.com/16519.html)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(原迈迪)](https://www.global-dsc.cn/dggj)、[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)
+- [SolidWorks](https://www.423down.com/16519.html)、[FreeCAD](https://github.com/FreeCAD/FreeCAD/releases)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(原迈迪)](https://www.global-dsc.cn/dggj)、[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)
 - [Bambu Studio](https://bambulab.cn/zh-cn/download/studio)
 - [Wireshark](https://www.wireshark.org/#download)
 - [Npcap](https://npcap.com/#download)
