@@ -390,8 +390,10 @@ https://www.superclueai.com/homepage
 
 - [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
 
-- 可视耳勺
+- 可视护理
 
 - [声级计](https://play.google.com/store/apps/details?id=com.ktwapps.soundmeter)
 
-- 红宝书
+- [红宝书](https://github.com/ceasarXuu/Hongbaoshu/releases)
+
+- [金蝶云星辰](https://www.jdy.com/kdapp/)
