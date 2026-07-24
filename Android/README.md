@@ -80,9 +80,7 @@
 
 - [哔咔漫画](https://www.picacomic.com/)
 
-- [DZMM](https://www.dzmm.ai/app)
-
-- [阅读](https://github.com/gedoor/legado/releases)
+- [阅读](https://github.com/HapeLee/legado-with-MD3/releases)
 
 - [腾讯动漫](https://ac.qq.com/)
 
@@ -132,6 +130,8 @@
 
 - [TapTap](https://www.taptap.com/mobile)
 
+- [NGA](https://app.nga.cn/)
+
 ## 安全
 
 - [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator)
@@ -153,6 +153,8 @@
 - [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 - [小红书](https://www.xiaohongshu.com/download)
+
+- [知乎](https://www.zhihu.com/app/)
 
 ## 存储下载
 
@@ -242,13 +244,9 @@ https://www.superclueai.com/homepage
 
 - [ChatGPT](https://chatgpt.com/)
 
-- [Gemini](https://gemini.google.com/app)
-
-- [DeepSeek](https://chat.deepseek.com/)
-
 - [千问](https://www.qianwen.com/)
 
-- [豆包](https://www.doubao.com/chat/)
+- [即梦AI](https://jimeng.jianying.com/)
 
 ## 外卖
 
@@ -395,3 +393,5 @@ https://www.superclueai.com/homepage
 - 可视耳勺
 
 - [声级计](https://play.google.com/store/apps/details?id=com.ktwapps.soundmeter)
+
+- 红宝书
