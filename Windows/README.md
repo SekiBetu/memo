@@ -586,6 +586,7 @@ options
 - [Adguard](https://adguard.com/en/adguard-windows/overview.html)
 - [Total Uninstall](https://www.423down.com/6178.html)
 - [UU远程](https://uuyc.163.com/)
+- [WorkBuddy](https://www.codebuddy.cn/work/)
 
 ## Software List(Optional)
 
@@ -645,6 +646,8 @@ options
 - [Wireshark](https://www.wireshark.org/#download)
 - [Npcap](https://npcap.com/#download)
 - [FileZilla Pro](https://www.423down.com/10189.html)
+- [Codex](https://openai.com/zh-Hans-CN/codex/)
+- [CC Switch](https://github.com/farion1231/cc-switch/releases)
 
 ## 开始菜单布局
 
