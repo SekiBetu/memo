@@ -651,7 +651,15 @@ options
 
 ## 开始菜单布局
 
-![](StartMenu.png)
+![](开始菜单.png)
+
+![](视频剪辑.png)
+
+![](游戏.png)
+
+![](电子开发.png)
+
+![](即时通讯.png)
 
 ## Chrome Extensions
 
