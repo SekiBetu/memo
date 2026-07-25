@@ -673,6 +673,7 @@ options
 #### Unpinned
 
 - [Augmented Steam](https://github.com/tfedor/AugmentedSteam)
+- [Codex Auth Helper](https://github.com/zhishile/codex-auth-helper/releases)
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe)
 - [Furigana Maker](https://chromewebstore.google.com/detail/furigana-maker/heodojceeinbkfjfilnfminlkgbacpfp)
 - [IDM Integration Module](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
