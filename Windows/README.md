@@ -649,6 +649,7 @@ options
 - [FileZilla Pro](https://www.423down.com/10189.html)
 - [Codex](https://openai.com/zh-Hans-CN/codex/)
 - [CC Switch](https://github.com/farion1231/cc-switch/releases)
+- [Codex++](https://github.com/BigPizzaV3/CodexPlusPlus/releases)
 
 ## 开始菜单布局
 
