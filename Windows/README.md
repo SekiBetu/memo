@@ -582,6 +582,7 @@ options
 - [Adguard](https://adguard.com/en/adguard-windows/overview.html)
 - [Total Uninstall](https://www.423down.com/6178.html)
 - [UU远程](https://uuyc.163.com/)
+- [Cherry Studio](https://github.com/CherryHQ/cherry-studio/releases)
 - [WorkBuddy](https://www.codebuddy.cn/work/)
 
 ## Software List(Optional)
