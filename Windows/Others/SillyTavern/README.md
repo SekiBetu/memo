@@ -1,5 +1,6 @@
 酒馆本体
 ```
+安装nodejs、git
 git clone https://github.com/SillyTavern/SillyTavern -b release
 双击 Start.bat 安装/开始
 ```
