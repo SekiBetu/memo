@@ -12,3 +12,9 @@ https://github.com/RT15548/LittleWhiteBox 小白X
 https://github.com/zonde306/ST-Prompt-Template 提示词模版
 https://github.com/kitsch258/reasoning-content-extractor 推理内容提取器
 ```
+
+酒馆预设
+```
+https://discord.com/channels/1134557553011998840/1498732820669923388
+https://discord.com/channels/1134557553011998840/1522977185323811026
+```
