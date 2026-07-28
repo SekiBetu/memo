@@ -6,5 +6,9 @@ git clone https://github.com/SillyTavern/SillyTavern -b release
 
 酒馆插件
 ```
-https://github.com/n0vi028/JS-Slash-Runner
+https://github.com/n0vi028/JS-Slash-Runner 酒馆助手
+
+https://github.com/RT15548/LittleWhiteBox 小白X
+https://github.com/zonde306/ST-Prompt-Template 提示词模版
+https://github.com/kitsch258/reasoning-content-extractor 推理内容提取器
 ```
