@@ -80,6 +80,8 @@
 
 - [哔咔漫画](https://www.picacomic.com/)
 
+- [ST](https://github.com/Sanitised/ST-android/releases)、[SillyDroid](https://github.com/jialmaster/SillyDroid/releases)
+
 - [阅读](https://github.com/HapeLee/legado-with-MD3/releases)
 
 - [腾讯动漫](https://ac.qq.com/)
