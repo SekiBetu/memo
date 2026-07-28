@@ -14,16 +14,15 @@ https://github.com/kitsch258/reasoning-content-extractor 推理内容提取器
 
 酒馆预设
 ```
-文本补全/聊天补全都要设置模型
-提示词后处理选严格
-
 https://discord.com/channels/1134557553011998840/1498732820669923388
 https://discord.com/channels/1134557553011998840/1522977185323811026
 ```
 
-关闭DeepkSeek思维链
+其他设置
 ```
-附加参数-包括主体参数
+1.文本补全/聊天补全都要设置模型
+2.提示词后处理选严格
+3.关闭DeepkSeek思维链：附加参数-包括主体参数
 {
     "thinking": {
         "type": "disabled"
