@@ -15,6 +15,7 @@ https://github.com/kitsch258/reasoning-content-extractor 推理内容提取器
 
 酒馆预设
 ```
+文本补全/聊天补全皆设置好模型，提示词后处理选严格
 https://discord.com/channels/1134557553011998840/1498732820669923388
 https://discord.com/channels/1134557553011998840/1522977185323811026
 ```
