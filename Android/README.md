@@ -74,7 +74,7 @@
 
 </details>
 
-- ~~[venera](https://github.com/venera-app/venera/releases)~~、[JHenTai](https://github.com/jiangtian616/JHenTai/releases)、~~[PicaComic](https://github.com/Pacalini/PicaComic/releases)~~
+- [JHenTai](https://github.com/jiangtian616/JHenTai/releases)、~~[PicaComic](https://github.com/Pacalini/PicaComic/releases)~~
 
 - [禁漫天堂](https://18comic.vip/stray/)
 
