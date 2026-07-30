@@ -688,7 +688,7 @@ options
 - [Furigana Maker](https://chromewebstore.google.com/detail/furigana-maker/heodojceeinbkfjfilnfminlkgbacpfp)
 - [IDM Integration Module](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 - [Immersive Translate](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
-- [JSON Viewer](https://github.com/mrfanii/JSON-Viewer-V3)
+- [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer/gbdbademeighmnbliehmnoifmabbedbp)
 - [Refined GitHub](https://github.com/refined-github/refined-github)
 - [ScrollAnywhere](https://chromewebstore.google.com/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi)
 - [Show YouTube comments while watching](https://github.com/tanguykurylo/show-youtube-comments)
