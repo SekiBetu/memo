@@ -694,7 +694,6 @@ options
 - [Show YouTube comments while watching](https://github.com/tanguykurylo/show-youtube-comments)
 - [Steam Database](https://github.com/SteamDatabase/BrowserExtension)
 - [TabCopy](https://chromewebstore.google.com/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb)
-- [X Twitter Scraper](https://chromewebstore.google.com/detail/x-twitter-scraper/cedomiiokkcmbeoekchahgmfcppnclal)
 
 #### Not Using
 
