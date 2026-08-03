@@ -702,8 +702,7 @@ options
 <details><summary>字体及美化</summary>
 
 - [更纱黑体(Iosevka+思源黑体)](https://github.com/be5invis/Sarasa-Gothic/releases)
-
 - [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases)
-
 - [致美化](https://zhutix.com/)
+
 </details>
