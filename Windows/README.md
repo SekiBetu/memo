@@ -56,7 +56,7 @@ msconfig
 ```
 
 </details>
-<details><summary>笔记本电源模式</summary>
+<details><summary>联想拯救者笔记本电源模式</summary>
 
 ```powershell
 # 开启卓越性能
