@@ -697,14 +697,7 @@ options
 
 #### Not Using
 
-- ~~[Adobe Acrobat](https://chromewebstore.google.com/detail/adobe-acrobat/efaidnbmnnnibpcajpcglclefindmkaj)~~
 - ~~[FeHelper](https://github.com/zxlie/FeHelper)~~
-- ~~[QZoneExport](https://github.com/ShunCai/QZoneExport)~~
-- ~~[mirigana](https://github.com/mirigana/mirigana)~~
-- ~~[RSS Reader Extension (by Inoreader)](https://chromewebstore.google.com/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)~~
-- ~~[Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)~~
-- ~~[Useful Forks](https://chromewebstore.google.com/detail/useful-forks/aflbdmaojedofngiigjpnlabhginodbf)~~
-- ~~[Violentmonkey](https://github.com/violentmonkey/violentmonkey)~~
 - ~~[WebRTC Leak Prevent](https://github.com/aghorler/WebRTC-Leak-Prevent)~~
 - ~~[贴吧签到助手](https://chromewebstore.google.com/detail/bpheclmhommpomjoeoifcggjmdelgaoj)~~
 
