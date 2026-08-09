@@ -110,6 +110,8 @@
 
 - Lanerc
 
+- [Animeko](https://github.com/open-ani/animeko/releases)
+
 ## 无分组
 
 - [小米计算器](https://play.google.com/store/apps/details?id=com.miui.calculator)
