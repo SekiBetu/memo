@@ -56,7 +56,7 @@ msconfig
 ```
 
 </details>
-<details><summary>笔记本电源模式</summary>
+<details><summary>联想拯救者笔记本电源模式</summary>
 
 ```powershell
 # 开启卓越性能
@@ -604,7 +604,6 @@ options
 - [NatTypeTester](https://github.com/HMBSbige/NatTypeTester/releases)
 - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit/releases)
 - [Audacity](https://github.com/audacity/audacity/releases)
-
 - [uTools](https://www.u.tools/)
 - [Sysinternals](https://learn.microsoft.com/zh-cn/sysinternals/downloads/)
 - [ICAT](https://www.nvidia.cn/geforce/technologies/icat/)
@@ -642,13 +641,12 @@ options
 - [J-Link](https://www.segger.com/downloads/jlink/)
 - [Altium Designer](https://www.yutu.cn/softhtml/showsoft_6730.html)、[KiCad](https://github.com/KiCad/kicad-source-mirror/releases/)、[嘉立创EDA](https://lceda.cn/)
 - [PulseView](https://github.com/sigrokproject/pulseview/releases)、[saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)
-- [SolidWorks](https://www.423down.com/16519.html)、[FreeCAD](https://github.com/FreeCAD/FreeCAD/releases)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(原迈迪)](https://www.global-dsc.cn/dggj)、[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)
+- [SolidWorks](https://www.423down.com/16519.html)、[FreeCAD](https://github.com/FreeCAD/FreeCAD/releases)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(迈迪)](https://www.global-dsc.cn/dggj)、[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)
 - [Bambu Studio](https://bambulab.cn/zh-cn/download/studio)
 - [Wireshark](https://www.wireshark.org/#download)
 - [Npcap](https://npcap.com/#download)
 - [FileZilla Pro](https://www.423down.com/10189.html)
 - [Codex](https://openai.com/zh-Hans-CN/codex/)
-- [CC Switch](https://github.com/farion1231/cc-switch/releases)
 - [Codex++](https://github.com/BigPizzaV3/CodexPlusPlus/releases)
 
 ## 开始菜单布局
@@ -697,22 +695,14 @@ options
 
 #### Not Using
 
-- ~~[Adobe Acrobat](https://chromewebstore.google.com/detail/adobe-acrobat/efaidnbmnnnibpcajpcglclefindmkaj)~~
 - ~~[FeHelper](https://github.com/zxlie/FeHelper)~~
-- ~~[QZoneExport](https://github.com/ShunCai/QZoneExport)~~
-- ~~[mirigana](https://github.com/mirigana/mirigana)~~
-- ~~[RSS Reader Extension (by Inoreader)](https://chromewebstore.google.com/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)~~
-- ~~[Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)~~
-- ~~[Useful Forks](https://chromewebstore.google.com/detail/useful-forks/aflbdmaojedofngiigjpnlabhginodbf)~~
-- ~~[Violentmonkey](https://github.com/violentmonkey/violentmonkey)~~
 - ~~[WebRTC Leak Prevent](https://github.com/aghorler/WebRTC-Leak-Prevent)~~
 - ~~[贴吧签到助手](https://chromewebstore.google.com/detail/bpheclmhommpomjoeoifcggjmdelgaoj)~~
 
 <details><summary>字体及美化</summary>
 
 - [更纱黑体(Iosevka+思源黑体)](https://github.com/be5invis/Sarasa-Gothic/releases)
-
 - [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases)
-
 - [致美化](https://zhutix.com/)
+
 </details>

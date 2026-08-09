@@ -244,11 +244,11 @@ https://www.superclueai.com/homepage
 
 - [RikkaHub](https://github.com/rikkahub/rikkahub/releases)
 
-- [Google AI Studio](https://aistudio.google.com/prompts/new_chat) (Gemini 3.1 Pro Preview)
+- [千问](https://www.qianwen.com/)
 
 - [ChatGPT](https://chatgpt.com/)
 
-- [千问](https://www.qianwen.com/)
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat) (Gemini 3.1 Pro Preview)
 
 - [即梦AI](https://jimeng.jianying.com/)
 
@@ -399,5 +399,3 @@ https://www.superclueai.com/homepage
 - [声级计](https://play.google.com/store/apps/details?id=com.ktwapps.soundmeter)
 
 - [红宝书](https://github.com/ceasarXuu/Hongbaoshu/releases)
-
-- [金蝶云星辰](https://www.jdy.com/kdapp/)
