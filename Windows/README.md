@@ -667,7 +667,6 @@ options
 
 - [Tab Muter](https://github.com/sersorrel/mute-tab)
 - [哔哩哔哩助手](https://github.com/bilibili-helper/bilibili-helper-o)
-- [FireShot](https://chromewebstore.google.com/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
 - [Shazam](https://chromewebstore.google.com/detail/shazam-identify-songs-fro/mmioliijnhnoblpgimnlajmefafdfilb)
 - [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
 - [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html)
@@ -696,6 +695,7 @@ options
 #### Not Using
 
 - ~~[FeHelper](https://github.com/zxlie/FeHelper)~~
+- ~~[FireShot](https://chromewebstore.google.com/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)~~
 - ~~[WebRTC Leak Prevent](https://github.com/aghorler/WebRTC-Leak-Prevent)~~
 - ~~[贴吧签到助手](https://chromewebstore.google.com/detail/bpheclmhommpomjoeoifcggjmdelgaoj)~~
 
