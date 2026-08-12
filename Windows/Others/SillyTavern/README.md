@@ -11,6 +11,12 @@ https://github.com/n0vi028/JS-Slash-Runner 酒馆助手
 https://github.com/zonde306/ST-Prompt-Template 提示词模版
 ```
 
+推荐模型
+```
+claude-opus-4-6-thinking
+deepseek-v4-flash
+```
+
 酒馆预设
 ```
 https://discord.com/channels/1134557553011998840/1471539565020975205 双人成行
