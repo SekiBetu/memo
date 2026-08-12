@@ -15,6 +15,8 @@ https://github.com/zonde306/ST-Prompt-Template 提示词模版
 ```
 claude-opus-4-6-thinking
 deepseek-v4-flash
+glm-5.2-max
+kimi-k3-max
 ```
 
 酒馆预设
