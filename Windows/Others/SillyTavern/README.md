@@ -21,9 +21,9 @@ kimi-k3-max
 
 酒馆预设
 ```
-https://discord.com/channels/1134557553011998840/1471539565020975205 双人成行
-https://discord.com/channels/1134557553011998840/1475708905521811568 TG
-https://discord.com/channels/1134557553011998840/1497544939544772609 梦境思客
+https://discord.com/channels/1134557553011998840/1471539565020975205 双人成行(国外模型)
+https://discord.com/channels/1134557553011998840/1475708905521811568 TG(国外+国内模型)
+https://discord.com/channels/1134557553011998840/1497544939544772609 梦境思客(国内模型轻量版)
 ```
 
 其他设置
