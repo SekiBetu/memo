@@ -13,8 +13,8 @@ https://github.com/zonde306/ST-Prompt-Template 提示词模版
 
 推荐模型
 ```
-claude-opus-4-6-thinking
-deepseek-v4-flash
+claude-opus-4-6
+deepseek-v4-pro
 ```
 
 酒馆预设
