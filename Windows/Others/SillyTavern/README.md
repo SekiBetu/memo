@@ -9,12 +9,14 @@ git clone https://github.com/SillyTavern/SillyTavern -b release
 ```
 https://github.com/n0vi028/JS-Slash-Runner 酒馆助手
 https://github.com/zonde306/ST-Prompt-Template 提示词模版
+https://discord.com/channels/1134557553011998840/1429151492362862683 SP数据库
 ```
 
 推荐模型
 ```
 claude-opus-4-6
 deepseek-v4-pro
+glm-5.3-max
 ```
 
 酒馆预设
