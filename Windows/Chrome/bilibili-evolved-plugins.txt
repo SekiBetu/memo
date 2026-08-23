@@ -1,4 +1,6 @@
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/live/badge-helper.js
+https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/live/hide-gift-fullscreen.js
+https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/live/show-area.js
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/style/auto-hide-sidebar.js
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/utils/active-video-links.js
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/utils/download-audio.js
@@ -10,4 +12,3 @@ https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/re
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/video/player/seek-by-frames.js
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/video/seo-redirect.js
 https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/video/subtitle/download.js
-https://raw.githubusercontent.com/the1812/Bilibili-Evolved/refs/heads/preview/registry/dist/components/live/hide-gift-fullscreen.js
