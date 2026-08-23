@@ -110,6 +110,8 @@
 
 - Lanerc
 
+- [Animeko](https://github.com/open-ani/animeko/releases)
+
 ## 无分组
 
 - [小米计算器](https://play.google.com/store/apps/details?id=com.miui.calculator)
@@ -248,7 +250,7 @@ https://www.superclueai.com/homepage
 
 - [ChatGPT](https://chatgpt.com/)
 
-- [Google AI Studio](https://aistudio.google.com/prompts/new_chat) (Gemini 3.1 Pro Preview)
+- [DeepSeek](https://chat.deepseek.com/)
 
 - [即梦AI](https://jimeng.jianying.com/)
 
