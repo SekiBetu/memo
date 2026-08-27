@@ -3,6 +3,8 @@
 安装nodejs、git
 git clone https://github.com/SillyTavern/SillyTavern -b release
 双击 Start.bat 安装/开始
+
+https://github.com/Sanitised/ST-android/releases
 ```
 
 酒馆插件
