@@ -82,7 +82,11 @@
 
 - [ST-android](https://github.com/Sanitised/ST-android/releases)、~~[TauriTavern](https://github.com/Darkatse/TauriTavern/releases)~~、~~[SillyDroid](https://github.com/jialmaster/SillyDroid/releases)~~
 
+- [Local Dream](https://github.com/xororz/local-dream/releases)
+
 - [阅读](https://github.com/HapeLee/legado-with-MD3/releases)
+
+- [番茄免费小说](https://www.changdunovel.com/)
 
 - [腾讯动漫](https://ac.qq.com/)
 
@@ -246,11 +250,9 @@ https://www.superclueai.com/homepage
 
 - [RikkaHub](https://github.com/rikkahub/rikkahub/releases)
 
-- [千问](https://www.qianwen.com/)
-
 - [ChatGPT](https://chatgpt.com/)
 
-- [DeepSeek](https://chat.deepseek.com/)
+- [千问](https://www.qianwen.com/)
 
 - [即梦AI](https://jimeng.jianying.com/)
 
@@ -294,7 +296,7 @@ https://www.superclueai.com/homepage
 
 - [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)
 
-- [ServerBox](https://github.com/lollipopkit/flutter_server_box)
+- ~~[ServerBox](https://github.com/lollipopkit/flutter_server_box)~~
 
 - [UU远程](https://uuyc.163.com/)
 
