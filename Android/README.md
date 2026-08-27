@@ -288,6 +288,8 @@ https://www.superclueai.com/homepage
 
 - [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox)
 
+- [Termux](https://github.com/termux/termux-app/releases)
+
 ## Network
 
 - [v2rayNG](https://github.com/2dust/v2rayNG/releases)
