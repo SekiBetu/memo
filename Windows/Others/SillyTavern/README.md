@@ -12,6 +12,36 @@ https://github.com/zonde306/ST-Prompt-Template 提示词模版
 https://discord.com/channels/1134557553011998840/1429151492362862683 SP数据库
 ```
 
+酒馆本地生图
+```
+https://discord.com/channels/1134557553011998840/1515044498647023706 本地生图
+https://discord.com/channels/1134557553011998840/1515044498647023706/1539304209495887972 脚本
+https://discord.com/channels/1134557553011998840/1515044498647023706/1539493803025498183 测试模版
+https://discord.com/channels/1134557553011998840/1515044498647023706/1539234880984981625 预设
+https://discord.com/channels/1134557553011998840/1515044498647023706/1520630350773223494 正则
+https://github.com/xororz/local-dream/releases APP
+https://huggingface.co/xororz/sdxl-qnn/blob/main/illustrious_v17_dmd2_qnn2.28_8gen3.zip 模型
+
+SDXL低内存模式
+允许局域网访问
+
+图像宽高比 1:1
+调度器 LCM
+生成步数 4-6步
+CFG Scale 1.0
+批次数量 1
+[img2img]Denoise Strengthen 0.60
+
+分辨率 1024x1024
+关闭Karras
+
+反向提示词
+low quality, bad anatomy, ugly, deformed, distorted, blurry, noisy, artifacts, lowres, watermark
+
+```
+
+
+
 推荐模型
 ```
 claude-opus-4-6
