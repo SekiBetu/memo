@@ -31,7 +31,6 @@ git pull --rebase --autostash
 ```
 创建快捷方式
 nano ~/.bashrc
-填入以下内容后运行source ~/.bashrc应用
 
 # 更新 Termux 软件包
 alias pkgup="pkg update && pkg upgrade"
@@ -39,6 +38,8 @@ alias pkgup="pkg update && pkg upgrade"
 alias st='cd ~/SillyTavern && bash start.sh'
 # 更新 SillyTavern
 alias stup='cd ~/SillyTavern && git pull --rebase --autostash'
+
+填入以上内容后运行source ~/.bashrc刷新
 ```
 
 ```
