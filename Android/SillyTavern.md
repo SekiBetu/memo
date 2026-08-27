@@ -1,9 +1,63 @@
-酒馆本体
+酒馆本体(Windows)
 ```
 安装nodejs、git
 git clone https://github.com/SillyTavern/SillyTavern -b release
 双击 Start.bat 安装/开始
+```
+酒馆本体(Android)
+```
+安装Termux
+https://github.com/termux/termux-app/releases
 
+更换源
+termux-change-repo
+
+更新
+pkg update && pkg upgrade
+
+安装依赖
+pkg install git nodejs-lts nano
+
+安装酒馆
+git clone https://github.com/SillyTavern/SillyTavern -b release
+cd ~/SillyTavern
+bash start.sh
+
+更新酒馆
+cd ~/SillyTavern
+git pull --rebase --autostash
+```
+
+```
+创建快捷方式
+nano ~/.bashrc
+填入以下内容后运行source ~/.bashrc应用
+
+# 更新 Termux 软件包
+alias pkgup="pkg update && pkg upgrade"
+# 启动 SillyTavern
+alias st='cd ~/SillyTavern && bash start.sh'
+# 更新 SillyTavern
+alias stup='cd ~/SillyTavern && git pull --rebase --autostash'
+```
+
+```
+性能调优
+nano ~/SillyTavern/config.yaml
+
+performance:
+  # 避免加载所有角色数据直到需要时
+  lazyLoadCharacters: true
+  # 禁用磁盘缓存以减少存储使用
+  useDiskCache: false
+backups:
+  chat:
+    # 可选：禁用自动聊天备份以节省存储空间
+    enabled: false
+```
+
+酒馆本体(Android整合包)
+```
 https://github.com/Sanitised/ST-android/releases
 ```
 
