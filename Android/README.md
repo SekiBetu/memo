@@ -282,8 +282,6 @@ https://www.superclueai.com/homepage
 
 - [搜狗输入法](https://pinyin.cn/)
 
-- [夸克(网盘/扫描王)](https://www.quark.cn/)
-
 - [LocalSend](https://github.com/localsend/localsend/releases)
 
 - [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox)
