@@ -583,7 +583,6 @@ options
 - [Total Uninstall](https://www.423down.com/6178.html)
 - [UU远程](https://uuyc.163.com/)
 - [Cherry Studio](https://github.com/CherryHQ/cherry-studio/releases)
-- [WorkBuddy](https://www.codebuddy.cn/work/)
 
 ## Software List(Optional)
 
