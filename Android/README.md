@@ -248,11 +248,9 @@ https://arena.ai/leaderboard/text
 
 https://www.superclueai.com/homepage
 
+https://parallax.zzz.sd/
+
 - [RikkaHub](https://github.com/rikkahub/rikkahub/releases)
-
-- [ChatGPT](https://chatgpt.com/)
-
-- [千问](https://www.qianwen.com/)
 
 - [即梦AI](https://jimeng.jianying.com/)
 
