@@ -250,7 +250,7 @@ https://www.superclueai.com/homepage
 
 https://parallax.zzz.sd/
 
-常见AI锐评：
+热门AI锐评：
 
 【最强】Claude ⭐⭐⭐
 
