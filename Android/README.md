@@ -212,13 +212,11 @@
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- ~~[Native Test](https://github.com/Dr-TSNG/NativeDetector/releases)~~、~~[Momo](https://t.me/magiskalpha/529)~~、[Ruru](https://github.com/byxiaorun/Ruru/releases)、~~[密钥认证](https://t.me/magiskalpha/608)~~
+- [Dirty Sepolicy](https://t.me/magiskalpha/714)、[Ruru](https://github.com/byxiaorun/Ruru/releases)
 
 - [【Magisk Module】Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
 
-- ~~[【Magisk Module】TrickyStore](https://github.com/5ec1cff/TrickyStore/releases)~~
-
-- ~~[【Magisk Module】Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)~~、~~[【Magisk Module】PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT/releases)~~
+- ~~[【Magisk Module】Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)~~
 
 - ~~[【Magisk Module】Unlock CN GMS](https://github.com/fei-ke/unlock-cn-gms)~~
 
