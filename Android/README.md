@@ -54,7 +54,7 @@
 
 ## 小说漫画
 
-- [aniyomi](https://github.com/aniyomiorg/aniyomi/releases)、~~[Mihon](https://github.com/mihonapp/mihon/releases)~~
+- [Mihon](https://github.com/mihonapp/mihon/releases)
 
 <details><summary>aniyomi Extensions</summary>
 
@@ -66,21 +66,21 @@
 
 - GoDa
 
-- Happymh
-
 - Jinman Tiantang
+
+- Mangabz
 
 - Picacomic
 
 </details>
 
-- [JHenTai](https://github.com/jiangtian616/JHenTai/releases)、~~[PicaComic](https://github.com/Pacalini/PicaComic/releases)~~
+- [JHenTai](https://github.com/jiangtian616/JHenTai/releases)
 
 - [禁漫天堂](https://18comic.vip/stray/)
 
 - [哔咔漫画](https://www.picacomic.com/)
 
-- [ST-android](https://github.com/Sanitised/ST-android/releases)、~~[TauriTavern](https://github.com/Darkatse/TauriTavern/releases)~~、~~[SillyDroid](https://github.com/jialmaster/SillyDroid/releases)~~
+- [Termux](https://github.com/termux/termux-app/releases)、~~[ST-android](https://github.com/Sanitised/ST-android/releases)~~
 
 - [Local Dream](https://github.com/xororz/local-dream/releases)
 
@@ -303,8 +303,6 @@ https://parallax.zzz.sd/
 - [LocalSend](https://github.com/localsend/localsend/releases)
 
 - [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox)
-
-- [Termux](https://github.com/termux/termux-app/releases)
 
 ## Network
 
