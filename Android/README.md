@@ -250,16 +250,23 @@ https://www.superclueai.com/homepage
 
 https://parallax.zzz.sd/
 
-八大知名AI：
+常见AI：
+
 【最强】Claude
+
 【性价比】ChatGPT
-【哈基米】Gemini
+
+【美国豆包】Gemini
+
 【有待观察】Grok
 
 【性价比Claude】GLM
+
 【开源之王】千问
+
 【有待观察】Kimi
-【性价比】DeepSeek
+
+【性价比之王】DeepSeek
 
 【抖音知识库】豆包
 
