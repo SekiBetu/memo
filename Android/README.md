@@ -250,25 +250,25 @@ https://www.superclueai.com/homepage
 
 https://parallax.zzz.sd/
 
-常见AI：
+常见AI锐评：
 
-【最强】Claude
+【最强】Claude ⭐⭐⭐
 
-【性价比】ChatGPT
+【性价比】ChatGPT ⭐⭐
 
-【美国豆包】Gemini
+【美国豆包】Gemini ❤️
 
-【有待观察】Grok
+【有待观察】Grok ⏳
 
-【性价比Claude】GLM
+【性价比Claude】GLM ⭐⭐
 
-【开源之王】千问
+【开源之王】千问 ❤️❤️❤️
 
-【有待观察】Kimi
+【有待观察】Kimi ⏳⏳
 
-【性价比之王】DeepSeek
+【性价比之王】DeepSeek ⭐⭐⭐
 
-【抖音知识库】豆包
+【抖音知识库】豆包 ❤️
 
 - [RikkaHub](https://github.com/rikkahub/rikkahub/releases)
 
