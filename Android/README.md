@@ -212,7 +212,7 @@
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- [Dirty Sepolicy](https://t.me/magiskalpha/714)、[Ruru](https://github.com/byxiaorun/Ruru/releases)
+- [Dirty Sepolicy](https://github.com/LSPosed/DirtySepolicy/releases)、[Ruru](https://github.com/byxiaorun/Ruru/releases)
 
 - [【Magisk Module】Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
 
