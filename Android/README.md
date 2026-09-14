@@ -262,13 +262,13 @@ https://parallax.zzz.sd/
 
 【开源之王】千问 ❤️❤️
 
-【静态知识搜索】Gemini ❤️
+【静态知识搜索/Google】Gemini ❤️
 
 【有待观察】Kimi ⏳⏳
 
 【有待观察】Grok ⏳
 
-【静态知识搜索】豆包 👧
+【静态知识搜索/抖音】豆包 👧
 
 - [RikkaHub](https://github.com/rikkahub/rikkahub/releases)
 
