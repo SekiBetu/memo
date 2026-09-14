@@ -182,6 +182,10 @@
 
 - [交管 12123](https://122.gov.cn/)
 
+- [汽车之家](https://www.autohome.com.cn/)
+
+- [懂车帝](https://www.dongchedi.com/)
+
 - ~~小米运动健康~~
 
 ## 购物
@@ -249,6 +253,8 @@ https://arena.ai/leaderboard/text
 https://www.superclueai.com/homepage
 
 https://parallax.zzz.sd/
+
+https://agi.safe.ai/
 
 热门AI锐评：
 
