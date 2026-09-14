@@ -262,7 +262,7 @@ https://parallax.zzz.sd/
 
 【开源之王】千问 ❤️❤️
 
-【美国豆包】Gemini ❤️
+【谷歌知识库】Gemini ❤️
 
 【有待观察】Kimi ⏳⏳
 
