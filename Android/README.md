@@ -58,9 +58,11 @@
 
 <details><summary>Keiyoushi Extensions</summary>
 
+```
 https://github.com/keiyoushi/extensions
 
 https://github.com/keiyoushi/extensions/raw/repo/index.pb
+```
 
 - 6Manhua
 
