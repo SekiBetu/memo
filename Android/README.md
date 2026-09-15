@@ -56,7 +56,11 @@
 
 - [Mihon](https://github.com/mihonapp/mihon/releases)、~~[Aniyomi](https://github.com/aniyomiorg/aniyomi/releases)~~
 
-<details><summary>aniyomi Extensions</summary>
+<details><summary>Keiyoushi Extensions</summary>
+
+https://github.com/keiyoushi/extensions
+
+https://github.com/keiyoushi/extensions/raw/repo/index.pb
 
 - 6Manhua
 
