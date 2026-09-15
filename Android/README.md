@@ -54,7 +54,7 @@
 
 ## 小说漫画
 
-- [Mihon](https://github.com/mihonapp/mihon/releases)
+- [Mihon](https://github.com/mihonapp/mihon/releases)、~~[Aniyomi](https://github.com/aniyomiorg/aniyomi/releases)~~
 
 <details><summary>aniyomi Extensions</summary>
 
