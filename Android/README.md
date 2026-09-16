@@ -188,7 +188,7 @@ https://github.com/keiyoushi/extensions/raw/repo/index.pb
 
 - [交管 12123](https://122.gov.cn/)
 
-- [汽车之家](https://www.autohome.com.cn/)
+- ~~[汽车之家](https://www.autohome.com.cn/)~~
 
 - [懂车帝](https://www.dongchedi.com/)
 
