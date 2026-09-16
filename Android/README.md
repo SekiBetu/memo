@@ -298,7 +298,7 @@ https://agi.safe.ai/
 
 - [ZArchiver Pro](https://www.423down.com/6027.html)
 
-- [DeepL](https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator)
+- ~~[DeepL](https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator)~~
 
 - [Next Player](https://github.com/anilbeesetti/nextplayer/releases)
 
