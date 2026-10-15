@@ -564,7 +564,7 @@ options
 - [QQ](https://im.qq.com/pcqq/index.shtml)
 - [Steam](https://store.steampowered.com/about/)
 - [HandBrake](https://github.com/HandBrake/HandBrake/releases)、[格式工厂(FormatFactory)](https://www.423down.com/1072.html)
-- [Shotcut](https://github.com/mltframework/shotcut/releases)
+- [Shotcut](https://github.com/mltframework/shotcut/releases)、[FilmCraft](https://github.com/storytold/filmcraft/releases)
 - [网易云音乐](https://music.163.com/#/download)
 - [计算器](https://www.microsoft.com/en-us/p/windows-calculator/9wzdncrfhvn5)
 - [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases)
@@ -587,7 +587,7 @@ options
 ## Software List(Optional)
 
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader/releases)、[DDTV](https://github.com/CHKZL/DDTV/releases)
-- [Adobe software series](https://weibo.com/1112829033)、[ArtCraft](https://github.com/storytold/artcraft/releases)、[Photon Studio](https://tenzen.studio/photon/)
+- [Adobe software series](https://weibo.com/1112829033)、[PhotoCraft](https://github.com/storytold/photocraft/releases)、[Photon Studio](https://tenzen.studio/photon/)
 - [aria2](https://github.com/aria2/aria2/releases)
 - [WinSW](https://github.com/winsw/winsw/releases)
 - [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
