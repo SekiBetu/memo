@@ -587,7 +587,7 @@ options
 ## Software List(Optional)
 
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader/releases)、[DDTV](https://github.com/CHKZL/DDTV/releases)
-- [Adobe software series](https://weibo.com/1112829033)
+- [Adobe software series](https://weibo.com/1112829033)、[Photon Studio](https://tenzen.studio/photon/)
 - [aria2](https://github.com/aria2/aria2/releases)
 - [WinSW](https://github.com/winsw/winsw/releases)
 - [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
