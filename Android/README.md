@@ -1,0 +1,425 @@
+## 刷机工具
+
+- [QFIL Tool](https://qfiltool.com/)
+
+- [SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
+
+- [Google USB Driver](https://developer.android.com/studio/run/win-usb)
+
+- [Team Win Recovery Project](https://github.com/TeamWin/android_bootable_recovery)
+
+## APK 网站
+
+- [APKMirror](https://www.apkmirror.com/)
+
+- [F-Droid](https://www.f-droid.org/zh_Hans/packages/)
+
+## 谷歌框架
+
+- [支持 GMS 的机型](http://storage.googleapis.com/play_public/supported_devices.html)
+
+- [Google Services Framework](https://www.apkmirror.com/apk/google-inc/google-services-framework/)
+
+- [Google Play services](https://www.apkmirror.com/apk/google-inc/google-play-services/)
+
+- [Google Play Store](https://www.apkmirror.com/apk/google-inc/google-play-store/)
+
+## Useful Path
+
+`mount -o rw,remount /system`
+
+`cp -f /data/misc/user/0/cacerts-added/* /system/etc/security/cacerts/`
+
+`chown -R root:root /system/etc/security/cacerts/`
+
+`chmod 644 /system/etc/security/cacerts/*`
+
+`/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/`
+
+`/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/chatpic/`
+
+`/storage/emulated/0/Android/data/org.telegram.messenger.web/files/Telegram/Telegram Video/`
+
+去除此行解锁国行 GMS 的部分功能
+
+```xml
+ <feature name="cn.google.services" />
+```
+
+修改神隐模式云控信息
+
+```
+*#*#76937#*#*
+```
+
+## 小说漫画
+
+- [Mihon](https://github.com/mihonapp/mihon/releases)、~~[Aniyomi](https://github.com/aniyomiorg/aniyomi/releases)~~
+
+<details><summary>Keiyoushi Extensions</summary>
+
+```
+https://github.com/keiyoushi/extensions
+
+https://github.com/keiyoushi/extensions/raw/repo/index.pb
+```
+
+- 6Manhua
+
+- Baozi Manhua
+
+- COLAMANGA
+
+- GoDa
+
+- Jinman Tiantang
+
+- Mangabz
+
+- Picacomic
+
+</details>
+
+- [JHenTai](https://github.com/jiangtian616/JHenTai/releases)
+
+- [禁漫天堂](https://18comic.vip/stray/)
+
+- [哔咔漫画](https://www.picacomic.com/)
+
+- [Termux](https://github.com/termux/termux-app/releases)、~~[ST-android](https://github.com/Sanitised/ST-android/releases)~~
+
+- [Local Dream](https://github.com/xororz/local-dream/releases)
+
+- [阅读](https://github.com/HapeLee/legado-with-MD3/releases)
+
+- [番茄免费小说](https://www.changdunovel.com/)
+
+- [腾讯动漫](https://ac.qq.com/)
+
+- [快看漫画](https://www.kkmh.com/webs/download)
+
+## 视频直播
+
+- [哔哩哔哩](https://app.bilibili.com/)
+
+- [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+
+- [抖音](https://www.douyin.com/)
+
+- [红果免费短剧](https://novelquickapp.com/)
+
+- [Tiktok](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically)
+
+- Tiktok Plugin
+
+- [斗鱼](https://www.douyu.com/client)
+
+- [虎牙直播](https://www.huya.com/download/)
+
+- 动漫共和国
+
+- Lanerc
+
+- [Animeko](https://github.com/open-ani/animeko/releases)
+
+## 无分组
+
+- [小米计算器](https://play.google.com/store/apps/details?id=com.miui.calculator)
+
+- [支付宝](https://mobile.alipay.com/index.htm)
+
+## 游戏
+
+- [异环](https://yh.wanmei.com/)
+
+- [Last War](https://www.lastwar.com/)
+
+- [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community)
+
+- [完美世界电竞](https://app.pwesports.cn/)
+
+- [网易BUFF](https://buff.163.com/app/)
+
+- [小黑盒](https://www.xiaoheihe.cn/home)
+
+- [TapTap](https://www.taptap.com/mobile)
+
+- [NGA](https://app.nga.cn/)
+
+## 安全
+
+- [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator)
+
+- [QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_index?id=index)
+
+- [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+
+- [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
+
+## 平台
+
+- [X(Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
+
+- [Github](https://github.com/mobile)
+
+- [微博](https://c.weibo.cn/)
+
+- [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
+
+- [小红书](https://www.xiaohongshu.com/download)
+
+- [知乎](https://www.zhihu.com/app/)
+
+## 存储下载
+
+- [百度网盘](https://pan.baidu.com/download)
+
+- [YTDLnis](https://github.com/deniscerri/ytdlnis/releases)
+
+- [迅雷](https://mobile.xunlei.com/)
+
+## 出行
+
+- [高德地图](https://mobile.amap.com/)
+
+- [百度地图](https://map.baidu.com/zt/client/index/)
+
+- [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+
+- [交管 12123](https://122.gov.cn/)
+
+- [吉利汽车](https://www.geely.com/)
+
+- [懂车帝](https://www.dongchedi.com/)
+
+## 购物
+
+- [京东](https://www.jd.com/)
+
+- [淘宝](https://market.m.taobao.com/app/fdilab/download-page/main/index.html)
+
+- [拼多多](https://www.pinduoduo.com/home/download/)
+
+- [闲鱼](https://2.taobao.com/)
+
+- [爱回收](https://www.aihuishou.com/)
+
+- [转转](https://www.zhuanzhuan.com/)
+
+- [慢慢买](https://tool.manmanbuy.com/)
+
+- [欧易](https://www.okx.com/zh-hans/download)
+
+- [PokePay](https://pokepay.cc/appdown.html)
+
+## Root
+
+- [Magisk](https://github.com/topjohnwu/Magisk)
+
+- [Dirty Sepolicy](https://github.com/LSPosed/DirtySepolicy/releases)、[Ruru](https://github.com/byxiaorun/Ruru/releases)
+
+- [【Magisk Module】Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
+
+- ~~[【Magisk Module】Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)~~
+
+- ~~[【Magisk Module】Unlock CN GMS](https://github.com/fei-ke/unlock-cn-gms)~~
+
+- ~~[【Magisk Module】Always Trust User Certs](https://github.com/NVISOsecurity/MagiskTrustUserCerts)~~、~~[【Magisk Module】MoveCertificate](https://github.com/ys1231/MoveCertificate)~~
+
+- [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/releases)
+
+- ~~[【LSPosed Module】CorePatch](https://github.com/LSPosed/CorePatch/releases)~~
+
+- [【LSPosed Module】Enable Screenshot](https://github.com/LSPosed/DisableFlagSecure/releases)
+
+- ~~[【LSPosed Module】SSL KiLLER](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer)~~
+
+- ~~[【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook)~~
+
+- [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting)
+
+- [GKD](https://github.com/gkd-kit/gkd/releases/)
+
+- [MT 管理器](https://bbs.binmt.cc/forum-2-1.html)
+
+- [KsuWebUI](https://github.com/adivenxnataly/KsuWebUI/releases) 仅还原挂载、使用匿名内存、使用Zygisk Next链接器(实验性)
+
+## AI
+
+https://arena.ai/leaderboard/text
+
+https://www.superclueai.com/homepage
+
+https://parallax.zzz.sd/
+
+https://agi.safe.ai/
+
+热门AI锐评：
+
+【最强】Claude ⭐⭐⭐
+
+【性价比之王】DeepSeek ⭐⭐⭐
+
+【性价比】ChatGPT ⭐⭐
+
+【性价比Claude】GLM ⭐⭐
+
+【开源之王】千问 ❤️❤️
+
+【静态知识搜索/Google】Gemini ❤️
+
+【有待观察】Kimi ⏳⏳
+
+【有待观察】Grok ⏳
+
+【静态知识搜索/抖音】豆包 👧
+
+- [RikkaHub](https://github.com/rikkahub/rikkahub/releases)
+
+- [即梦AI](https://jimeng.jianying.com/)
+
+## 外卖
+
+- [淘宝闪购](https://www.ele.me/waimai)
+
+- [美团](https://i.meituan.com/mobile/down/meituan)
+
+## 应用商店
+
+- [Google Play Store](https://www.apkmirror.com/apk/google-inc/google-play-store/)
+
+- 小米应用商店
+
+- [酷安](https://www.coolapk.com/apk/com.coolapk.market)
+
+## 工具
+
+- [ZArchiver Pro](https://www.423down.com/6027.html)
+
+- ~~[DeepL](https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator)~~
+
+- [Next Player](https://github.com/anilbeesetti/nextplayer/releases)
+
+- [WPS](https://mo.wps.cn/pc-app/office-android.html)
+
+- [搜狗输入法](https://pinyin.cn/)
+
+- [LocalSend](https://github.com/localsend/localsend/releases)
+
+- [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox)
+
+## Network
+
+- [v2rayNG](https://github.com/2dust/v2rayNG/releases)
+
+- [VPNHotspot](https://github.com/Mygod/VPNHotspot/releases)
+
+- [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)
+
+- ~~[ServerBox](https://github.com/lollipopkit/flutter_server_box)~~
+
+- [UU远程](https://uuyc.163.com/)
+
+- [UU加速器](https://uu.163.com/)
+
+## 即时通信
+
+- [QQ](https://im.qq.com/download)
+
+- [微信](https://weixin.qq.com/)
+
+- [Telegram](https://telegram.org/android)
+
+- [钉钉](https://www.dingtalk.com/download)
+
+- [Discord](https://play.google.com/store/apps/details?id=com.discord)
+
+## 无分组
+
+- [Folo](https://github.com/RSSNext/Folo/releases)
+
+## 系统工具
+
+- [QQ邮箱](https://app.mail.qq.com/)
+
+- 文件管理
+
+- 日历
+
+- 相册
+
+- 设置
+
+- 主题商店
+
+- 手机管家
+
+- [万能遥控](https://play.google.com/store/apps/details?id=com.duokan.phone.remotecontroller)
+
+- 天气
+
+- 时钟
+
+- 指南针
+
+- AI扫描
+
+- 录音机
+
+- 浏览器
+
+- 服务与反馈
+
+- [米家](https://g.home.mi.com/views/download-mihome.html)
+
+- 密码
+
+## 无分组
+
+- [网易云音乐](https://music.163.com/#/download)
+
+## 底栏工具
+
+- 电话
+
+- 短信
+
+- 笔记
+
+- [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
+
+- 相机
+
+## 营业厅
+
+- [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
+
+- [中国建设银行](https://appgallery.huawei.com/app/C10092701)
+
+- [中国电信](https://www.189.cn/client/)
+
+- ~~[浙里办](https://www.zjzwfw.gov.cn/col/col1229640638/index.html)~~
+
+- ~~[掌上12333](http://www.12333.gov.cn/ggfwstatic/download/app.html)~~
+
+- ~~[国家医保服务平台](https://app.gjzwfw.gov.cn/fwmhapp/downloadApp/android.html)~~
+
+## 3D打印
+
+- [Bambu Handy](https://bambulab.cn/zh-cn/download)
+
+- [KIRI Engine](https://play.google.com/store/apps/details?id=com.kiriengine.app)
+
+## 无分组
+
+- [多邻国](https://www.duolingo.com/)
+
+## 其他
+
+- [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
+
+- 可视护理
+
+- [声级计](https://play.google.com/store/apps/details?id=com.ktwapps.soundmeter)
+
+- [红宝书](https://github.com/ceasarXuu/Hongbaoshu/releases)
