@@ -645,7 +645,8 @@ options
 - [Npcap](https://npcap.com/#download)
 - [FileZilla Pro](https://www.423down.com/10189.html)
 - [Codex](https://openai.com/zh-Hans-CN/codex/)
-- [omp](https://github.com/can1357/oh-my-pi)
+- [OpenCode](https://opencode.ai/download)
+- [pi](https://pi.dev/)
 - [magpie](https://github.com/yetone/magpie/releases)
 
 ## 开始菜单布局
