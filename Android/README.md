@@ -258,21 +258,21 @@ https://agi.safe.ai/
 
 【最强】Claude ⭐⭐⭐
 
-【性价比之王】DeepSeek ⭐⭐⭐
+【性价比与开源之王】DeepSeek ⭐⭐⭐
 
 【性价比】ChatGPT ⭐⭐
 
-【性价比Claude】GLM ⭐⭐
+【不上不下卡在这了】GLM ⭐⭐
 
-【开源之王】千问 ❤️❤️
+【赚吆喝的】千问 ❤️❤️
 
-【静态知识搜索/Google】Gemini ❤️
+【知识检索/Google生态】Gemini ❤️
 
-【有待观察】Kimi ⏳⏳
+【昙花一现】Kimi ⏳⏳
 
 【有待观察】Grok ⏳
 
-【静态知识搜索/抖音】豆包 👧
+【知识检索/抖音生态】豆包 👧
 
 - [RikkaHub](https://github.com/rikkahub/rikkahub/releases)
 
