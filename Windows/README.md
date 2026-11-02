@@ -645,6 +645,7 @@ options
 - [Npcap](https://npcap.com/#download)
 - [FileZilla Pro](https://www.423down.com/10189.html)
 - [Codex](https://openai.com/zh-Hans-CN/codex/)
+- [fastctx](https://github.com/yc-duan/fastctx)
 - [OpenCode](https://opencode.ai/download)
 - [pi](https://pi.dev/)
 - [magpie](https://github.com/yetone/magpie/releases)
