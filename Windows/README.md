@@ -616,7 +616,7 @@ options
 
 - [DiskGenius](https://www.423down.com/8073.html)
 
-## Developer Tools
+## Developer Tools (Software)
 
 - [Temurin](https://adoptium.net/zh-CN/temurin/releases/?os=windows&arch=x64&package=jdk&version=21)
 - [Windows Terminal](https://github.com/microsoft/terminal/releases)
@@ -631,14 +631,6 @@ options
 - [PowerShell](https://github.com/PowerShell/PowerShell/releases)
 - [MinGW-W64](https://github.com/niXman/mingw-builds-binaries/releases)
 - ~~[DBeaver](https://dbeaver.io/download/)~~、~~[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)~~、[DBX](https://github.com/t8y2/dbx/releases)
-- [STM32CubeMX](https://www.st.com.cn/zh/development-tools/stm32cubemx.html)
-- [Keil uVision 5](https://www.keil.com/update/rvmdk.asp)
-- [Arm Compiler 5](https://developer.arm.com/downloads/view/ACOMP5)
-- [J-Link](https://www.segger.com/downloads/jlink/)
-- [Altium Designer](https://www.yutu.cn/softhtml/showsoft_6730.html)、[KiCad](https://github.com/KiCad/kicad-source-mirror/releases/)、[嘉立创EDA](https://lceda.cn/)
-- ~~[PulseView](https://github.com/sigrokproject/pulseview/releases)~~、[saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)
-- [SolidWorks](https://www.423down.com/16519.html)、[FreeCAD](https://github.com/FreeCAD/FreeCAD/releases)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(迈迪)](https://www.global-dsc.cn/dggj)、[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)
-- [Bambu Studio](https://bambulab.cn/zh-cn/download/studio)
 - [Wireshark](https://www.wireshark.org/#download)
 - [ProxyPin](https://github.com/wanghongenpin/proxypin)、[mitmproxy(pip)](https://github.com/mitmproxy/mitmproxy) `pip3 install --upgrade git+https://github.com/mitmproxy/mitmproxy.git` 、[Fiddler Classic](https://www.telerik.com/download/fiddler)、[Reqable](https://reqable.com/en-US/download/)
 - [Npcap](https://npcap.com/#download)
@@ -649,11 +641,33 @@ options
 - [pi](https://pi.dev/)
 - [magpie](https://github.com/yetone/magpie/releases)
 
-## Developer Tools(Hardware)
+## Developer Tools (Hardware)
+
+#### 电子开发
+
+- [STM32CubeMX](https://www.st.com.cn/zh/development-tools/stm32cubemx.html)
+- [Keil uVision 5](https://www.keil.com/update/rvmdk.asp)
+- [Arm Compiler 5](https://developer.arm.com/downloads/view/ACOMP5)
+- [J-Link](https://www.segger.com/downloads/jlink/)
+- [Altium Designer](https://www.yutu.cn/softhtml/showsoft_6730.html)、[KiCad](https://github.com/KiCad/kicad-source-mirror/releases/)、[嘉立创EDA](https://lceda.cn/)
+- ~~[PulseView](https://github.com/sigrokproject/pulseview/releases)~~、[saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)
+- [SolidWorks](https://www.423down.com/16519.html)、[FreeCAD](https://github.com/FreeCAD/FreeCAD/releases)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(迈迪)](https://www.global-dsc.cn/dggj)、[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)
+- [Bambu Studio](https://bambulab.cn/zh-cn/download/studio)
+
+#### 各类芯片烧录软件、串口驱动、串口调试软件
 
 - [APT ISP2上位机](https://www.aptchip.com/list_137)
 - [剑池CDK](https://www.xrvm.cn/community/download?versionId=4573485613671583744)
 - [剑池FlashProgrammer工具](https://www.xrvm.cn/community/download?versionId=4425633167990394880)
+- [FlyMcu](http://www.mcuisp.com/)
+- [J-Link](https://www.segger.com/downloads/jlink/)
+- [AiCube-ISP](https://www.stcai.com/gjrj)
+- [比亚迪MP100](https://www.bydmicro.com/cn/IC.html)
+- [SuperCom](https://github.com/SuperStudio/SuperCom/releases)
+- [D2XX](https://ftdichip.com/drivers/d2xx-drivers/)
+- [CH340](https://www.wch.cn/downloads/category/67.html)
+- [CP210x](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers)
+- [PL23XX](https://www.prolific.com.tw/)
 
 ## 开始菜单布局
 
