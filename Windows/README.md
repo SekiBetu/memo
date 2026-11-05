@@ -645,13 +645,13 @@ options
 
 #### 电子开发
 
+- [SolidWorks](https://www.423down.com/16519.html)、[FreeCAD](https://github.com/FreeCAD/FreeCAD/releases)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(迈迪)](https://www.global-dsc.cn/dggj)、[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)
+- [Altium Designer](https://www.yutu.cn/softhtml/showsoft_6730.html)、[KiCad](https://github.com/KiCad/kicad-source-mirror/releases/)、[嘉立创EDA](https://lceda.cn/)
 - [STM32CubeMX](https://www.st.com.cn/zh/development-tools/stm32cubemx.html)
 - [Keil uVision 5](https://www.keil.com/update/rvmdk.asp)
 - [Arm Compiler 5](https://developer.arm.com/downloads/view/ACOMP5)
 - [J-Link](https://www.segger.com/downloads/jlink/)
-- [Altium Designer](https://www.yutu.cn/softhtml/showsoft_6730.html)、[KiCad](https://github.com/KiCad/kicad-source-mirror/releases/)、[嘉立创EDA](https://lceda.cn/)
 - ~~[PulseView](https://github.com/sigrokproject/pulseview/releases)~~、[saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)
-- [SolidWorks](https://www.423down.com/16519.html)、[FreeCAD](https://github.com/FreeCAD/FreeCAD/releases)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(迈迪)](https://www.global-dsc.cn/dggj)、[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)
 - [Bambu Studio](https://bambulab.cn/zh-cn/download/studio)
 
 #### 各类芯片烧录软件、串口驱动、串口调试软件、Keil支持包
