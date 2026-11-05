@@ -632,7 +632,7 @@ options
 - [MySQL](https://dev.mysql.com/downloads/windows/installer/5.7.html)
 - [PowerShell](https://github.com/PowerShell/PowerShell/releases)
 - [MinGW-W64](https://github.com/niXman/mingw-builds-binaries/releases)
-- [DBeaver](https://dbeaver.io/download/)、[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)
+- [DBeaver](https://dbeaver.io/download/)、[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBX](https://github.com/t8y2/dbx/releases)
 - [STM32CubeMX](https://www.st.com.cn/zh/development-tools/stm32cubemx.html)
 - [Keil uVision 5](https://www.keil.com/update/rvmdk.asp)
 - [Arm Compiler 5](https://developer.arm.com/downloads/view/ACOMP5)
