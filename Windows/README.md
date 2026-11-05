@@ -604,7 +604,7 @@ options
 - [Sysinternals](https://learn.microsoft.com/zh-cn/sysinternals/downloads/)
 - [ICAT](https://www.nvidia.cn/geforce/technologies/icat/)
 
-#### Hardware
+#### Device Information
 
 - [AIDA64](https://www.423down.com/887.html)
 - [FurMark](https://geeks3d.com/furmark/downloads/)
@@ -648,6 +648,12 @@ options
 - [OpenCode](https://opencode.ai/download)
 - [pi](https://pi.dev/)
 - [magpie](https://github.com/yetone/magpie/releases)
+
+## Developer Tools(Hardware)
+
+- [APT ISP2上位机](https://www.aptchip.com/list_137)
+- [剑池CDK](https://www.xrvm.cn/community/download?versionId=4573485613671583744)
+- [剑池FlashProgrammer工具](https://www.xrvm.cn/community/download?versionId=4425633167990394880)
 
 ## 开始菜单布局
 
