@@ -677,8 +677,9 @@ options
 - [新唐](https://www.nuvoton.com/tool-and-software/software-tool/programmer-tool/)
 - [英飞凌](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.infineonmemtool)
 - [正点原子](http://www.openedv.com/docs/tool/programmer/p100V2.html)
-- [中微](https://www.mcu.com.cn/support-software.html)
-- [中颖](https://www.sinowealth.com/seach?type_id=68&a_v_type=1)
+
+- [中微(含支持包)](https://www.mcu.com.cn/support-software.html)
+- [中颖(含支持包)](https://www.sinowealth.com/seach?type_id=68&a_v_type=1)
 
 - [Keil支持包](https://www.keil.arm.com/devices/)
 - [STM32F103C8(STM32F1xx_DFP)](https://www.keil.arm.com/packs/stm32f1xx_dfp-keil/boards/)
