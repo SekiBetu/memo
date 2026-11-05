@@ -574,7 +574,7 @@ options
 - [MPV](https://github.com/hooke007/MPV_lazy)
 - [ImageGlass](https://github.com/d2phap/ImageGlass/releases)
 - [百度云](http://pan.baidu.com/download)
-- [Wise Care 365](https://www.423down.com/3471.html)
+- [Wise Care 365](https://www.423down.com/3471.html)、[PrivaZer](https://privazer.com/en/download.php)
 - [Telegram](https://telegram.org/)
 - [WinMerge](https://github.com/WinMerge/winmerge/releases)
 - [LocalSend](https://github.com/localsend/localsend/releases)
