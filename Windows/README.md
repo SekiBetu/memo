@@ -654,7 +654,7 @@ options
 - [SolidWorks](https://www.423down.com/16519.html)、[FreeCAD](https://github.com/FreeCAD/FreeCAD/releases)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(迈迪)](https://www.global-dsc.cn/dggj)、[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)
 - [Bambu Studio](https://bambulab.cn/zh-cn/download/studio)
 
-#### 各类芯片烧录软件、串口驱动、串口调试软件
+#### 各类芯片烧录软件、串口驱动、串口调试软件、Keil支持包
 
 - [APT ISP2上位机](https://www.aptchip.com/list_137)
 - [剑池CDK](https://www.xrvm.cn/community/download?versionId=4573485613671583744)
@@ -662,7 +662,7 @@ options
 - [FlyMcu(ISP)](http://www.mcuisp.com/)
 - [J-Link](https://www.segger.com/downloads/jlink/)
 - [AiCube-ISP](https://www.stcai.com/gjrj)
-- [比亚迪MP100](https://www.bydmicro.com/cn/IC.html)
+- [比亚迪](https://www.bydmicro.com/cn/IC.html)
 - [SuperCom](https://github.com/SuperStudio/SuperCom/releases)
 - [D2XX](https://ftdichip.com/drivers/d2xx-drivers/)
 - [CH340(沁恒微)](https://www.wch.cn/downloads/category/67.html)
@@ -672,13 +672,21 @@ options
 - [FreqChip(富芮坤)](https://gitee.com/YgqMars/freqchip)
 - [LuaTools(合宙)](https://docs.openluat.com/common/Luatools/)
 - [Air780E固件](https://docs.openluat.com/air780e/at/firmware/)
-- CACHIP_TOOL(锦锐/航顺)
+- CACHIP_TOOL(锦锐/航顺供应商提供，无公开下载渠道)
 - [稀微](https://www.rx-prog.com/my-account)
 - [新唐](https://www.nuvoton.com/tool-and-software/software-tool/programmer-tool/)
 - [英飞凌](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.infineonmemtool)
 - [正点原子](http://www.openedv.com/docs/tool/programmer/p100V2.html)
 - [中微](https://www.mcu.com.cn/support-software.html)
 - [中颖](https://www.sinowealth.com/seach?type_id=68&a_v_type=1)
+
+- [Keil支持包](https://www.keil.arm.com/devices/)
+- [STM32F103C8(STM32F1xx_DFP)](https://www.keil.arm.com/packs/stm32f1xx_dfp-keil/boards/)
+- [STM32F103C8(标准库)](https://www.st.com/en/embedded-software/stsw-stm32054.html)
+- [STM32F103C8(HAL库)](https://www.st.com.cn/zh/embedded-software/stm32cubef1.html)
+- [Cortex_DFP](https://www.keil.arm.com/packs/cortex_dfp-arm/boards/)
+- [NUC126LG4AE(NuMicroM0_DFP)](https://www.keil.arm.com/packs/numicrom0_dfp-nuvoton/devices/)
+- [SPC1068L](https://www.spintrol.com/index/index/product2/id/61.html)
 
 ## 开始菜单布局
 
