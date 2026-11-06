@@ -650,7 +650,7 @@ options
 - [STM32CubeMX](https://www.st.com.cn/zh/development-tools/stm32cubemx.html)
 - [Keil uVision 5](https://www.keil.com/update/rvmdk.asp)
 - [Arm Compiler 5](https://developer.arm.com/downloads/view/ACOMP5)
-- [J-Link](https://www.segger.com/downloads/jlink/)
+- [J-Link](https://www.segger.com/downloads/jlink/)、[patch](https://forum.anfulai.cn/forum.php?mod=viewthread&tid=131954&extra=page%3D1)
 - ~~[PulseView](https://github.com/sigrokproject/pulseview/releases)~~、[saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)
 - [Bambu Studio](https://bambulab.cn/zh-cn/download/studio)
 
