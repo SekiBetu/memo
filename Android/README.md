@@ -216,7 +216,7 @@ https://github.com/keiyoushi/extensions/raw/repo/index.pb
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- [Dirty Sepolicy](https://github.com/LSPosed/DirtySepolicy/releases)、[Ruru](https://github.com/byxiaorun/Ruru/releases)
+- ~~[Dirty Sepolicy](https://github.com/LSPosed/DirtySepolicy/releases)~~、~~[Ruru](https://github.com/byxiaorun/Ruru/releases)~~
 
 - [【Magisk Module】Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
 
