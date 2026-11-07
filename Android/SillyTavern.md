@@ -108,9 +108,8 @@ glm-5.3-max
 
 酒馆预设
 ```
-https://discord.com/channels/1134557553011998840/1471539565020975205 双人成行(国外模型)
-https://discord.com/channels/1134557553011998840/1475708905521811568 TG(国外+国内模型)
-https://discord.com/channels/1134557553011998840/1497544939544772609 梦境思客(国内模型轻量版)
+https://discord.com/channels/1461731450058575986/1522107777428885524 三人逆行/万象谱(Claude/Gemini/GLM)
+https://discord.com/channels/1134557553011998840/1497544939544772609 梦鲸思客(DeepSeek)
 ```
 
 其他设置
