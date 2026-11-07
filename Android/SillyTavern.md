@@ -66,16 +66,15 @@ https://github.com/Sanitised/ST-android/releases
 ```
 https://github.com/n0vi028/JS-Slash-Runner 酒馆助手
 https://github.com/zonde306/ST-Prompt-Template 提示词模版
-https://discord.com/channels/1134557553011998840/1429151492362862683 SP数据库
 ```
 
 酒馆本地生图
 ```
 https://discord.com/channels/1134557553011998840/1515044498647023706 本地生图
 https://discord.com/channels/1134557553011998840/1515044498647023706/1539304209495887972 脚本
-https://discord.com/channels/1134557553011998840/1515044498647023706/1539493803025498183 测试模版
-https://discord.com/channels/1134557553011998840/1515044498647023706/1539234880984981625 预设
 https://discord.com/channels/1134557553011998840/1515044498647023706/1520630350773223494 正则
+https://discord.com/channels/1134557553011998840/1515044498647023706/1539493803025498183 模板
+https://discord.com/channels/1134557553011998840/1515044498647023706/1559317037333876846 世界书
 https://github.com/xororz/local-dream/releases APP
 https://huggingface.co/xororz/sdxl-qnn/blob/main/illustrious_v17_dmd2_qnn2.28_8gen3.zip 模型
 
