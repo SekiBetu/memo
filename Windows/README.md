@@ -716,6 +716,7 @@ options
 - [Dark Reader](https://github.com/darkreader/darkreader/releases)
 - [cat-catch](https://github.com/xifangczy/cat-catch)
 - [Tampermonkey](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- [Lumo](https://chromewebstore.google.com/detail/lumo/cgfnadidpooocnkalljpdmelmaponefa)
 
 #### Unpinned
 
