@@ -635,12 +635,9 @@ options
 - [ProxyPin](https://github.com/wanghongenpin/proxypin)、[mitmproxy(pip)](https://github.com/mitmproxy/mitmproxy) `pip3 install --upgrade git+https://github.com/mitmproxy/mitmproxy.git` 、[Fiddler Classic](https://www.telerik.com/download/fiddler)、[Reqable](https://reqable.com/en-US/download/)
 - [Npcap](https://npcap.com/#download)
 - [FileZilla Pro](https://www.423down.com/10189.html)
-- [Codex](https://openai.com/zh-Hans-CN/codex/)
-- [fastctx](https://github.com/yc-duan/fastctx)
-- ~~[DeepSeek Harness](https://www.deepseek.com/harness/)~~
-- ~~[OpenCode](https://opencode.ai/download)~~
-- [pi](https://pi.dev/)
+- [Codex](https://openai.com/zh-Hans-CN/codex/)、~~[DeepSeek Harness](https://www.deepseek.com/harness/)~~、~~[OpenCode](https://opencode.ai/download)~~、[pi](https://pi.dev/)
 - [magpie](https://github.com/yetone/magpie/releases)
+- [fastctx](https://github.com/yc-duan/fastctx)
 
 ## Developer Tools (Hardware)
 
