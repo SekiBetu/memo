@@ -736,7 +736,6 @@ options
 - ~~[FeHelper](https://github.com/zxlie/FeHelper)~~
 - ~~[FireShot](https://chromewebstore.google.com/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)~~
 - ~~[WebRTC Leak Prevent](https://github.com/aghorler/WebRTC-Leak-Prevent)~~
-- ~~[贴吧签到助手](https://chromewebstore.google.com/detail/bpheclmhommpomjoeoifcggjmdelgaoj)~~
 
 <details><summary>字体及美化</summary>
 
