@@ -540,7 +540,7 @@ options
 
 ## Software List(Indispensable)
 
-- [Ventoy](https://github.com/ventoy/Ventoy/releases)、[UltraISO](https://www.423down.com/1397.html)、[PowerISO](https://www.423down.com/10409.html)、[rufus](https://github.com/pbatard/rufus/releases)
+- [Ventoy](https://github.com/ventoy/Ventoy/releases)、~~[UltraISO](https://www.423down.com/1397.html)~~、~~[PowerISO](https://www.423down.com/10409.html)~~、~~[rufus](https://github.com/pbatard/rufus/releases)~~
 - [WinNTSetup](https://msfn.org/board/topic/149612-winntsetup)
 - [微软运行库](https://github.com/abbodi1406/vcredist/releases)、[Official](https://docs.microsoft.com/zh-CN/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - [Microsoft Edge WebView2](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2?form=MA13LH#download)
@@ -585,7 +585,7 @@ options
 
 ## Software List(Optional)
 
-- [Adobe software series](https://weibo.com/1112829033)、[PhotoCraft](https://github.com/storytold/photocraft/releases)、[Photon Studio](https://tenzen.studio/photon/)
+- ~~[Adobe software series](https://weibo.com/1112829033)~~、~~[PhotoCraft](https://github.com/storytold/photocraft/releases)~~、[Photon Studio](https://tenzen.studio/photon/)
 - [aria2](https://github.com/aria2/aria2/releases)
 - [WinSW](https://github.com/winsw/winsw/releases)
 - [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
@@ -621,7 +621,7 @@ options
 - [Temurin](https://adoptium.net/zh-CN/temurin/releases/?os=windows&arch=x64&package=jdk&version=21)
 - [Windows Terminal](https://github.com/microsoft/terminal/releases)
 - ~~[Tabby](https://github.com/Eugeny/tabby/releases)~~、[Motty](https://github.com/t8y2/motty/releases)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)、[JetBrains Mono](https://www.jetbrains.com/lp/mono/)、[patch](https://zhile.io/)、[patch2](https://3.jetbra.in)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)、[patch](https://zhile.io/)、[patch2](https://3.jetbra.in)
 - [git](https://github.com/git-for-windows/git/releases)
 - [jadx](https://github.com/skylot/jadx/releases)、[rea](https://github.com/morluto/rea)
 - [Node.js](https://nodejs.org/zh-cn/download/)
@@ -632,7 +632,7 @@ options
 - [MinGW-W64](https://github.com/niXman/mingw-builds-binaries/releases)
 - ~~[DBeaver](https://dbeaver.io/download/)~~、~~[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)~~、[DBX](https://github.com/t8y2/dbx/releases)
 - [Wireshark](https://www.wireshark.org/#download)
-- [ProxyPin](https://github.com/wanghongenpin/proxypin)、[mitmproxy(pip)](https://github.com/mitmproxy/mitmproxy) `pip3 install --upgrade git+https://github.com/mitmproxy/mitmproxy.git` 、[Fiddler Classic](https://www.telerik.com/download/fiddler)、[Reqable](https://reqable.com/en-US/download/)
+- [ProxyPin](https://github.com/wanghongenpin/proxypin)、~~[mitmproxy(pip)](https://github.com/mitmproxy/mitmproxy) `pip3 install --upgrade git+https://github.com/mitmproxy/mitmproxy.git` ~~、~~[Fiddler Classic](https://www.telerik.com/download/fiddler)~~、~~[Reqable](https://reqable.com/en-US/download/)~~
 - [Npcap](https://npcap.com/#download)
 - [FileZilla Pro](https://www.423down.com/10189.html)
 - [Codex](https://openai.com/zh-Hans-CN/codex/)、[DeepSeek Harness](https://www.deepseek.com/harness/)、~~[OpenCode](https://opencode.ai/download)~~、~~[pi](https://pi.dev/)~~
