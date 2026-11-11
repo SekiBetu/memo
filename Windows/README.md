@@ -658,7 +658,6 @@ options
 - [剑池CDK](https://www.xrvm.cn/community/download?versionId=4573485613671583744)
 - [剑池烧录工具](https://www.xrvm.cn/community/download?versionId=4425633167990394880)
 - [FlyMcu(ISP)](http://www.mcuisp.com/)
-- [J-Link](https://www.segger.com/downloads/jlink/)
 - [AiCube-ISP](https://www.stcai.com/gjrj)
 - [比亚迪](https://www.bydmicro.com/cn/IC.html)
 - [SuperCom](https://github.com/SuperStudio/SuperCom/releases)
