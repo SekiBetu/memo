@@ -643,7 +643,7 @@ options
 
 #### 电子开发
 
-- [SolidWorks](https://www.423down.com/16519.html)、[FreeCAD](https://github.com/FreeCAD/FreeCAD/releases)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(迈迪)](https://www.global-dsc.cn/dggj)、[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)
+- [SolidWorks](https://www.423down.com/16519.html)、[FreeCAD](https://github.com/FreeCAD/FreeCAD/releases)、[RealViewOn](https://github.com/ianalexis/Real-View-On-Releases/releases)、[大国工匠(迈迪)](https://www.global-dsc.cn/dggj)、~~[沐风工具箱](https://www.mfcad.com/solidworks/mufenggongjuxiang/)~~
 - [Altium Designer](https://www.yutu.cn/softhtml/showsoft_6730.html)、[KiCad](https://github.com/KiCad/kicad-source-mirror/releases/)、[嘉立创EDA](https://lceda.cn/)
 - [STM32CubeMX](https://www.st.com.cn/zh/development-tools/stm32cubemx.html)
 - [Keil uVision 5](https://www.keil.com/update/rvmdk.asp)
@@ -667,6 +667,7 @@ options
 - [PL23XX](https://www.prolific.com.tw/)
 - [ESBurner(东软)](https://www.essemi.com/index/product/detail?id=776)
 - [FreqChip(富芮坤)](https://gitee.com/YgqMars/freqchip)
+- [HOLTEK(合泰)](https://www.holtek.com.cn/page/programmer_list/p_32)
 - [LuaTools(合宙)](https://docs.openluat.com/common/Luatools/)
 - [Air780E固件](https://docs.openluat.com/air780e/at/firmware/)
 - CACHIP_TOOL(锦锐/航顺供应商提供，无公开下载渠道)
