@@ -649,7 +649,7 @@ options
 - [Keil uVision 5](https://www.keil.com/update/rvmdk.asp)
 - [Arm Compiler 5](https://developer.arm.com/downloads/view/ACOMP5)
 - [J-Link](https://www.segger.com/downloads/jlink/)、[patch](https://forum.anfulai.cn/forum.php?mod=viewthread&tid=131954&extra=page%3D1)
-- ~~[PulseView](https://github.com/sigrokproject/pulseview/releases)~~、[saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)
+- ~~[PulseView](https://github.com/sigrokproject/pulseview/releases)~~、[Saleae Logic 2](https://www.saleae.com/zh-hans/pages/downloads)
 - [Bambu Studio](https://bambulab.cn/zh-cn/download/studio)
 
 #### 各类芯片烧录软件、串口驱动、串口调试软件、Keil支持包
