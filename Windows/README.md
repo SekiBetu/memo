@@ -686,6 +686,7 @@ options
 - [Cortex_DFP](https://www.keil.arm.com/packs/cortex_dfp-arm/boards/)
 - [NUC126LG4AE(NuMicroM0_DFP)](https://www.keil.arm.com/packs/numicrom0_dfp-nuvoton/devices/)
 - [SPC1068L](https://www.spintrol.com/index/index/product2/id/61.html)
+- [华芯微特](https://bbs.synwit.cn/forum.php?mod=viewthread&tid=3&extra=page%3D1)
 
 ## 开始菜单布局
 
