@@ -549,7 +549,7 @@ options
 - [搜狗输入法](https://pinyin.sogou.com/)
 - [7-Zip](https://www.7-zip.org/)、[NanaZip](https://github.com/M2Team/NanaZip/releases)
 - [Chrome](https://www.google.com/intl/zh-CN/chrome/browser/thankyou.html?platform=win64&standalone=1&statcb=1&installdataindex=defaultbrowser)、[Edge](https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)、[Winc](https://github.com/DEEIX-AI/Winc/releases)
 - [火绒](https://www.huorong.cn/person5.html)
 - [Logitech G HUB](https://support.logi.com/hc/zh-cn/articles/360025298133)
 - [Driver Booster](https://www.423down.com/10421.html)
