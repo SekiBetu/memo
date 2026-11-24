@@ -636,6 +636,7 @@ options
 - [Npcap](https://npcap.com/#download)
 - [FileZilla Pro](https://www.423down.com/10189.html)
 - [Codex](https://openai.com/zh-Hans-CN/codex/)、[Codex CLI](https://github.com/openai/codex)、~~[OpenChamber](https://github.com/openchamber/openchamber/releases)~~、~~[pi](https://pi.dev/)~~、~~[OpenCode](https://opencode.ai/download)~~、~~[DeepSeek Harness](https://www.deepseek.com/harness/)~~
+- ~~[T3 Code](https://github.com/pingdotgg/t3code)~~、~~[Codeg](https://github.com/spacering-net/codeg/releases)~~
 - [magpie](https://github.com/yetone/magpie/releases)
 - [fastctx](https://github.com/yc-duan/fastctx)
 
