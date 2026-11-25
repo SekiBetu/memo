@@ -100,14 +100,13 @@ low quality, bad anatomy, ugly, deformed, distorted, blurry, noisy, artifacts, l
 
 推荐模型
 ```
-claude-opus-4-6
-deepseek-v4-pro
-glm-5.3-max
+Gemini 4 Hydrogen
+DeepSeek-V4.1-Flash
 ```
 
 酒馆预设
 ```
-https://discord.com/channels/1461731450058575986/1522107777428885524 三人逆行/万象谱(Claude/Gemini/GLM)
+https://discord.com/channels/1134557553011998840/1402584661208858635 小猫之神(Gemini)
 https://discord.com/channels/1134557553011998840/1497544939544772609 梦鲸思客(DeepSeek)
 ```
 
